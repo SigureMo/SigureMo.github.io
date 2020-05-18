@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "46a82932f2e6ae73dc3c479d2cd78231"
+    "revision": "b72e86f4c782bbea235bd66f86cb8842"
   },
   {
     "url": "about.html",
-    "revision": "fddfff73b7d2f13b7050f3c129318dff"
+    "revision": "242cb7a1794cbb42f0095542263d7016"
   },
   {
     "url": "assets/css/0.styles.4b4222a6.css",
@@ -1074,8 +1074,8 @@ self.__precacheManifest = [
     "revision": "37ef9a89489d32ea2e18095bb8f13750"
   },
   {
-    "url": "assets/js/app.c177b168.js",
-    "revision": "738d6c7892290a950b3a80832b26b3c3"
+    "url": "assets/js/app.2d4eccef.js",
+    "revision": "825f94395183ed3a21aa3b6fd581ab15"
   },
   {
     "url": "assets/js/vendors~flowchart.ca76c415.js",
@@ -1119,7 +1119,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b188db5dd0bd53bcddbd700fe236c7b8"
+    "revision": "e833cff117506461579b358069855efd"
   },
   {
     "url": "info_bg.jpg",
@@ -1127,279 +1127,279 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/09/09/c-and-pointer.html",
-    "revision": "173a45db560c2832791f5406c103bce5"
+    "revision": "0a55dd52094235b8d58ec15f5737ebb3"
   },
   {
     "url": "posts/2018/09/16/git-commit.html",
-    "revision": "9efbe6820c992617ffea60243a2c6704"
+    "revision": "cf5be28833fcaa6338c1073c00042f0b"
   },
   {
     "url": "posts/2018/10/01/cmder.html",
-    "revision": "ae7a40470ef1c1407e16d6b0351925c3"
+    "revision": "bced6c5bc53d500764d68d89e0bf231a"
   },
   {
     "url": "posts/2018/10/01/diskpart.html",
-    "revision": "26798958daecf3e567c87b6e3ba03e1f"
+    "revision": "9ae78cd4d80a3d3564a157267ec20575"
   },
   {
     "url": "posts/2018/10/01/principle-of-metal-plastic-working.html",
-    "revision": "a2169f3206c6398dc6435ed5bb1fc7b5"
+    "revision": "1284d67acba67cca080a0bd88c82acb1"
   },
   {
     "url": "posts/2018/10/14/deep-learning.html",
-    "revision": "a201a87cf6f2865854380bffdf4ffde0"
+    "revision": "3f0e14494f790b682b084632e49d8aa9"
   },
   {
     "url": "posts/2018/11/21/solid-state-phase-transformation.html",
-    "revision": "00dade78565541dba2ab43517f21d8ec"
+    "revision": "236bd512991110742f215b4afc4861ba"
   },
   {
     "url": "posts/2019/02/28/operating-system.html",
-    "revision": "8747d1bf1a47e9f37e1f9bab6d0bd482"
+    "revision": "28cfc14027bfd54a975c528af77a6e02"
   },
   {
     "url": "posts/2019/04/25/discrete-mathematics.html",
-    "revision": "63d447c980196359c9fd982e33702e95"
+    "revision": "73f275588746df201eddc4eaed9a94dd"
   },
   {
     "url": "posts/2019/05/19/katex-index.html",
-    "revision": "7ab564248e23ae99be55ec9d350cbdbb"
+    "revision": "24d83afcabd422883d19a38e33009cda"
   },
   {
     "url": "posts/2019/07/01/maxout.html",
-    "revision": "59ff09ca0d62561bf615b09cc2e97681"
+    "revision": "09c75375af26f891a98824548c6f601d"
   },
   {
     "url": "posts/2019/08/16/hello-gcn.html",
-    "revision": "b95e2c3b1128e39e860e9b96647a29cd"
+    "revision": "88d2239f377511a3df1866da801bc98d"
   },
   {
     "url": "posts/2019/08/17/build-blog-by-vuepress.html",
-    "revision": "8af458c309928b166f399b9140827664"
+    "revision": "c7c103726b52a5321b1b9acb6dd95740"
   },
   {
     "url": "posts/2019/08/17/links-in-blog.html",
-    "revision": "f1595dcf0f48e3f3c41897d995f20628"
+    "revision": "eb9aa6279cc6e5e8490fd7cb95560c91"
   },
   {
     "url": "posts/2019/08/18/bilili.html",
-    "revision": "779946aa295b626395e27f820414e620"
+    "revision": "a1c5eb77f93da9ade16de189a1d65f41"
   },
   {
     "url": "posts/2019/08/21/data-structures-and-algorithms.html",
-    "revision": "89d00272aa1d75f93bf7541ab899fffc"
+    "revision": "6d92b73182db2bc1bb97edb2d7ef22bc"
   },
   {
     "url": "posts/2019/08/25/course-crawler.html",
-    "revision": "fdc50c9f411d00dd0182b001720b7e03"
+    "revision": "d839d48e8a2a7403af5ab050dcf362b8"
   },
   {
     "url": "posts/2019/09/11/vscode-plugins.html",
-    "revision": "8b1f77d423a5d61eecbd67d6f0edc91d"
+    "revision": "8c73c3e178a82b93f6a4b2ce3209e22b"
   },
   {
     "url": "posts/2019/09/18/computer-network.html",
-    "revision": "2ba03350f969d3a3def368ca276004f2"
+    "revision": "66f51a89c42e1bcde33c21944cf5106a"
   },
   {
     "url": "posts/2019/10/04/c-to-plusplus.html",
-    "revision": "2a958686defe5bfac680b2c962f4b3ec"
+    "revision": "7826db25e96f3f9e5ee16f018d630e4f"
   },
   {
     "url": "posts/2019/10/21/beautify-your-vuepress-blog.html",
-    "revision": "562b65149ca98be9ebedfab890d834b8"
+    "revision": "e52f321f23f6e1ee21a458635c3342e3"
   },
   {
     "url": "posts/2019/10/26/git-collaboration.html",
-    "revision": "e875a730c72b77d82b46a32b92cbc757"
+    "revision": "ea7b733a8d2485fc463975e7e41f6711"
   },
   {
     "url": "posts/2019/11/10/online-tools.html",
-    "revision": "f10fff2cfca885a360b191f1526bc009"
+    "revision": "fa4df454fd6eb7a8b8fffbf9996a33cf"
   },
   {
     "url": "posts/2019/11/17/principles-of-computer-composition.html",
-    "revision": "9969707d835d2f354c4750dcf6bf650b"
+    "revision": "d385b3702e6a8407b76cd6171b553667"
   },
   {
     "url": "posts/2020/01/18/residual.html",
-    "revision": "43e94b7c31aa8600c52f2a37958ff625"
+    "revision": "741c6349f6e1ea1778463a9b8cd630a1"
   },
   {
     "url": "posts/2020/03/06/install-software-from-source.html",
-    "revision": "14d75821ecd5b04bdfe757d2299b2930"
+    "revision": "74623ba401c69a25124391b9fc7bafc8"
   },
   {
     "url": "posts/2020/03/06/jupyter-lab.html",
-    "revision": "9fa288d3f11b3c6ad66dbacf7dcd9011"
+    "revision": "b4c5cf42368b4186a127abe5ca50bab6"
   },
   {
     "url": "posts/2020/03/22/simulate-anneal.html",
-    "revision": "b8469b272b08d98d5df3a7c896d53d53"
+    "revision": "2014d5e56b0642d15c47aabbe28bbc72"
   },
   {
     "url": "posts/2020/04/06/first-experience-for-manjaro.html",
-    "revision": "031ef176064093cff067b8f7e8888ed7"
+    "revision": "2c2dc0c326143a454a2e013d401153d6"
   },
   {
     "url": "posts/2020/04/08/tensorflow-learning-phase-setting.html",
-    "revision": "29fdaab937644057b5baa91c5a28863d"
+    "revision": "ba7f5351806737d50dc33aba98e0d346"
   },
   {
     "url": "posts/2020/04/16/pal-huanlijing.html",
-    "revision": "b5c5c554d5d87f54a6caa8c0b22aa66f"
+    "revision": "11e5a55637e51cc2f79205ba683182d8"
   },
   {
     "url": "posts/2020/04/20/conference-location.html",
-    "revision": "cb6abf7340cabda329e466f800f36f3c"
+    "revision": "539b036556eb1963da5869fe0a258246"
   },
   {
     "url": "posts/2020/04/21/use-kaomoji-in-fcitx.html",
-    "revision": "1784151cf9bf455ee594ae26812bf79a"
+    "revision": "245ad608259434c69fa11d846ce4cb88"
   },
   {
     "url": "posts/2020/04/26/extract-resources-from-unity-app.html",
-    "revision": "50d5adc1c34467f8f638e38f2a8da4dc"
+    "revision": "6dfafe82bec2632482e1425542840099"
   },
   {
     "url": "posts/categories/index.html",
-    "revision": "9ae31306f2e2969c7af8316a924c29bb"
+    "revision": "b179d19bb227bc49f9de246963d75365"
   },
   {
     "url": "posts/categories/思.html",
-    "revision": "8bbd6540ffd34e2b1d4c0d69917d1ec3"
+    "revision": "af79ddcb7cda36727ea448a37454a9f9"
   },
   {
     "url": "posts/categories/游.html",
-    "revision": "b2b2d50717690e1f4ace39de1f5ab18e"
+    "revision": "d2518f98f3409db3c3481bf61d575ab3"
   },
   {
     "url": "posts/categories/迹.html",
-    "revision": "ef0392ad1113b05737ce14f578666632"
+    "revision": "74b7125d78979c6e4d443599fe30b8c7"
   },
   {
     "url": "posts/categories/墨.html",
-    "revision": "ff4964bf338628b1076a7c211caa9d74"
+    "revision": "01c1e37ff914e125468cbda8dc722730"
   },
   {
     "url": "posts/index.html",
-    "revision": "f3568d47c267f0fe8b21fa2d4e72f025"
+    "revision": "321396326bfdfc66c997cc29f17c2f08"
   },
   {
     "url": "posts/tags/Android.html",
-    "revision": "a0155e68959582ebc777c2c4c86c8eba"
+    "revision": "6f6ad66260c3b0cf5c263674f4f25e88"
   },
   {
     "url": "posts/tags/blog.html",
-    "revision": "438b009b26644f00ca1fb70b00f0d671"
+    "revision": "2e816cf18a040b718c39c3e46ce181b5"
   },
   {
     "url": "posts/tags/Bookmarks.html",
-    "revision": "e9dabe4f8d92d58e2687a3b11b3c340b"
+    "revision": "1db974ef8b80a0057c55746f07783773"
   },
   {
     "url": "posts/tags/C.html",
-    "revision": "33ad1156510421363d5c527c8004052d"
+    "revision": "e5da0a157658235f87369b92e52a9814"
   },
   {
     "url": "posts/tags/C++.html",
-    "revision": "6617971561ac894c7be3e36046154352"
+    "revision": "51362cc5081384a7466f59b6c5021fbf"
   },
   {
     "url": "posts/tags/Crawler.html",
-    "revision": "25b614e99d34ca5e44a562bc4680643b"
+    "revision": "02e5d6a8da615dbd671a5d3f0038ea73"
   },
   {
     "url": "posts/tags/CS.html",
-    "revision": "9a08420d2f193e5d772b4ae5108964e1"
+    "revision": "1464a80904433334a95382b457921712"
   },
   {
     "url": "posts/tags/DL.html",
-    "revision": "16f43938dc36382fb1e35fa234822c17"
+    "revision": "90285328a035e67606eecf454f358b75"
   },
   {
     "url": "posts/tags/front end.html",
-    "revision": "c4293531378a0247ff060089a51c7fd1"
+    "revision": "6557dc45f4c0b8e7b064386e8f54b150"
   },
   {
     "url": "posts/tags/GCN.html",
-    "revision": "814dc3ae04cd961da43582126202fe24"
+    "revision": "d85ec937391c8c844f4bd20afde8edc9"
   },
   {
     "url": "posts/tags/Git.html",
-    "revision": "4d35f6cfa7f2201d3cfd18ec3a1f42ac"
+    "revision": "587e2a5911b654d87fb1c84da5702b1c"
   },
   {
     "url": "posts/tags/index.html",
-    "revision": "c99cd44178b6a10372eebc79e6677c70"
+    "revision": "f3a14a46472ba886b05266181016b931"
   },
   {
     "url": "posts/tags/kaoyan.html",
-    "revision": "0944f5c13608269508a60f99cc449627"
+    "revision": "8e97a4e85831cc10648ceb83d3fc697d"
   },
   {
     "url": "posts/tags/KaTeX.html",
-    "revision": "dc6a88cb2d05107b718bd6a26e6df0b2"
+    "revision": "dd0612f6893b61feef27915dcac940ec"
   },
   {
     "url": "posts/tags/Linux.html",
-    "revision": "91a293b497d518c6bb2f30d77f9a7c45"
+    "revision": "07ca562b0ae44de0b09b15b83a486a90"
   },
   {
     "url": "posts/tags/Manjaro.html",
-    "revision": "15fd08fb9ba171e008c6b99d5a3fb323"
+    "revision": "110aeae34128ce58b6a6f6cfb9c37586"
   },
   {
     "url": "posts/tags/Material Science.html",
-    "revision": "b50006f9474ebbf70c730944ece8163d"
+    "revision": "25ab78327a253674727cee293e676deb"
   },
   {
     "url": "posts/tags/Math.html",
-    "revision": "715f737acfb6cb62aa7723e18eb86491"
+    "revision": "8c70628480e08f3060ac8f08e83baa19"
   },
   {
     "url": "posts/tags/ML.html",
-    "revision": "dd297067b03c5b2c9052068f0854b547"
+    "revision": "c99f23283889d90f95ab5f9b60c02c74"
   },
   {
     "url": "posts/tags/Optimizer.html",
-    "revision": "13c232ea9154131eef38bc4b49915a9d"
+    "revision": "b182e51f6a2c7551f431478b393d84cf"
   },
   {
     "url": "posts/tags/OS.html",
-    "revision": "f9789136248911f967b03c01509d097e"
+    "revision": "062d6516615c625aadbb06e473432b2e"
   },
   {
     "url": "posts/tags/PAL.html",
-    "revision": "a44485d42e988c1db785c2171ce9e352"
+    "revision": "319b0638aac82c94e2bdadb14e2c6027"
   },
   {
     "url": "posts/tags/Python.html",
-    "revision": "43fc91da26033b992d42f52534574855"
+    "revision": "d8c94d0c669c9ee6cda8da5fe00a8b64"
   },
   {
     "url": "posts/tags/Required Course.html",
-    "revision": "a6e6893273ac035667ffc5c833f3ba6b"
+    "revision": "c74d53336244b7a9cbc2f0a81e2cefc8"
   },
   {
     "url": "posts/tags/TensorFlow.html",
-    "revision": "3ed38ff2235ebd7d703854f1cd39dc51"
+    "revision": "1e6990c6007ef46909e495a467a578cb"
   },
   {
     "url": "posts/tags/Tool.html",
-    "revision": "07487105d7233103ccce230b63080d4d"
+    "revision": "52c131c3976815a5978e81052a8a433b"
   },
   {
     "url": "posts/tags/VSCode.html",
-    "revision": "a982bd12e968ec9f4519946940ec9749"
+    "revision": "440562ec8dfcc6c565f070d1d0e733a7"
   },
   {
     "url": "posts/tags/Vuepress.html",
-    "revision": "b522b356fd45ab1b7eb8978acad30614"
+    "revision": "16f298202550dec468c79e214e422473"
   },
   {
     "url": "posts/tags/Windows.html",
-    "revision": "a50fed07d1eebe63c62e69d982c4c4c5"
+    "revision": "c99f1e6ad782ef9f8b3398a15c80f72e"
   },
   {
     "url": "sigure_mo.png",
