@@ -1,0 +1,160 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Notev",
+    "home_page_url": "https://www.sigure.xyz",
+    "feed_url": "https://www.sigure.xyz/feed.json",
+    "description": "一个小透明的透明世界",
+    "items": [
+        {
+            "id": "https://www.sigure.xyz/posts/2018/09/09/c-and-pointer.html",
+            "url": "https://www.sigure.xyz/posts/2018/09/09/c-and-pointer.html",
+            "title": "C and pointer",
+            "summary": "不得不说，初学者学 C 语言的指针是很头疼的，时隔一年半重新学起 C 语言的我本以为这次已经很了解指针了，但是乍一学数据结构才发现，很多地方还是不得要领。",
+            "image": "https://www.sigure.xyz/../img/03_C_and_pointer01.png",
+            "date_modified": "2018-09-09T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2019/10/04/c-to-plusplus.html",
+            "url": "https://www.sigure.xyz/posts/2019/10/04/c-to-plusplus.html",
+            "title": "C to ++",
+            "summary": "TIP\n什么是 C++ ？顾名思义，它是在 C 语言的基础上进行了语法的扩展，但同时保留了对 C 语法的兼容性，这就使得 C++ 上能 OOP ，下能精准分配内存，正因为“无所不能”，所以想要一次性全掌握也是难上加难，但由于我们往往并不需要掌握的面面俱到（除非真的要坚持使用 C++ 开发），比如说只是用来刷刷题的话，我们只掌握部分语法即可，本篇也主要面对有着 C 语言基础而苦于入门 C++ 的初学者，让我们将 C++ 学成 C-- 吧~\n\n学习中，会持续修改与更新，如有错误与疏漏，欢迎指正~\n",
+            "date_modified": "2019-10-04T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2018/10/01/cmder.html",
+            "url": "https://www.sigure.xyz/posts/2018/10/01/cmder.html",
+            "title": "初窥 Cmder",
+            "summary": "不过这次我在安装 Gitbash 前想到了 cmder，之前用 GitBash、cmd、Powershell 的时候总是忙于三者的切换，曾经试过 cmder 但没用明白，就搁置了下来，但是这次我可不会傻下去了",
+            "date_modified": "2018-10-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2019/09/18/computer-network.html",
+            "url": "https://www.sigure.xyz/posts/2019/09/18/computer-network.html",
+            "title": "Computer Network",
+            "summary": "TIP\n《计算机网络》复习笔记\n",
+            "image": "https://www.sigure.xyz/../img/CN20.png",
+            "date_modified": "2019-09-18T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html",
+            "url": "https://www.sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html",
+            "title": "Data Structures and Algorthms",
+            "summary": "TIP\n《数据结构》复习笔记\n",
+            "image": "https://www.sigure.xyz/../img/DS01.jpeg",
+            "date_modified": "2019-08-21T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2018/10/14/deep-learning.html",
+            "url": "https://www.sigure.xyz/posts/2018/10/14/deep-learning.html",
+            "title": "Deep Learning",
+            "summary": "TIP\nDeepLearning, Andrew Ng 慕课笔记\n",
+            "image": "https://www.sigure.xyz/../img/DL01.png",
+            "date_modified": "2018-10-14T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2019/04/25/discrete-mathematics.html",
+            "url": "https://www.sigure.xyz/posts/2019/04/25/discrete-mathematics.html",
+            "title": "Discrete Mathematics",
+            "summary": "TIP\n《离散数学及其应用》笔记\n",
+            "date_modified": "2019-04-25T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2018/10/01/diskpart.html",
+            "url": "https://www.sigure.xyz/posts/2018/10/01/diskpart.html",
+            "title": "Diskpart 的简单使用",
+            "summary": "TIP\n前段时间装了 SSD 后使用软件直接迁移的系统，之后出现了很多问题（比如经常莫名其妙音频服务未运行），所以昨晚一回到家就把硬盘通过局域网备份到另外一台电脑上，开始重装（emmm 我是想把 HHD 的混乱分区也弄一下的）。\n做完系统 U 盘并设为启动盘后就进入了熟悉的界面啦，但是这次选择分区不顺利呀，“Windows 无法安装到 GPT 分区形式磁盘”，这要怎么办呀？搜了下，了解到了 diskpart 这个小工具。下面就介绍下简单的使用方法啦\n",
+            "date_modified": "2018-10-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2019/10/26/git-collaboration.html",
+            "url": "https://www.sigure.xyz/posts/2019/10/26/git-collaboration.html",
+            "title": "Git 协作模式",
+            "summary": "TIP\n虽然用 Git 也有一年多了，但是平时只用那些简单的常用命令(add、commit、push)，导致我平时连个 merge 都需要再去网上查，效率极低\n这两天在 vuepress-reco 下修复了几个 bug ，经过多次的练习，我大概知道一般 Git 团队协作模式了，为了防止以后忘记，还是在这里简单记录下\n",
+            "image": "https://www.sigure.xyz/../img/24_Git01.png",
+            "date_modified": "2019-10-26T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2018/09/16/git-commit.html",
+            "url": "https://www.sigure.xyz/posts/2018/09/16/git-commit.html",
+            "title": "Git 提交说明",
+            "summary": "| :art:                       | :art:                       | Improving structure / format of the code.     | 改良结构和代码格式                   |\n| :zap:                       | :zap:                       | Improving performance.                        | 优化性能                             |\n| :fire:                      | :fire:                      | Removing code or files.                       | 移除代码或文件                       |\n| :bug:                       | :bug:                       | Fixing a bug.                                 | 修复 bug                             |\n| :ambulance:                 | :ambulance:                 | Critical hotfix.                              | 修复关键程序                         |\n| :sparkles:                  | :sparkles:                  | Introducing new features.                     | 引入新功能                           |\n| :memo:                      | :memo:                      | Writing docs.                                 | 写文档                               |\n| :rocket:                    | :rocket:                    | Deploying stuff.                              | 部署新功能                           |\n| :lipstick:                  | :lipstick:                  | Updating the UI and style files.              | 升级 UI 和样式文件                   |\n| :tada:                      | :tada:                      | Initial commit.                               | 初次提交                             |\n| :whitecheckmark:          | :whitecheckmark:          | Adding tests.                                 | 添加测试用例                         |\n| :lock:                      | :lock:                      | Fixing security issues.                       | 修复安全问题                         |\n| :apple:                     | :apple:                     | Fixing something on macOS.                    | 修复 MacOS 下的问题                  |\n| :penguin:                   | :penguin:                   | Fixing something on Linux.                    | 修复 Linux 下的问题                  |\n| :checkeredflag:            | :checkeredflag:            | Fixing something on Windows.                  | 修复 Windows 下的问题                |\n| :robot:                     | :robot:                     | Fixing something on Android.                  | 修复 Android 下的问题                |\n| :greenapple:               | :greenapple:               | Fixing something on iOS.                      | 修复 iOS 下的问题                    |\n| :bookmark:                  | :bookmark:                  | Releasing / Version tags.                     | 发版/版本标签                        |\n| :rotatinglight:            | :rotatinglight:            | Removing linter warning.                      | 移除 linter 的警告                   |\n| :construction:              | :construction:              | Work in progress.                             | 工作在进行中                         |\n| :greenheart:               | :greenheart:               | Fixing CI Build.                              | 修复 CI 构建问题                     |\n| :arrowdown:                | :arrowdown:                | Downgrading dependencies.                     | 降级依赖库                           |\n| :arrowup:                  | :arrowup:                  | Upgrading dependencies.                       | 升级依赖库                           |\n| :pushpin:                   | :pushpin:                   | Pinning dependencies to specific versions.    | 将依赖库固定到特定版本               |\n| :constructionworker:       | :constructionworker:       | Adding CI build system.                       | 添加 CI 构建系统                     |\n| :chartwithupwardstrend:  | :chartwithupwardstrend:  | Adding analytics or tracking code.            | 添加分析或跟踪代码。                 |\n| :recycle:                   | :recycle:                   | Refactoring code.                             | 重构代码                             |\n| :whale:                     | :whale:                     | Work about Docker.                            | Docker 相关工作                      |\n| :heavyplussign:           | :heavyplussign:           | Adding a dependency.                          | 添加一个依赖项                       |\n| :heavyminussign:          | :heavyminussign:          | Removing a dependency.                        | 删除一个依赖项                       |\n| :wrench:                    | :wrench:                    | Changing configuraton files.                  | 改变配置文件                         |\n| :globewithmeridians:      | :globewithmeridians:      | Internationalization and localization.        | 国际化和本地化                       |\n| :pencil2:                   | :pencil2:                   | Fixing typos.                                 | 修复拼写错误                         |\n| :hankey:                    | :hankey:                    | Writing bad code that needs to be improved.   | 需要改进的代码                       |\n| :rewind:                    | :rewind:                    | Reverting changes.                            | 恢复更改                             |\n| :twistedrightwardsarrows: | :twistedrightwardsarrows: | Merging branches.                             | 合并分支                             |\n| :package:                   | :package:                   | Updating compiled files or packages.          | 更新编译的文件或包                   |\n| :alien:                     | :alien:                     | Updating code due to external API changes.    | 由于外部 API 更改而更新代码          |\n| :truck:                     | :truck:                     | Moving or renaming files.                     | 移动或重命名文件                     |\n| :pagefacingup:            | :pagefacingup:            | Adding or updating license.                   | 添加或更新许可证                     |\n| :boom:                      | :boom:                      | Introducing breaking changes.                 | 介绍突破性变化                       |\n| :bento:                     | :bento:                     | Adding or updating assets.                    | 添加或更新静态资源                   |\n| :okhand:                   | :okhand:                   | Updating code due to code review changes.     | 由于代码审阅更改而更新代码           |\n| :wheelchair:                | :wheelchair:                | Improving accessibility.                      | 提升可访问性                         |\n| :bulb:                      | :bulb:                      | Documenting source code.                      | 记录源代码                           |\n| :beers:                     | :beers:                     | Writing code drunkenly.                       | 醉醺醺地编写代码                     |\n| :speechballoon:            | :speechballoon:            | Updating text and literals.                   | 更新文本或字面量                     |\n| :cardfilebox:             | :cardfilebox:             | Performing database related changes.          | 执行与数据库相关的更改               |\n| :loudsound:                | :loudsound:                | Adding logs.                                  | 添加日志                             |\n| :mute:                      | :mute:                      | Removing logs.                                | 删除日志                             |\n| :bustsinsilhouette:       | :bustsinsilhouette:       | Adding contributor(s).                        | 添加贡献者                           |\n| :childrencrossing:         | :childrencrossing:         | Improving user experience / usability.        | 改善用户体验/可用性                  |\n| :buildingconstruction:     | :buildingconstruction:     | Making architectural changes.                 | 改变架构                             |\n| :iphone:                    | :iphone:                    | Working on responsive design.                 | 进行响应式设计                       |\n| :clownface:                | :clownface:                | Mocking things.                               | 可笑的事情                           |\n| :egg:                       | :egg:                       | Adding an easter egg.                         | 加入一个彩蛋                         |\n| :seenoevil:               | :seenoevil:               | Adding or updating a .gitignore file          | 添加或更新.gitignore 文件            |\n| :cameraflash:              | :cameraflash:              | Adding or updating snapshots                  | 添加或更新快照                       |\n| :alembic:                   | :alembic:                   | Experimenting new things                      | 尝试新事物                           |\n| :mag:                       | :mag:                       | Improving SEO                                 | SEO 优化                             |\n| :wheelofdharma:           | :wheelofdharma:           | Work about Kubernetes                         | Kubernetes 相关工作                  |\n| :label:                     | :label:                     | Adding or updating types (Flow, TypesScript)  | 添加或更新类型声明(Flow、TypeScript) |\n| :seedling:                  | :seedling:                  | Adding or updating seed files                 | 添加或更新种子文件                   |\n| :triangularflagonpost:   | :triangularflagonpost:   | Adding, updating, or removing feature flags   | 添加、更新或删除功能标志             |\n| :goalnet:                  | :goalnet:                  | Catching errors                               | 发现错误                             |\n| :dizzy:                     | :dizzy:                     | Adding or updating animations and transitions | 添加或更新动画和过渡                 |\n| :wastebasket:               | :wastebasket:               | Deprecating code that needs to be cleaned up. | 清理冗余代码                         |",
+            "date_modified": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2019/08/16/hello-gcn.html",
+            "url": "https://www.sigure.xyz/posts/2019/08/16/hello-gcn.html",
+            "title": "初识图卷积神经网络（GCN）",
+            "summary": "TIP\n随着深度学习的快速发展，传统神经网络结构的弊端也日益凸显，无论是 CNNCNNCNN 还是 RNNRNNRNN ，处理的数据仅限于欧式空间，而对于拓扑结构的数据就手足无措了，然而我们我们生活的世界更多的数据还是拓扑结构数据，至于表示拓扑结构的最好方法，非图莫属了，那么如何利用图的结构进行学习呢，下面让我们一探 GCNGCNGCN 的究竟\n",
+            "image": "https://www.sigure.xyz/../img/GCN_01.png",
+            "date_modified": "2019-08-16T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2020/03/06/install-software-from-source.html",
+            "url": "https://www.sigure.xyz/posts/2020/03/06/install-software-from-source.html",
+            "title": "Linux 上使用源码编译程序",
+            "summary": "TIP\n虽然 Linux 上的包管理器很方便，但是没有 root 权限时还是很头疼的，这就需要我们自己寻找软件源码自行编译咯~\n下面以安装 node-v12.16.1 为例\n",
+            "date_modified": "2020-03-06T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2020/03/06/jupyter-lab.html",
+            "url": "https://www.sigure.xyz/posts/2020/03/06/jupyter-lab.html",
+            "title": "使用 JupyterLab 开启全新的炼丹之旅",
+            "summary": "TIP\n本地设备的配置大大限制了炼丹的效率，如果有一个合适的服务器的话，如何配置能最方便地进行炼丹呢？\n",
+            "date_modified": "2020-03-06T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2019/05/19/katex-index.html",
+            "url": "https://www.sigure.xyz/posts/2019/05/19/katex-index.html",
+            "title": "KaTeX 索引表",
+            "summary": "TIP\n一份个人 KaTeX\\KaTeXKATE​X 常用公式索引表，持续更新~\n\nKaTeX\\KaTeXKATE​X 支持的公式\n",
+            "date_modified": "2019-05-19T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2019/07/01/maxout.html",
+            "url": "https://www.sigure.xyz/posts/2019/07/01/maxout.html",
+            "title": "Maxout 的简单理解与实现",
+            "summary": "TIP\nMaxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于其它的激活函数，Maxout 本身是需要参数的，参数可以通过网络的反向传播得到学习，相应地，它比其它激活函数有着更好的性能，理论上可以拟合任意凸函数，进而使得网络取得更好的性能\n",
+            "image": "https://www.sigure.xyz/../img/Maxout01.png",
+            "date_modified": "2019-07-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2019/11/10/online-tools.html",
+            "url": "https://www.sigure.xyz/posts/2019/11/10/online-tools.html",
+            "title": "在线工具集合",
+            "summary": "TIP\n收集一些好用的在线工具~\n",
+            "date_modified": "2019-11-10T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2019/02/28/operating-system.html",
+            "url": "https://www.sigure.xyz/posts/2019/02/28/operating-system.html",
+            "title": "Operating System",
+            "summary": "TIP\n《计算机操作系统》课程笔记\n",
+            "image": "https://www.sigure.xyz/../img/OS01.png",
+            "date_modified": "2019-02-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2018/10/01/principle-of-metal-plastic-working.html",
+            "url": "https://www.sigure.xyz/posts/2018/10/01/principle-of-metal-plastic-working.html",
+            "title": "Principle of Metal Plastic Working",
+            "summary": "TIP\n《金属塑性加工原理》课程笔记\n",
+            "image": "https://www.sigure.xyz/../img/PMPW01.jpg",
+            "date_modified": "2018-10-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html",
+            "url": "https://www.sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html",
+            "title": "Principles of Computer Composition",
+            "summary": "TIP\n《计算机组成原理》复习笔记\n",
+            "image": "https://www.sigure.xyz/../img/PCC01.png",
+            "date_modified": "2019-11-17T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2020/03/22/simulate-anneal.html",
+            "url": "https://www.sigure.xyz/posts/2020/03/22/simulate-anneal.html",
+            "title": "模拟退火算法",
+            "summary": "TIP\n神经网络优化的最大难题就是很容易陷入局部最优，前段时间考虑神经网络优化方法的时候偶然考虑到了这样一个问题：能量为什么总是能达到最低呢？该问题促使我展开了一系列的思（xia）考（xiang），当然，瞎想也没想出个啥，直到今天遇到了模拟退火算法……\n",
+            "image": "https://www.sigure.xyz/../img/SPT02.png",
+            "date_modified": "2020-03-22T00:00:00.000Z"
+        }
+    ]
+}
