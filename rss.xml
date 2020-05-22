@@ -4,7 +4,7 @@
         <title>Notev</title>
         <link>https://www.sigure.xyz</link>
         <description>一个小透明的透明世界</description>
-        <lastBuildDate>Mon, 18 May 2020 20:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2020 16:14:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://www.sigure.xyz/feed.atom" rel="self" type="application/rss+xml"/>
@@ -93,8 +93,7 @@ DeepLearning, Andrew Ng 慕课笔记
             <guid>https://www.sigure.xyz/posts/2019/10/26/git-collaboration.html</guid>
             <pubDate>Sat, 26 Oct 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
-虽然用 Git 也有一年多了，但是平时只用那些简单的常用命令(add、commit、push)，导致我平时连个 merge 都需要再去网上查，效率极低
-这两天在 vuepress-reco 下修复了几个 bug ，经过多次的练习，我大概知道一般 Git 团队协作模式了，为了防止以后忘记，还是在这里简单记录下
+虽然平时写个笔记都会使用 Git 来保存，但常用的也就只有 add、commit、push 等等简单的命令啦，偶尔出点问题都需要去现查，为了提高效率，我在这里整理一下简单的 Git 协作命令，以备不时之需ヽ(✿ ﾟ ▽ ﾟ)ノ
 ]]></description>
             <enclosure url="https://www.sigure.xyz/../img/24_Git01.png">
             </enclosure>

@@ -69,7 +69,7 @@
             "id": "https://www.sigure.xyz/posts/2019/10/26/git-collaboration.html",
             "url": "https://www.sigure.xyz/posts/2019/10/26/git-collaboration.html",
             "title": "Git 协作模式",
-            "summary": "TIP\n虽然用 Git 也有一年多了，但是平时只用那些简单的常用命令(add、commit、push)，导致我平时连个 merge 都需要再去网上查，效率极低\n这两天在 vuepress-reco 下修复了几个 bug ，经过多次的练习，我大概知道一般 Git 团队协作模式了，为了防止以后忘记，还是在这里简单记录下\n",
+            "summary": "TIP\n虽然平时写个笔记都会使用 Git 来保存，但常用的也就只有 add、commit、push 等等简单的命令啦，偶尔出点问题都需要去现查，为了提高效率，我在这里整理一下简单的 Git 协作命令，以备不时之需ヽ(✿ ﾟ ▽ ﾟ)ノ\n",
             "image": "https://www.sigure.xyz/../img/24_Git01.png",
             "date_modified": "2019-10-26T00:00:00.000Z"
         },
