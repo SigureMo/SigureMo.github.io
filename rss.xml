@@ -4,7 +4,7 @@
         <title>Notev</title>
         <link>https://www.sigure.xyz</link>
         <description>一个小透明的透明世界</description>
-        <lastBuildDate>Fri, 22 May 2020 16:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2020 20:12:28 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://www.sigure.xyz/feed.atom" rel="self" type="application/rss+xml"/>
@@ -86,6 +86,18 @@ DeepLearning, Andrew Ng 慕课笔记
 前段时间装了 SSD 后使用软件直接迁移的系统，之后出现了很多问题（比如经常莫名其妙音频服务未运行），所以昨晚一回到家就把硬盘通过局域网备份到另外一台电脑上，开始重装（emmm 我是想把 HHD 的混乱分区也弄一下的）。
 做完系统 U 盘并设为启动盘后就进入了熟悉的界面啦，但是这次选择分区不顺利呀，“Windows 无法安装到 GPT 分区形式磁盘”，这要怎么办呀？搜了下，了解到了 diskpart 这个小工具。下面就介绍下简单的使用方法啦
 ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[初尝 GAN]]></title>
+            <link>https://www.sigure.xyz/posts/2020/05/25/gan-started.html</link>
+            <guid>https://www.sigure.xyz/posts/2020/05/25/gan-started.html</guid>
+            <pubDate>Mon, 25 May 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[WARNING
+最近在 DL 的学习方向上稍有迷茫，毕竟有那么多学习的方向嘛。“开学”那几天初尝 RL 做了个 AlphaZero 五子棋，但理论什么的尚需补足，而且暂时没有什么别的想做的也没继续深入。毕设这段时间主要是学习一些机器学习领域的知识啦，大多是一些浅层神经网络及其优化算法，比如 AutoEncoder 和遗传算法等等，唔，本来兴趣就寥寥，然后毕设凉了就更没动力了……
+前两天突然翻出来一张猫猫十年前的照片，但分辨率实在太低啦（240 * 320），就想尝试一下超分辨率相关模型，发现最近超分辨率也在用 GAN 啦，所以，就尝试学一下～
+]]></description>
+            <enclosure url="https://www.sigure.xyz/../img/GAN_started/CGAN-01.png">
+            </enclosure>
         </item>
         <item>
             <title><![CDATA[Git 协作模式]]></title>
@@ -263,17 +275,6 @@ Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于�
 《计算机组成原理》复习笔记
 ]]></description>
             <enclosure url="https://www.sigure.xyz/../img/PCC01.png">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[模拟退火算法]]></title>
-            <link>https://www.sigure.xyz/posts/2020/03/22/simulate-anneal.html</link>
-            <guid>https://www.sigure.xyz/posts/2020/03/22/simulate-anneal.html</guid>
-            <pubDate>Sun, 22 Mar 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[TIP
-神经网络优化的最大难题就是很容易陷入局部最优，前段时间考虑神经网络优化方法的时候偶然考虑到了这样一个问题：能量为什么总是能达到最低呢？该问题促使我展开了一系列的思（xia）考（xiang），当然，瞎想也没想出个啥，直到今天遇到了模拟退火算法……
-]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/SPT02.png">
             </enclosure>
         </item>
     </channel>
