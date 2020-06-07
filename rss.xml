@@ -4,7 +4,7 @@
         <title>Notev</title>
         <link>https://www.sigure.xyz</link>
         <description>一个小透明的透明世界</description>
-        <lastBuildDate>Fri, 05 Jun 2020 16:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2020 15:48:55 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://www.sigure.xyz/feed.atom" rel="self" type="application/rss+xml"/>
