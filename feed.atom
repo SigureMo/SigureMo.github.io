@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sigure.xyz</id>
     <title>Notev</title>
-    <updated>2020-06-11T08:09:35.206Z</updated>
+    <updated>2020-06-11T08:44:42.366Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://www.sigure.xyz"/>
     <link rel="self" href="https://www.sigure.xyz/feed.atom"/>
@@ -120,7 +120,7 @@ DeepLearning, Andrew Ng 慕课笔记
 | :ambulance:                 | :ambulance:                 | Critical hotfix.                              | 修复关键程序                         |
 | :sparkles:                  | :sparkles:                  | Introducing new features.                     | 引入新功能                           |
 | :memo:                      | :memo:                      | Writing docs.                                 | 写文档                               |
-| :rocket:                    | :rocket:                    | Deploying stuff.                              | 部署新功能                           |
+| :rocket:                    | :rocket:                    | Deploying stuff.                              | 部署任务                             |
 | :lipstick:                  | :lipstick:                  | Updating the UI and style files.              | 升级 UI 和样式文件                   |
 | :tada:                      | :tada:                      | Initial commit.                               | 初次提交                             |
 | :whitecheckmark:          | :whitecheckmark:          | Adding tests.                                 | 添加测试用例                         |
