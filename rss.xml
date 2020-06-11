@@ -4,7 +4,7 @@
         <title>Notev</title>
         <link>https://www.sigure.xyz</link>
         <description>一个小透明的透明世界</description>
-        <lastBuildDate>Thu, 11 Jun 2020 08:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2020 10:21:33 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://www.sigure.xyz/feed.atom" rel="self" type="application/rss+xml"/>
@@ -14,7 +14,7 @@
             <guid>https://www.sigure.xyz/posts/2018/09/09/c-and-pointer.html</guid>
             <pubDate>Sun, 09 Sep 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[不得不说，初学者学 C 语言的指针是很头疼的，时隔一年半重新学起 C 语言的我本以为这次已经很了解指针了，但是乍一学数据结构才发现，很多地方还是不得要领。]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/03_C_and_pointer01.png">
+            <enclosure url="https://www.sigure.xyz/../img/C_and_pointer01.png">
             </enclosure>
         </item>
         <item>
@@ -43,7 +43,7 @@
             <description><![CDATA[TIP
 《计算机网络》复习笔记
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/CN20.png">
+            <enclosure url="https://www.sigure.xyz/../img/Computer_Network/CN20.png">
             </enclosure>
         </item>
         <item>
@@ -54,7 +54,7 @@
             <description><![CDATA[TIP
 《数据结构》复习笔记
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/DS01.jpeg">
+            <enclosure url="https://www.sigure.xyz/../img/Data_Structures_and_Algorithms/DS01.jpeg">
             </enclosure>
         </item>
         <item>
@@ -65,7 +65,7 @@
             <description><![CDATA[TIP
 DeepLearning, Andrew Ng 慕课笔记
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/DL01.png">
+            <enclosure url="https://www.sigure.xyz/../img/Deep_Learning/DL01.png">
             </enclosure>
         </item>
         <item>
@@ -107,7 +107,7 @@ DeepLearning, Andrew Ng 慕课笔记
             <description><![CDATA[TIP
 虽然平时写个笔记都会使用 Git 来保存，但常用的也就只有 add、commit、push 等等简单的命令啦，偶尔出点问题都需要去现查，为了提高效率，我在这里整理一下简单的 Git 协作命令，以备不时之需ヽ(✿ ﾟ ▽ ﾟ)ノ
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/24_Git01.png">
+            <enclosure url="https://www.sigure.xyz/../img/Git_Collaboration01.png">
             </enclosure>
         </item>
         <item>
@@ -191,7 +191,7 @@ DeepLearning, Andrew Ng 慕课笔记
             <description><![CDATA[TIP
 随着深度学习的快速发展，传统神经网络结构的弊端也日益凸显，无论是 CNNCNNCNN 还是 RNNRNNRNN ，处理的数据仅限于欧式空间，而对于拓扑结构的数据就手足无措了，然而我们我们生活的世界更多的数据还是拓扑结构数据，至于表示拓扑结构的最好方法，非图莫属了，那么如何利用图的结构进行学习呢，下面让我们一探 GCNGCNGCN 的究竟
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/GCN_01.png">
+            <enclosure url="https://www.sigure.xyz/../img/Hello_GCN/GCN_01.png">
             </enclosure>
         </item>
         <item>
@@ -232,7 +232,7 @@ KaTeX\KaTeXKATE​X 支持的公式
             <description><![CDATA[TIP
 Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于其它的激活函数，Maxout 本身是需要参数的，参数可以通过网络的反向传播得到学习，相应地，它比其它激活函数有着更好的性能，理论上可以拟合任意凸函数，进而使得网络取得更好的性能
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/Maxout01.png">
+            <enclosure url="https://www.sigure.xyz/../img/Maxout/Maxout01.png">
             </enclosure>
         </item>
         <item>
@@ -252,18 +252,7 @@ Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于�
             <description><![CDATA[TIP
 《计算机操作系统》课程笔记
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/OS01.png">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[Principle of Metal Plastic Working]]></title>
-            <link>https://www.sigure.xyz/posts/2018/10/01/principle-of-metal-plastic-working.html</link>
-            <guid>https://www.sigure.xyz/posts/2018/10/01/principle-of-metal-plastic-working.html</guid>
-            <pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[TIP
-《金属塑性加工原理》课程笔记
-]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/PMPW01.jpg">
+            <enclosure url="https://www.sigure.xyz/../img/Operating_System/OS01.png">
             </enclosure>
         </item>
         <item>
@@ -274,7 +263,18 @@ Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于�
             <description><![CDATA[TIP
 《计算机组成原理》复习笔记
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/PCC01.png">
+            <enclosure url="https://www.sigure.xyz/../img/Principles_of_Computer_Composition/PCC01.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[模拟退火算法]]></title>
+            <link>https://www.sigure.xyz/posts/2020/03/22/simulate-anneal.html</link>
+            <guid>https://www.sigure.xyz/posts/2020/03/22/simulate-anneal.html</guid>
+            <pubDate>Sun, 22 Mar 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[TIP
+神经网络优化的最大难题就是很容易陷入局部最优，前段时间考虑神经网络优化方法的时候偶然考虑到了这样一个问题：能量为什么总是能达到最低呢？该问题促使我展开了一系列的思（xia）考（xiang），当然，瞎想也没想出个啥，直到今天遇到了模拟退火算法……
+]]></description>
+            <enclosure url="https://www.sigure.xyz/../img/Solid-state_Phase_Transformation/SPT02.png">
             </enclosure>
         </item>
     </channel>

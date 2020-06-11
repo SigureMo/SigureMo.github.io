@@ -10,7 +10,7 @@
             "url": "https://www.sigure.xyz/posts/2018/09/09/c-and-pointer.html",
             "title": "C and pointer",
             "summary": "不得不说，初学者学 C 语言的指针是很头疼的，时隔一年半重新学起 C 语言的我本以为这次已经很了解指针了，但是乍一学数据结构才发现，很多地方还是不得要领。",
-            "image": "https://www.sigure.xyz/../img/03_C_and_pointer01.png",
+            "image": "https://www.sigure.xyz/../img/C_and_pointer01.png",
             "date_modified": "2018-09-09T00:00:00.000Z"
         },
         {
@@ -32,7 +32,7 @@
             "url": "https://www.sigure.xyz/posts/2019/09/18/computer-network.html",
             "title": "Computer Network",
             "summary": "TIP\n《计算机网络》复习笔记\n",
-            "image": "https://www.sigure.xyz/../img/CN20.png",
+            "image": "https://www.sigure.xyz/../img/Computer_Network/CN20.png",
             "date_modified": "2019-09-18T00:00:00.000Z"
         },
         {
@@ -40,7 +40,7 @@
             "url": "https://www.sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html",
             "title": "Data Structures and Algorthms",
             "summary": "TIP\n《数据结构》复习笔记\n",
-            "image": "https://www.sigure.xyz/../img/DS01.jpeg",
+            "image": "https://www.sigure.xyz/../img/Data_Structures_and_Algorithms/DS01.jpeg",
             "date_modified": "2019-08-21T00:00:00.000Z"
         },
         {
@@ -48,7 +48,7 @@
             "url": "https://www.sigure.xyz/posts/2018/10/14/deep-learning.html",
             "title": "Deep Learning",
             "summary": "TIP\nDeepLearning, Andrew Ng 慕课笔记\n",
-            "image": "https://www.sigure.xyz/../img/DL01.png",
+            "image": "https://www.sigure.xyz/../img/Deep_Learning/DL01.png",
             "date_modified": "2018-10-14T00:00:00.000Z"
         },
         {
@@ -78,7 +78,7 @@
             "url": "https://www.sigure.xyz/posts/2019/10/26/git-collaboration.html",
             "title": "Git 协作模式",
             "summary": "TIP\n虽然平时写个笔记都会使用 Git 来保存，但常用的也就只有 add、commit、push 等等简单的命令啦，偶尔出点问题都需要去现查，为了提高效率，我在这里整理一下简单的 Git 协作命令，以备不时之需ヽ(✿ ﾟ ▽ ﾟ)ノ\n",
-            "image": "https://www.sigure.xyz/../img/24_Git01.png",
+            "image": "https://www.sigure.xyz/../img/Git_Collaboration01.png",
             "date_modified": "2019-10-26T00:00:00.000Z"
         },
         {
@@ -93,7 +93,7 @@
             "url": "https://www.sigure.xyz/posts/2019/08/16/hello-gcn.html",
             "title": "初识图卷积神经网络（GCN）",
             "summary": "TIP\n随着深度学习的快速发展，传统神经网络结构的弊端也日益凸显，无论是 CNNCNNCNN 还是 RNNRNNRNN ，处理的数据仅限于欧式空间，而对于拓扑结构的数据就手足无措了，然而我们我们生活的世界更多的数据还是拓扑结构数据，至于表示拓扑结构的最好方法，非图莫属了，那么如何利用图的结构进行学习呢，下面让我们一探 GCNGCNGCN 的究竟\n",
-            "image": "https://www.sigure.xyz/../img/GCN_01.png",
+            "image": "https://www.sigure.xyz/../img/Hello_GCN/GCN_01.png",
             "date_modified": "2019-08-16T00:00:00.000Z"
         },
         {
@@ -122,7 +122,7 @@
             "url": "https://www.sigure.xyz/posts/2019/07/01/maxout.html",
             "title": "Maxout 的简单理解与实现",
             "summary": "TIP\nMaxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于其它的激活函数，Maxout 本身是需要参数的，参数可以通过网络的反向传播得到学习，相应地，它比其它激活函数有着更好的性能，理论上可以拟合任意凸函数，进而使得网络取得更好的性能\n",
-            "image": "https://www.sigure.xyz/../img/Maxout01.png",
+            "image": "https://www.sigure.xyz/../img/Maxout/Maxout01.png",
             "date_modified": "2019-07-01T00:00:00.000Z"
         },
         {
@@ -137,24 +137,24 @@
             "url": "https://www.sigure.xyz/posts/2019/02/28/operating-system.html",
             "title": "Operating System",
             "summary": "TIP\n《计算机操作系统》课程笔记\n",
-            "image": "https://www.sigure.xyz/../img/OS01.png",
+            "image": "https://www.sigure.xyz/../img/Operating_System/OS01.png",
             "date_modified": "2019-02-28T00:00:00.000Z"
-        },
-        {
-            "id": "https://www.sigure.xyz/posts/2018/10/01/principle-of-metal-plastic-working.html",
-            "url": "https://www.sigure.xyz/posts/2018/10/01/principle-of-metal-plastic-working.html",
-            "title": "Principle of Metal Plastic Working",
-            "summary": "TIP\n《金属塑性加工原理》课程笔记\n",
-            "image": "https://www.sigure.xyz/../img/PMPW01.jpg",
-            "date_modified": "2018-10-01T00:00:00.000Z"
         },
         {
             "id": "https://www.sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html",
             "url": "https://www.sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html",
             "title": "Principles of Computer Composition",
             "summary": "TIP\n《计算机组成原理》复习笔记\n",
-            "image": "https://www.sigure.xyz/../img/PCC01.png",
+            "image": "https://www.sigure.xyz/../img/Principles_of_Computer_Composition/PCC01.png",
             "date_modified": "2019-11-17T00:00:00.000Z"
+        },
+        {
+            "id": "https://www.sigure.xyz/posts/2020/03/22/simulate-anneal.html",
+            "url": "https://www.sigure.xyz/posts/2020/03/22/simulate-anneal.html",
+            "title": "模拟退火算法",
+            "summary": "TIP\n神经网络优化的最大难题就是很容易陷入局部最优，前段时间考虑神经网络优化方法的时候偶然考虑到了这样一个问题：能量为什么总是能达到最低呢？该问题促使我展开了一系列的思（xia）考（xiang），当然，瞎想也没想出个啥，直到今天遇到了模拟退火算法……\n",
+            "image": "https://www.sigure.xyz/../img/Solid-state_Phase_Transformation/SPT02.png",
+            "date_modified": "2020-03-22T00:00:00.000Z"
         }
     ]
 }
