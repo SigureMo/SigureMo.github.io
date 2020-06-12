@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sigure.xyz</id>
     <title>Notev</title>
-    <updated>2020-06-11T21:06:52.544Z</updated>
+    <updated>2020-06-12T05:46:54.661Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://www.sigure.xyz"/>
     <link rel="self" href="https://www.sigure.xyz/feed.atom"/>
@@ -92,7 +92,7 @@ DeepLearning, Andrew Ng 慕课笔记
         <link href="https://www.sigure.xyz/posts/2020/05/25/gan-started.html">
         </link>
         <updated>2020-05-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WIP
+        <summary type="html"><![CDATA[TIP
 最近在 DL 的学习方向上稍有迷茫，毕竟有那么多学习的方向嘛。“开学”那几天初尝 RL 做了个 AlphaZero 五子棋，但理论什么的尚需补足，而且暂时没有什么别的想做的也没继续深入。毕设这段时间主要是学习一些机器学习领域的知识啦，大多是一些浅层神经网络及其优化算法，比如 AutoEncoder 和遗传算法等等，唔，本来兴趣就寥寥，然后毕设凉了就更没动力了……
 前两天突然翻出来一张猫猫十年前的照片，但分辨率实在太低啦（240 * 320），就想尝试一下超分辨率相关模型，发现最近超分辨率也在用 GAN 啦，所以，就尝试学一下～
 ]]></summary>
