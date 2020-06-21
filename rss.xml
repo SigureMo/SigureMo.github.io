@@ -4,7 +4,7 @@
         <title>Notev</title>
         <link>https://www.sigure.xyz</link>
         <description>一个小透明的透明世界</description>
-        <lastBuildDate>Sat, 20 Jun 2020 12:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2020 11:30:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://www.sigure.xyz/feed.atom" rel="self" type="application/rss+xml"/>
@@ -13,7 +13,9 @@
             <link>https://www.sigure.xyz/posts/2018/09/09/c-and-pointer.html</link>
             <guid>https://www.sigure.xyz/posts/2018/09/09/c-and-pointer.html</guid>
             <pubDate>Sun, 09 Sep 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[不得不说，初学者学 C 语言的指针是很头疼的，时隔一年半重新学起 C 语言的我本以为这次已经很了解指针了，但是乍一学数据结构才发现，很多地方还是不得要领。]]></description>
+            <description><![CDATA[TIP
+为什么要了解指针呢？因为无法操作指针的话就无法精准操作内存，也正是这一特性造就了 C 经久不衰的发展，那么……要怎么学习指针呢？
+]]></description>
             <enclosure url="https://www.sigure.xyz/../img/C_and_pointer01.png">
             </enclosure>
         </item>
@@ -33,7 +35,9 @@
             <link>https://www.sigure.xyz/posts/2018/10/01/cmder.html</link>
             <guid>https://www.sigure.xyz/posts/2018/10/01/cmder.html</guid>
             <pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[不过这次我在安装 Gitbash 前想到了 cmder，之前用 GitBash、cmd、Powershell 的时候总是忙于三者的切换，曾经试过 cmder 但没用明白，就搁置了下来，但是这次我可不会傻下去了]]></description>
+            <description><![CDATA[TIP
+果然是一折腾就停不下来呀，刚重装了系统，又打起了原来没用明白的 cmder 的主意
+]]></description>
         </item>
         <item>
             <title><![CDATA[Computer Network]]></title>
@@ -83,8 +87,8 @@ DeepLearning, Andrew Ng 慕课笔记
             <guid>https://www.sigure.xyz/posts/2018/10/01/diskpart.html</guid>
             <pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
-前段时间装了 SSD 后使用软件直接迁移的系统，之后出现了很多问题（比如经常莫名其妙音频服务未运行），所以昨晚一回到家就把硬盘通过局域网备份到另外一台电脑上，开始重装（emmm 我是想把 HHD 的混乱分区也弄一下的）。
-做完系统 U 盘并设为启动盘后就进入了熟悉的界面啦，但是这次选择分区不顺利呀，“Windows 无法安装到 GPT 分区形式磁盘”，这要怎么办呀？搜了下，了解到了 diskpart 这个小工具。下面就介绍下简单的使用方法啦
+前段时间装了 SSD 后使用软件直接迁移的系统，之后出现了很多问题（比如经常莫名其妙音频服务未运行），所以昨晚一回到家就把硬盘通过局域网备份到另外一台电脑上，开始重装（emmm 我是想把 HHD 的混乱分区也弄一下的）
+做完系统 U 盘并设为启动盘后就进入了熟悉的界面啦，但是这次选择分区并不是很顺利，粗现了“Windows 无法安装到 GPT 分区形式磁盘”的问题，为了解决该问题我了解到了 diskpark 这个小工具……
 ]]></description>
         </item>
         <item>
@@ -115,73 +119,9 @@ DeepLearning, Andrew Ng 慕课笔记
             <link>https://www.sigure.xyz/posts/2018/09/16/git-commit.html</link>
             <guid>https://www.sigure.xyz/posts/2018/09/16/git-commit.html</guid>
             <pubDate>Sun, 16 Sep 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[| :art:                       | :art:                       | Improving structure / format of the code.     | 改良结构和代码格式                   |
-| :zap:                       | :zap:                       | Improving performance.                        | 优化性能                             |
-| :fire:                      | :fire:                      | Removing code or files.                       | 移除代码或文件                       |
-| :bug:                       | :bug:                       | Fixing a bug.                                 | 修复 bug                             |
-| :ambulance:                 | :ambulance:                 | Critical hotfix.                              | 修复关键程序                         |
-| :sparkles:                  | :sparkles:                  | Introducing new features.                     | 引入新功能                           |
-| :memo:                      | :memo:                      | Writing docs.                                 | 写文档                               |
-| :rocket:                    | :rocket:                    | Deploying stuff.                              | 部署任务                             |
-| :lipstick:                  | :lipstick:                  | Updating the UI and style files.              | 升级 UI 和样式文件                   |
-| :tada:                      | :tada:                      | Initial commit.                               | 初次提交                             |
-| :whitecheckmark:          | :whitecheckmark:          | Adding tests.                                 | 添加测试用例                         |
-| :lock:                      | :lock:                      | Fixing security issues.                       | 修复安全问题                         |
-| :apple:                     | :apple:                     | Fixing something on macOS.                    | 修复 MacOS 下的问题                  |
-| :penguin:                   | :penguin:                   | Fixing something on Linux.                    | 修复 Linux 下的问题                  |
-| :checkeredflag:            | :checkeredflag:            | Fixing something on Windows.                  | 修复 Windows 下的问题                |
-| :robot:                     | :robot:                     | Fixing something on Android.                  | 修复 Android 下的问题                |
-| :greenapple:               | :greenapple:               | Fixing something on iOS.                      | 修复 iOS 下的问题                    |
-| :bookmark:                  | :bookmark:                  | Releasing / Version tags.                     | 发版/版本标签                        |
-| :rotatinglight:            | :rotatinglight:            | Removing linter warning.                      | 移除 linter 的警告                   |
-| :construction:              | :construction:              | Work in progress.                             | 工作在进行中                         |
-| :greenheart:               | :greenheart:               | Fixing CI Build.                              | 修复 CI 构建问题                     |
-| :arrowdown:                | :arrowdown:                | Downgrading dependencies.                     | 降级依赖库                           |
-| :arrowup:                  | :arrowup:                  | Upgrading dependencies.                       | 升级依赖库                           |
-| :pushpin:                   | :pushpin:                   | Pinning dependencies to specific versions.    | 将依赖库固定到特定版本               |
-| :constructionworker:       | :constructionworker:       | Adding CI build system.                       | 添加 CI 构建系统                     |
-| :chartwithupwardstrend:  | :chartwithupwardstrend:  | Adding analytics or tracking code.            | 添加分析或跟踪代码。                 |
-| :recycle:                   | :recycle:                   | Refactoring code.                             | 重构代码                             |
-| :whale:                     | :whale:                     | Work about Docker.                            | Docker 相关工作                      |
-| :heavyplussign:           | :heavyplussign:           | Adding a dependency.                          | 添加一个依赖项                       |
-| :heavyminussign:          | :heavyminussign:          | Removing a dependency.                        | 删除一个依赖项                       |
-| :wrench:                    | :wrench:                    | Changing configuraton files.                  | 改变配置文件                         |
-| :globewithmeridians:      | :globewithmeridians:      | Internationalization and localization.        | 国际化和本地化                       |
-| :pencil2:                   | :pencil2:                   | Fixing typos.                                 | 修复拼写错误                         |
-| :hankey:                    | :hankey:                    | Writing bad code that needs to be improved.   | 需要改进的代码                       |
-| :rewind:                    | :rewind:                    | Reverting changes.                            | 恢复更改                             |
-| :twistedrightwardsarrows: | :twistedrightwardsarrows: | Merging branches.                             | 合并分支                             |
-| :package:                   | :package:                   | Updating compiled files or packages.          | 更新编译的文件或包                   |
-| :alien:                     | :alien:                     | Updating code due to external API changes.    | 由于外部 API 更改而更新代码          |
-| :truck:                     | :truck:                     | Moving or renaming files.                     | 移动或重命名文件                     |
-| :pagefacingup:            | :pagefacingup:            | Adding or updating license.                   | 添加或更新许可证                     |
-| :boom:                      | :boom:                      | Introducing breaking changes.                 | 介绍突破性变化                       |
-| :bento:                     | :bento:                     | Adding or updating assets.                    | 添加或更新静态资源                   |
-| :okhand:                   | :okhand:                   | Updating code due to code review changes.     | 由于代码审阅更改而更新代码           |
-| :wheelchair:                | :wheelchair:                | Improving accessibility.                      | 提升可访问性                         |
-| :bulb:                      | :bulb:                      | Documenting source code.                      | 记录源代码                           |
-| :beers:                     | :beers:                     | Writing code drunkenly.                       | 醉醺醺地编写代码                     |
-| :speechballoon:            | :speechballoon:            | Updating text and literals.                   | 更新文本或字面量                     |
-| :cardfilebox:             | :cardfilebox:             | Performing database related changes.          | 执行与数据库相关的更改               |
-| :loudsound:                | :loudsound:                | Adding logs.                                  | 添加日志                             |
-| :mute:                      | :mute:                      | Removing logs.                                | 删除日志                             |
-| :bustsinsilhouette:       | :bustsinsilhouette:       | Adding contributor(s).                        | 添加贡献者                           |
-| :childrencrossing:         | :childrencrossing:         | Improving user experience / usability.        | 改善用户体验/可用性                  |
-| :buildingconstruction:     | :buildingconstruction:     | Making architectural changes.                 | 改变架构                             |
-| :iphone:                    | :iphone:                    | Working on responsive design.                 | 进行响应式设计                       |
-| :clownface:                | :clownface:                | Mocking things.                               | 可笑的事情                           |
-| :egg:                       | :egg:                       | Adding an easter egg.                         | 加入一个彩蛋                         |
-| :seenoevil:               | :seenoevil:               | Adding or updating a .gitignore file          | 添加或更新.gitignore 文件            |
-| :cameraflash:              | :cameraflash:              | Adding or updating snapshots                  | 添加或更新快照                       |
-| :alembic:                   | :alembic:                   | Experimenting new things                      | 尝试新事物                           |
-| :mag:                       | :mag:                       | Improving SEO                                 | SEO 优化                             |
-| :wheelofdharma:           | :wheelofdharma:           | Work about Kubernetes                         | Kubernetes 相关工作                  |
-| :label:                     | :label:                     | Adding or updating types (Flow, TypesScript)  | 添加或更新类型声明(Flow、TypeScript) |
-| :seedling:                  | :seedling:                  | Adding or updating seed files                 | 添加或更新种子文件                   |
-| :triangularflagonpost:   | :triangularflagonpost:   | Adding, updating, or removing feature flags   | 添加、更新或删除功能标志             |
-| :goalnet:                  | :goalnet:                  | Catching errors                               | 发现错误                             |
-| :dizzy:                     | :dizzy:                     | Adding or updating animations and transitions | 添加或更新动画和过渡                 |
-| :wastebasket:               | :wastebasket:               | Deprecating code that needs to be cleaned up. | 清理冗余代码                         |]]></description>
+            <description><![CDATA[TIP
+Git Commit Message 虽然可以随意描述，但是应当使用对当前更改最合适的描述才有意义，而且在 review 代码的时候能够最快地找到相关位置，Commit Message 的规范有助于提高其意义，下面会分别介绍通用的规范以及可爱的 Gitmoji 规范
+]]></description>
         </item>
         <item>
             <title><![CDATA[初识图卷积神经网络（GCN）]]></title>
