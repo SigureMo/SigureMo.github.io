@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.sigure.xyz</id>
+    <id>https://sigure.xyz</id>
     <title>Notev</title>
-    <updated>2020-06-22T08:25:18.721Z</updated>
+    <updated>2020-06-22T12:51:04.996Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
-    <link rel="alternate" href="https://www.sigure.xyz"/>
-    <link rel="self" href="https://www.sigure.xyz/feed.atom"/>
+    <link rel="alternate" href="https://sigure.xyz"/>
+    <link rel="self" href="https://sigure.xyz/feed.atom"/>
     <subtitle>一个小透明的透明世界</subtitle>
     <entry>
         <title type="html"><![CDATA[C and pointer]]></title>
-        <id>https://www.sigure.xyz/posts/2018/09/09/c-and-pointer.html</id>
-        <link href="https://www.sigure.xyz/posts/2018/09/09/c-and-pointer.html">
+        <id>https://sigure.xyz/posts/2018/09/09/c-and-pointer.html</id>
+        <link href="https://sigure.xyz/posts/2018/09/09/c-and-pointer.html">
         </link>
         <updated>2018-09-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -19,8 +19,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[C to ++]]></title>
-        <id>https://www.sigure.xyz/posts/2019/10/04/c-to-plusplus.html</id>
-        <link href="https://www.sigure.xyz/posts/2019/10/04/c-to-plusplus.html">
+        <id>https://sigure.xyz/posts/2019/10/04/c-to-plusplus.html</id>
+        <link href="https://sigure.xyz/posts/2019/10/04/c-to-plusplus.html">
         </link>
         <updated>2019-10-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -31,8 +31,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[初窥 Cmder]]></title>
-        <id>https://www.sigure.xyz/posts/2018/10/01/cmder.html</id>
-        <link href="https://www.sigure.xyz/posts/2018/10/01/cmder.html">
+        <id>https://sigure.xyz/posts/2018/10/01/cmder.html</id>
+        <link href="https://sigure.xyz/posts/2018/10/01/cmder.html">
         </link>
         <updated>2018-10-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -41,8 +41,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Computer Network]]></title>
-        <id>https://www.sigure.xyz/posts/2019/09/18/computer-network.html</id>
-        <link href="https://www.sigure.xyz/posts/2019/09/18/computer-network.html">
+        <id>https://sigure.xyz/posts/2019/09/18/computer-network.html</id>
+        <link href="https://sigure.xyz/posts/2019/09/18/computer-network.html">
         </link>
         <updated>2019-09-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -51,8 +51,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Data Structures and Algorthms]]></title>
-        <id>https://www.sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html</id>
-        <link href="https://www.sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html">
+        <id>https://sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html</id>
+        <link href="https://sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html">
         </link>
         <updated>2019-08-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -61,8 +61,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Deep Learning]]></title>
-        <id>https://www.sigure.xyz/posts/2018/10/14/deep-learning.html</id>
-        <link href="https://www.sigure.xyz/posts/2018/10/14/deep-learning.html">
+        <id>https://sigure.xyz/posts/2018/10/14/deep-learning.html</id>
+        <link href="https://sigure.xyz/posts/2018/10/14/deep-learning.html">
         </link>
         <updated>2018-10-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -71,8 +71,8 @@ DeepLearning, Andrew Ng 慕课笔记
     </entry>
     <entry>
         <title type="html"><![CDATA[Discrete Mathematics]]></title>
-        <id>https://www.sigure.xyz/posts/2019/04/25/discrete-mathematics.html</id>
-        <link href="https://www.sigure.xyz/posts/2019/04/25/discrete-mathematics.html">
+        <id>https://sigure.xyz/posts/2019/04/25/discrete-mathematics.html</id>
+        <link href="https://sigure.xyz/posts/2019/04/25/discrete-mathematics.html">
         </link>
         <updated>2019-04-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -81,8 +81,8 @@ DeepLearning, Andrew Ng 慕课笔记
     </entry>
     <entry>
         <title type="html"><![CDATA[Diskpart 的简单使用]]></title>
-        <id>https://www.sigure.xyz/posts/2018/10/01/diskpart.html</id>
-        <link href="https://www.sigure.xyz/posts/2018/10/01/diskpart.html">
+        <id>https://sigure.xyz/posts/2018/10/01/diskpart.html</id>
+        <link href="https://sigure.xyz/posts/2018/10/01/diskpart.html">
         </link>
         <updated>2018-10-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -92,8 +92,8 @@ DeepLearning, Andrew Ng 慕课笔记
     </entry>
     <entry>
         <title type="html"><![CDATA[初尝 GAN]]></title>
-        <id>https://www.sigure.xyz/posts/2020/05/25/gan-started.html</id>
-        <link href="https://www.sigure.xyz/posts/2020/05/25/gan-started.html">
+        <id>https://sigure.xyz/posts/2020/05/25/gan-started.html</id>
+        <link href="https://sigure.xyz/posts/2020/05/25/gan-started.html">
         </link>
         <updated>2020-05-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -103,8 +103,8 @@ DeepLearning, Andrew Ng 慕课笔记
     </entry>
     <entry>
         <title type="html"><![CDATA[Git 协作模式]]></title>
-        <id>https://www.sigure.xyz/posts/2019/10/26/git-collaboration.html</id>
-        <link href="https://www.sigure.xyz/posts/2019/10/26/git-collaboration.html">
+        <id>https://sigure.xyz/posts/2019/10/26/git-collaboration.html</id>
+        <link href="https://sigure.xyz/posts/2019/10/26/git-collaboration.html">
         </link>
         <updated>2019-10-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -113,8 +113,8 @@ DeepLearning, Andrew Ng 慕课笔记
     </entry>
     <entry>
         <title type="html"><![CDATA[Git 提交说明]]></title>
-        <id>https://www.sigure.xyz/posts/2018/09/16/git-commit.html</id>
-        <link href="https://www.sigure.xyz/posts/2018/09/16/git-commit.html">
+        <id>https://sigure.xyz/posts/2018/09/16/git-commit.html</id>
+        <link href="https://sigure.xyz/posts/2018/09/16/git-commit.html">
         </link>
         <updated>2018-09-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -123,8 +123,8 @@ Git Commit Message 虽然可以随意描述，但是应当使用对当前更改�
     </entry>
     <entry>
         <title type="html"><![CDATA[初识图卷积神经网络（GCN）]]></title>
-        <id>https://www.sigure.xyz/posts/2019/08/16/hello-gcn.html</id>
-        <link href="https://www.sigure.xyz/posts/2019/08/16/hello-gcn.html">
+        <id>https://sigure.xyz/posts/2019/08/16/hello-gcn.html</id>
+        <link href="https://sigure.xyz/posts/2019/08/16/hello-gcn.html">
         </link>
         <updated>2019-08-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -133,8 +133,8 @@ Git Commit Message 虽然可以随意描述，但是应当使用对当前更改�
     </entry>
     <entry>
         <title type="html"><![CDATA[Linux 上使用源码编译程序]]></title>
-        <id>https://www.sigure.xyz/posts/2020/03/06/install-software-from-source.html</id>
-        <link href="https://www.sigure.xyz/posts/2020/03/06/install-software-from-source.html">
+        <id>https://sigure.xyz/posts/2020/03/06/install-software-from-source.html</id>
+        <link href="https://sigure.xyz/posts/2020/03/06/install-software-from-source.html">
         </link>
         <updated>2020-03-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -143,19 +143,9 @@ Git Commit Message 虽然可以随意描述，但是应当使用对当前更改�
 ]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用 JupyterLab 开启全新的炼丹之旅]]></title>
-        <id>https://www.sigure.xyz/posts/2020/03/06/jupyter-lab.html</id>
-        <link href="https://www.sigure.xyz/posts/2020/03/06/jupyter-lab.html">
-        </link>
-        <updated>2020-03-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TIP
-本地设备的配置大大限制了炼丹的效率，如果有一个合适的服务器的话，如何配置能最方便地进行炼丹呢？
-]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[KaTeX 索引表]]></title>
-        <id>https://www.sigure.xyz/posts/2019/05/19/katex-index.html</id>
-        <link href="https://www.sigure.xyz/posts/2019/05/19/katex-index.html">
+        <id>https://sigure.xyz/posts/2019/05/19/katex-index.html</id>
+        <link href="https://sigure.xyz/posts/2019/05/19/katex-index.html">
         </link>
         <updated>2019-05-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -165,9 +155,19 @@ KaTeX\KaTeXKATE​X 支持的公式
 ]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[使用 JupyterLab 开启全新的炼丹之旅]]></title>
+        <id>https://sigure.xyz/posts/2020/03/06/jupyter-lab.html</id>
+        <link href="https://sigure.xyz/posts/2020/03/06/jupyter-lab.html">
+        </link>
+        <updated>2020-03-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+本地设备的配置大大限制了炼丹的效率，如果有一个合适的服务器的话，如何配置能最方便地进行炼丹呢？
+]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Maxout 的简单理解与实现]]></title>
-        <id>https://www.sigure.xyz/posts/2019/07/01/maxout.html</id>
-        <link href="https://www.sigure.xyz/posts/2019/07/01/maxout.html">
+        <id>https://sigure.xyz/posts/2019/07/01/maxout.html</id>
+        <link href="https://sigure.xyz/posts/2019/07/01/maxout.html">
         </link>
         <updated>2019-07-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -176,8 +176,8 @@ Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于�
     </entry>
     <entry>
         <title type="html"><![CDATA[在线工具集合]]></title>
-        <id>https://www.sigure.xyz/posts/2019/11/10/online-tools.html</id>
-        <link href="https://www.sigure.xyz/posts/2019/11/10/online-tools.html">
+        <id>https://sigure.xyz/posts/2019/11/10/online-tools.html</id>
+        <link href="https://sigure.xyz/posts/2019/11/10/online-tools.html">
         </link>
         <updated>2019-11-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -186,8 +186,8 @@ Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于�
     </entry>
     <entry>
         <title type="html"><![CDATA[Operating System]]></title>
-        <id>https://www.sigure.xyz/posts/2019/02/28/operating-system.html</id>
-        <link href="https://www.sigure.xyz/posts/2019/02/28/operating-system.html">
+        <id>https://sigure.xyz/posts/2019/02/28/operating-system.html</id>
+        <link href="https://sigure.xyz/posts/2019/02/28/operating-system.html">
         </link>
         <updated>2019-02-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -195,23 +195,23 @@ Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于�
 ]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Principles of Computer Composition]]></title>
-        <id>https://www.sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html</id>
-        <link href="https://www.sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html">
-        </link>
-        <updated>2019-11-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TIP
-《计算机组成原理》复习笔记
-]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[模拟退火算法]]></title>
-        <id>https://www.sigure.xyz/posts/2020/03/22/simulate-anneal.html</id>
-        <link href="https://www.sigure.xyz/posts/2020/03/22/simulate-anneal.html">
+        <id>https://sigure.xyz/posts/2020/03/22/simulate-anneal.html</id>
+        <link href="https://sigure.xyz/posts/2020/03/22/simulate-anneal.html">
         </link>
         <updated>2020-03-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
 神经网络优化的最大难题就是很容易陷入局部最优，前段时间考虑神经网络优化方法的时候偶然考虑到了这样一个问题：能量为什么总是能达到最低呢？该问题促使我展开了一系列的思（xia）考（xiang），当然，瞎想也没想出个啥，直到今天遇到了模拟退火算法……
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Principles of Computer Composition]]></title>
+        <id>https://sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html</id>
+        <link href="https://sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html">
+        </link>
+        <updated>2019-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+《计算机组成原理》复习笔记
 ]]></summary>
     </entry>
 </feed>

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Notev</title>
-        <link>https://www.sigure.xyz</link>
+        <link>https://sigure.xyz</link>
         <description>一个小透明的透明世界</description>
-        <lastBuildDate>Mon, 22 Jun 2020 08:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2020 12:51:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
-        <atom:link href="https://www.sigure.xyz/feed.atom" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://sigure.xyz/feed.atom" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[C and pointer]]></title>
-            <link>https://www.sigure.xyz/posts/2018/09/09/c-and-pointer.html</link>
-            <guid>https://www.sigure.xyz/posts/2018/09/09/c-and-pointer.html</guid>
+            <link>https://sigure.xyz/posts/2018/09/09/c-and-pointer.html</link>
+            <guid>https://sigure.xyz/posts/2018/09/09/c-and-pointer.html</guid>
             <pubDate>Sun, 09 Sep 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 为什么要了解指针呢？因为无法操作指针的话就无法精准操作内存，也正是这一特性造就了 C 经久不衰的发展，那么……要怎么学习指针呢？
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/C_and_pointer01.png">
+            <enclosure url="https://sigure.xyz/../img/C_and_pointer01.png">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[C to ++]]></title>
-            <link>https://www.sigure.xyz/posts/2019/10/04/c-to-plusplus.html</link>
-            <guid>https://www.sigure.xyz/posts/2019/10/04/c-to-plusplus.html</guid>
+            <link>https://sigure.xyz/posts/2019/10/04/c-to-plusplus.html</link>
+            <guid>https://sigure.xyz/posts/2019/10/04/c-to-plusplus.html</guid>
             <pubDate>Fri, 04 Oct 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 什么是 C++ ？顾名思义，它是在 C 语言的基础上进行了语法的扩展，但同时保留了对 C 语法的兼容性，这就使得 C++ 上能 OOP ，下能精准分配内存，正因为“无所不能”，所以想要一次性全掌握也是难上加难，但由于我们往往并不需要掌握的面面俱到（除非真的要坚持使用 C++ 开发），比如说只是用来刷刷题的话，我们只掌握部分语法即可，本篇也主要面对有着 C 语言基础而苦于入门 C++ 的初学者，让我们将 C++ 学成 C-- 吧~
@@ -32,8 +32,8 @@
         </item>
         <item>
             <title><![CDATA[初窥 Cmder]]></title>
-            <link>https://www.sigure.xyz/posts/2018/10/01/cmder.html</link>
-            <guid>https://www.sigure.xyz/posts/2018/10/01/cmder.html</guid>
+            <link>https://sigure.xyz/posts/2018/10/01/cmder.html</link>
+            <guid>https://sigure.xyz/posts/2018/10/01/cmder.html</guid>
             <pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 果然是一折腾就停不下来呀，刚重装了系统，又打起了原来没用明白的 cmder 的主意
@@ -41,41 +41,41 @@
         </item>
         <item>
             <title><![CDATA[Computer Network]]></title>
-            <link>https://www.sigure.xyz/posts/2019/09/18/computer-network.html</link>
-            <guid>https://www.sigure.xyz/posts/2019/09/18/computer-network.html</guid>
+            <link>https://sigure.xyz/posts/2019/09/18/computer-network.html</link>
+            <guid>https://sigure.xyz/posts/2019/09/18/computer-network.html</guid>
             <pubDate>Wed, 18 Sep 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 《计算机网络》复习笔记
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/Computer_Network/CN20.png">
+            <enclosure url="https://sigure.xyz/../img/Computer_Network/CN20.png">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[Data Structures and Algorthms]]></title>
-            <link>https://www.sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html</link>
-            <guid>https://www.sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html</guid>
+            <link>https://sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html</link>
+            <guid>https://sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html</guid>
             <pubDate>Wed, 21 Aug 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 《数据结构》复习笔记
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/Data_Structures_and_Algorithms/DS01.jpeg">
+            <enclosure url="https://sigure.xyz/../img/Data_Structures_and_Algorithms/DS01.jpeg">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[Deep Learning]]></title>
-            <link>https://www.sigure.xyz/posts/2018/10/14/deep-learning.html</link>
-            <guid>https://www.sigure.xyz/posts/2018/10/14/deep-learning.html</guid>
+            <link>https://sigure.xyz/posts/2018/10/14/deep-learning.html</link>
+            <guid>https://sigure.xyz/posts/2018/10/14/deep-learning.html</guid>
             <pubDate>Sun, 14 Oct 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 DeepLearning, Andrew Ng 慕课笔记
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/Deep_Learning/DL01.png">
+            <enclosure url="https://sigure.xyz/../img/Deep_Learning/DL01.png">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[Discrete Mathematics]]></title>
-            <link>https://www.sigure.xyz/posts/2019/04/25/discrete-mathematics.html</link>
-            <guid>https://www.sigure.xyz/posts/2019/04/25/discrete-mathematics.html</guid>
+            <link>https://sigure.xyz/posts/2019/04/25/discrete-mathematics.html</link>
+            <guid>https://sigure.xyz/posts/2019/04/25/discrete-mathematics.html</guid>
             <pubDate>Thu, 25 Apr 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 《离散数学及其应用》笔记
@@ -83,8 +83,8 @@ DeepLearning, Andrew Ng 慕课笔记
         </item>
         <item>
             <title><![CDATA[Diskpart 的简单使用]]></title>
-            <link>https://www.sigure.xyz/posts/2018/10/01/diskpart.html</link>
-            <guid>https://www.sigure.xyz/posts/2018/10/01/diskpart.html</guid>
+            <link>https://sigure.xyz/posts/2018/10/01/diskpart.html</link>
+            <guid>https://sigure.xyz/posts/2018/10/01/diskpart.html</guid>
             <pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 前段时间装了 SSD 后使用软件直接迁移的系统，之后出现了很多问题（比如经常莫名其妙音频服务未运行），所以昨晚一回到家就把硬盘通过局域网备份到另外一台电脑上，开始重装（emmm 我是想把 HHD 的混乱分区也弄一下的）
@@ -93,31 +93,31 @@ DeepLearning, Andrew Ng 慕课笔记
         </item>
         <item>
             <title><![CDATA[初尝 GAN]]></title>
-            <link>https://www.sigure.xyz/posts/2020/05/25/gan-started.html</link>
-            <guid>https://www.sigure.xyz/posts/2020/05/25/gan-started.html</guid>
+            <link>https://sigure.xyz/posts/2020/05/25/gan-started.html</link>
+            <guid>https://sigure.xyz/posts/2020/05/25/gan-started.html</guid>
             <pubDate>Mon, 25 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 最近在 DL 的学习方向上稍有迷茫，毕竟有那么多学习的方向嘛。“开学”那几天初尝 RL 做了个 AlphaZero 五子棋，但理论什么的尚需补足，而且暂时没有什么别的想做的也没继续深入。毕设这段时间主要是学习一些机器学习领域的知识啦，大多是一些浅层神经网络及其优化算法，比如 AutoEncoder 和遗传算法等等，唔，本来兴趣就寥寥，然后毕设凉了就更没动力了……
 前两天突然翻出来一张猫猫十年前的照片，但分辨率实在太低啦（240 * 320），就想尝试一下超分辨率相关模型，发现最近超分辨率也在用 GAN 啦，所以，就尝试学一下～
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/GAN_started/CGAN-01.png">
+            <enclosure url="https://sigure.xyz/../img/GAN_started/CGAN-01.png">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[Git 协作模式]]></title>
-            <link>https://www.sigure.xyz/posts/2019/10/26/git-collaboration.html</link>
-            <guid>https://www.sigure.xyz/posts/2019/10/26/git-collaboration.html</guid>
+            <link>https://sigure.xyz/posts/2019/10/26/git-collaboration.html</link>
+            <guid>https://sigure.xyz/posts/2019/10/26/git-collaboration.html</guid>
             <pubDate>Sat, 26 Oct 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 虽然平时写个笔记都会使用 Git 来保存，但常用的也就只有 add、commit、push 等等简单的命令啦，偶尔出点问题都需要去现查，为了提高效率，我在这里整理一下简单的 Git 协作命令，以备不时之需ヽ(✿ ﾟ ▽ ﾟ)ノ
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/Git_Collaboration01.png">
+            <enclosure url="https://sigure.xyz/../img/Git_Collaboration01.png">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[Git 提交说明]]></title>
-            <link>https://www.sigure.xyz/posts/2018/09/16/git-commit.html</link>
-            <guid>https://www.sigure.xyz/posts/2018/09/16/git-commit.html</guid>
+            <link>https://sigure.xyz/posts/2018/09/16/git-commit.html</link>
+            <guid>https://sigure.xyz/posts/2018/09/16/git-commit.html</guid>
             <pubDate>Sun, 16 Sep 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 Git Commit Message 虽然可以随意描述，但是应当使用对当前更改最合适的描述才有意义，而且在 review 代码的时候能够最快地找到相关位置，Commit Message 的规范有助于提高其意义，下面会分别介绍通用的规范以及可爱的 Gitmoji 规范
@@ -125,19 +125,19 @@ Git Commit Message 虽然可以随意描述，但是应当使用对当前更改�
         </item>
         <item>
             <title><![CDATA[初识图卷积神经网络（GCN）]]></title>
-            <link>https://www.sigure.xyz/posts/2019/08/16/hello-gcn.html</link>
-            <guid>https://www.sigure.xyz/posts/2019/08/16/hello-gcn.html</guid>
+            <link>https://sigure.xyz/posts/2019/08/16/hello-gcn.html</link>
+            <guid>https://sigure.xyz/posts/2019/08/16/hello-gcn.html</guid>
             <pubDate>Fri, 16 Aug 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 随着深度学习的快速发展，传统神经网络结构的弊端也日益凸显，无论是 CNNCNNCNN 还是 RNNRNNRNN ，处理的数据仅限于欧式空间，而对于拓扑结构的数据就手足无措了，然而我们我们生活的世界更多的数据还是拓扑结构数据，至于表示拓扑结构的最好方法，非图莫属了，那么如何利用图的结构进行学习呢，下面让我们一探 GCNGCNGCN 的究竟
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/Hello_GCN/GCN_01.png">
+            <enclosure url="https://sigure.xyz/../img/Hello_GCN/GCN_01.png">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[Linux 上使用源码编译程序]]></title>
-            <link>https://www.sigure.xyz/posts/2020/03/06/install-software-from-source.html</link>
-            <guid>https://www.sigure.xyz/posts/2020/03/06/install-software-from-source.html</guid>
+            <link>https://sigure.xyz/posts/2020/03/06/install-software-from-source.html</link>
+            <guid>https://sigure.xyz/posts/2020/03/06/install-software-from-source.html</guid>
             <pubDate>Fri, 06 Mar 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 虽然 Linux 上的包管理器很方便，但是没有 root 权限时还是很头疼的，这就需要我们自己寻找软件源码自行编译咯~
@@ -145,18 +145,9 @@ Git Commit Message 虽然可以随意描述，但是应当使用对当前更改�
 ]]></description>
         </item>
         <item>
-            <title><![CDATA[使用 JupyterLab 开启全新的炼丹之旅]]></title>
-            <link>https://www.sigure.xyz/posts/2020/03/06/jupyter-lab.html</link>
-            <guid>https://www.sigure.xyz/posts/2020/03/06/jupyter-lab.html</guid>
-            <pubDate>Fri, 06 Mar 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[TIP
-本地设备的配置大大限制了炼丹的效率，如果有一个合适的服务器的话，如何配置能最方便地进行炼丹呢？
-]]></description>
-        </item>
-        <item>
             <title><![CDATA[KaTeX 索引表]]></title>
-            <link>https://www.sigure.xyz/posts/2019/05/19/katex-index.html</link>
-            <guid>https://www.sigure.xyz/posts/2019/05/19/katex-index.html</guid>
+            <link>https://sigure.xyz/posts/2019/05/19/katex-index.html</link>
+            <guid>https://sigure.xyz/posts/2019/05/19/katex-index.html</guid>
             <pubDate>Sun, 19 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 一份个人 KaTeX\KaTeXKATE​X 常用公式索引表，持续更新~
@@ -165,20 +156,29 @@ KaTeX\KaTeXKATE​X 支持的公式
 ]]></description>
         </item>
         <item>
+            <title><![CDATA[使用 JupyterLab 开启全新的炼丹之旅]]></title>
+            <link>https://sigure.xyz/posts/2020/03/06/jupyter-lab.html</link>
+            <guid>https://sigure.xyz/posts/2020/03/06/jupyter-lab.html</guid>
+            <pubDate>Fri, 06 Mar 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[TIP
+本地设备的配置大大限制了炼丹的效率，如果有一个合适的服务器的话，如何配置能最方便地进行炼丹呢？
+]]></description>
+        </item>
+        <item>
             <title><![CDATA[Maxout 的简单理解与实现]]></title>
-            <link>https://www.sigure.xyz/posts/2019/07/01/maxout.html</link>
-            <guid>https://www.sigure.xyz/posts/2019/07/01/maxout.html</guid>
+            <link>https://sigure.xyz/posts/2019/07/01/maxout.html</link>
+            <guid>https://sigure.xyz/posts/2019/07/01/maxout.html</guid>
             <pubDate>Mon, 01 Jul 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于其它的激活函数，Maxout 本身是需要参数的，参数可以通过网络的反向传播得到学习，相应地，它比其它激活函数有着更好的性能，理论上可以拟合任意凸函数，进而使得网络取得更好的性能
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/Maxout/Maxout01.png">
+            <enclosure url="https://sigure.xyz/../img/Maxout/Maxout01.png">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[在线工具集合]]></title>
-            <link>https://www.sigure.xyz/posts/2019/11/10/online-tools.html</link>
-            <guid>https://www.sigure.xyz/posts/2019/11/10/online-tools.html</guid>
+            <link>https://sigure.xyz/posts/2019/11/10/online-tools.html</link>
+            <guid>https://sigure.xyz/posts/2019/11/10/online-tools.html</guid>
             <pubDate>Sun, 10 Nov 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 收集一些好用的在线工具~
@@ -186,35 +186,35 @@ Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于�
         </item>
         <item>
             <title><![CDATA[Operating System]]></title>
-            <link>https://www.sigure.xyz/posts/2019/02/28/operating-system.html</link>
-            <guid>https://www.sigure.xyz/posts/2019/02/28/operating-system.html</guid>
+            <link>https://sigure.xyz/posts/2019/02/28/operating-system.html</link>
+            <guid>https://sigure.xyz/posts/2019/02/28/operating-system.html</guid>
             <pubDate>Thu, 28 Feb 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 《计算机操作系统》课程笔记
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/Operating_System/OS01.png">
-            </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[Principles of Computer Composition]]></title>
-            <link>https://www.sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html</link>
-            <guid>https://www.sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html</guid>
-            <pubDate>Sun, 17 Nov 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[TIP
-《计算机组成原理》复习笔记
-]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/Principles_of_Computer_Composition/PCC01.png">
+            <enclosure url="https://sigure.xyz/../img/Operating_System/OS01.png">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[模拟退火算法]]></title>
-            <link>https://www.sigure.xyz/posts/2020/03/22/simulate-anneal.html</link>
-            <guid>https://www.sigure.xyz/posts/2020/03/22/simulate-anneal.html</guid>
+            <link>https://sigure.xyz/posts/2020/03/22/simulate-anneal.html</link>
+            <guid>https://sigure.xyz/posts/2020/03/22/simulate-anneal.html</guid>
             <pubDate>Sun, 22 Mar 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 神经网络优化的最大难题就是很容易陷入局部最优，前段时间考虑神经网络优化方法的时候偶然考虑到了这样一个问题：能量为什么总是能达到最低呢？该问题促使我展开了一系列的思（xia）考（xiang），当然，瞎想也没想出个啥，直到今天遇到了模拟退火算法……
 ]]></description>
-            <enclosure url="https://www.sigure.xyz/../img/Solid-state_Phase_Transformation/SPT02.png">
+            <enclosure url="https://sigure.xyz/../img/Solid-state_Phase_Transformation/SPT02.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Principles of Computer Composition]]></title>
+            <link>https://sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html</link>
+            <guid>https://sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html</guid>
+            <pubDate>Sun, 17 Nov 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[TIP
+《计算机组成原理》复习笔记
+]]></description>
+            <enclosure url="https://sigure.xyz/../img/Principles_of_Computer_Composition/PCC01.png">
             </enclosure>
         </item>
     </channel>

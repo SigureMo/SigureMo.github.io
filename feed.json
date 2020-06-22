@@ -1,160 +1,160 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Notev",
-    "home_page_url": "https://www.sigure.xyz",
-    "feed_url": "https://www.sigure.xyz/feed.json",
+    "home_page_url": "https://sigure.xyz",
+    "feed_url": "https://sigure.xyz/feed.json",
     "description": "一个小透明的透明世界",
     "items": [
         {
-            "id": "https://www.sigure.xyz/posts/2018/09/09/c-and-pointer.html",
-            "url": "https://www.sigure.xyz/posts/2018/09/09/c-and-pointer.html",
+            "id": "https://sigure.xyz/posts/2018/09/09/c-and-pointer.html",
+            "url": "https://sigure.xyz/posts/2018/09/09/c-and-pointer.html",
             "title": "C and pointer",
             "summary": "TIP\n为什么要了解指针呢？因为无法操作指针的话就无法精准操作内存，也正是这一特性造就了 C 经久不衰的发展，那么……要怎么学习指针呢？\n",
-            "image": "https://www.sigure.xyz/../img/C_and_pointer01.png",
+            "image": "https://sigure.xyz/../img/C_and_pointer01.png",
             "date_modified": "2018-09-09T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2019/10/04/c-to-plusplus.html",
-            "url": "https://www.sigure.xyz/posts/2019/10/04/c-to-plusplus.html",
+            "id": "https://sigure.xyz/posts/2019/10/04/c-to-plusplus.html",
+            "url": "https://sigure.xyz/posts/2019/10/04/c-to-plusplus.html",
             "title": "C to ++",
             "summary": "TIP\n什么是 C++ ？顾名思义，它是在 C 语言的基础上进行了语法的扩展，但同时保留了对 C 语法的兼容性，这就使得 C++ 上能 OOP ，下能精准分配内存，正因为“无所不能”，所以想要一次性全掌握也是难上加难，但由于我们往往并不需要掌握的面面俱到（除非真的要坚持使用 C++ 开发），比如说只是用来刷刷题的话，我们只掌握部分语法即可，本篇也主要面对有着 C 语言基础而苦于入门 C++ 的初学者，让我们将 C++ 学成 C-- 吧~\n\n学习中，会持续修改与更新，如有错误与疏漏，欢迎指正~\n",
             "date_modified": "2019-10-04T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2018/10/01/cmder.html",
-            "url": "https://www.sigure.xyz/posts/2018/10/01/cmder.html",
+            "id": "https://sigure.xyz/posts/2018/10/01/cmder.html",
+            "url": "https://sigure.xyz/posts/2018/10/01/cmder.html",
             "title": "初窥 Cmder",
             "summary": "TIP\n果然是一折腾就停不下来呀，刚重装了系统，又打起了原来没用明白的 cmder 的主意\n",
             "date_modified": "2018-10-01T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2019/09/18/computer-network.html",
-            "url": "https://www.sigure.xyz/posts/2019/09/18/computer-network.html",
+            "id": "https://sigure.xyz/posts/2019/09/18/computer-network.html",
+            "url": "https://sigure.xyz/posts/2019/09/18/computer-network.html",
             "title": "Computer Network",
             "summary": "TIP\n《计算机网络》复习笔记\n",
-            "image": "https://www.sigure.xyz/../img/Computer_Network/CN20.png",
+            "image": "https://sigure.xyz/../img/Computer_Network/CN20.png",
             "date_modified": "2019-09-18T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html",
-            "url": "https://www.sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html",
+            "id": "https://sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html",
+            "url": "https://sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html",
             "title": "Data Structures and Algorthms",
             "summary": "TIP\n《数据结构》复习笔记\n",
-            "image": "https://www.sigure.xyz/../img/Data_Structures_and_Algorithms/DS01.jpeg",
+            "image": "https://sigure.xyz/../img/Data_Structures_and_Algorithms/DS01.jpeg",
             "date_modified": "2019-08-21T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2018/10/14/deep-learning.html",
-            "url": "https://www.sigure.xyz/posts/2018/10/14/deep-learning.html",
+            "id": "https://sigure.xyz/posts/2018/10/14/deep-learning.html",
+            "url": "https://sigure.xyz/posts/2018/10/14/deep-learning.html",
             "title": "Deep Learning",
             "summary": "TIP\nDeepLearning, Andrew Ng 慕课笔记\n",
-            "image": "https://www.sigure.xyz/../img/Deep_Learning/DL01.png",
+            "image": "https://sigure.xyz/../img/Deep_Learning/DL01.png",
             "date_modified": "2018-10-14T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2019/04/25/discrete-mathematics.html",
-            "url": "https://www.sigure.xyz/posts/2019/04/25/discrete-mathematics.html",
+            "id": "https://sigure.xyz/posts/2019/04/25/discrete-mathematics.html",
+            "url": "https://sigure.xyz/posts/2019/04/25/discrete-mathematics.html",
             "title": "Discrete Mathematics",
             "summary": "TIP\n《离散数学及其应用》笔记\n",
             "date_modified": "2019-04-25T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2018/10/01/diskpart.html",
-            "url": "https://www.sigure.xyz/posts/2018/10/01/diskpart.html",
+            "id": "https://sigure.xyz/posts/2018/10/01/diskpart.html",
+            "url": "https://sigure.xyz/posts/2018/10/01/diskpart.html",
             "title": "Diskpart 的简单使用",
             "summary": "TIP\n前段时间装了 SSD 后使用软件直接迁移的系统，之后出现了很多问题（比如经常莫名其妙音频服务未运行），所以昨晚一回到家就把硬盘通过局域网备份到另外一台电脑上，开始重装（emmm 我是想把 HHD 的混乱分区也弄一下的）\n做完系统 U 盘并设为启动盘后就进入了熟悉的界面啦，但是这次选择分区并不是很顺利，粗现了“Windows 无法安装到 GPT 分区形式磁盘”的问题，为了解决该问题我了解到了 diskpark 这个小工具……\n",
             "date_modified": "2018-10-01T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2020/05/25/gan-started.html",
-            "url": "https://www.sigure.xyz/posts/2020/05/25/gan-started.html",
+            "id": "https://sigure.xyz/posts/2020/05/25/gan-started.html",
+            "url": "https://sigure.xyz/posts/2020/05/25/gan-started.html",
             "title": "初尝 GAN",
             "summary": "TIP\n最近在 DL 的学习方向上稍有迷茫，毕竟有那么多学习的方向嘛。“开学”那几天初尝 RL 做了个 AlphaZero 五子棋，但理论什么的尚需补足，而且暂时没有什么别的想做的也没继续深入。毕设这段时间主要是学习一些机器学习领域的知识啦，大多是一些浅层神经网络及其优化算法，比如 AutoEncoder 和遗传算法等等，唔，本来兴趣就寥寥，然后毕设凉了就更没动力了……\n前两天突然翻出来一张猫猫十年前的照片，但分辨率实在太低啦（240 * 320），就想尝试一下超分辨率相关模型，发现最近超分辨率也在用 GAN 啦，所以，就尝试学一下～\n",
-            "image": "https://www.sigure.xyz/../img/GAN_started/CGAN-01.png",
+            "image": "https://sigure.xyz/../img/GAN_started/CGAN-01.png",
             "date_modified": "2020-05-25T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2019/10/26/git-collaboration.html",
-            "url": "https://www.sigure.xyz/posts/2019/10/26/git-collaboration.html",
+            "id": "https://sigure.xyz/posts/2019/10/26/git-collaboration.html",
+            "url": "https://sigure.xyz/posts/2019/10/26/git-collaboration.html",
             "title": "Git 协作模式",
             "summary": "TIP\n虽然平时写个笔记都会使用 Git 来保存，但常用的也就只有 add、commit、push 等等简单的命令啦，偶尔出点问题都需要去现查，为了提高效率，我在这里整理一下简单的 Git 协作命令，以备不时之需ヽ(✿ ﾟ ▽ ﾟ)ノ\n",
-            "image": "https://www.sigure.xyz/../img/Git_Collaboration01.png",
+            "image": "https://sigure.xyz/../img/Git_Collaboration01.png",
             "date_modified": "2019-10-26T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2018/09/16/git-commit.html",
-            "url": "https://www.sigure.xyz/posts/2018/09/16/git-commit.html",
+            "id": "https://sigure.xyz/posts/2018/09/16/git-commit.html",
+            "url": "https://sigure.xyz/posts/2018/09/16/git-commit.html",
             "title": "Git 提交说明",
             "summary": "TIP\nGit Commit Message 虽然可以随意描述，但是应当使用对当前更改最合适的描述才有意义，而且在 review 代码的时候能够最快地找到相关位置，Commit Message 的规范有助于提高其意义，下面会分别介绍通用的规范以及可爱的 Gitmoji 规范\n",
             "date_modified": "2018-09-16T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2019/08/16/hello-gcn.html",
-            "url": "https://www.sigure.xyz/posts/2019/08/16/hello-gcn.html",
+            "id": "https://sigure.xyz/posts/2019/08/16/hello-gcn.html",
+            "url": "https://sigure.xyz/posts/2019/08/16/hello-gcn.html",
             "title": "初识图卷积神经网络（GCN）",
             "summary": "TIP\n随着深度学习的快速发展，传统神经网络结构的弊端也日益凸显，无论是 CNNCNNCNN 还是 RNNRNNRNN ，处理的数据仅限于欧式空间，而对于拓扑结构的数据就手足无措了，然而我们我们生活的世界更多的数据还是拓扑结构数据，至于表示拓扑结构的最好方法，非图莫属了，那么如何利用图的结构进行学习呢，下面让我们一探 GCNGCNGCN 的究竟\n",
-            "image": "https://www.sigure.xyz/../img/Hello_GCN/GCN_01.png",
+            "image": "https://sigure.xyz/../img/Hello_GCN/GCN_01.png",
             "date_modified": "2019-08-16T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2020/03/06/install-software-from-source.html",
-            "url": "https://www.sigure.xyz/posts/2020/03/06/install-software-from-source.html",
+            "id": "https://sigure.xyz/posts/2020/03/06/install-software-from-source.html",
+            "url": "https://sigure.xyz/posts/2020/03/06/install-software-from-source.html",
             "title": "Linux 上使用源码编译程序",
             "summary": "TIP\n虽然 Linux 上的包管理器很方便，但是没有 root 权限时还是很头疼的，这就需要我们自己寻找软件源码自行编译咯~\n下面以安装 node-v12.16.1 为例\n",
             "date_modified": "2020-03-06T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2020/03/06/jupyter-lab.html",
-            "url": "https://www.sigure.xyz/posts/2020/03/06/jupyter-lab.html",
-            "title": "使用 JupyterLab 开启全新的炼丹之旅",
-            "summary": "TIP\n本地设备的配置大大限制了炼丹的效率，如果有一个合适的服务器的话，如何配置能最方便地进行炼丹呢？\n",
-            "date_modified": "2020-03-06T00:00:00.000Z"
-        },
-        {
-            "id": "https://www.sigure.xyz/posts/2019/05/19/katex-index.html",
-            "url": "https://www.sigure.xyz/posts/2019/05/19/katex-index.html",
+            "id": "https://sigure.xyz/posts/2019/05/19/katex-index.html",
+            "url": "https://sigure.xyz/posts/2019/05/19/katex-index.html",
             "title": "KaTeX 索引表",
             "summary": "TIP\n一份个人 KaTeX\\KaTeXKATE​X 常用公式索引表，持续更新~\n\nKaTeX\\KaTeXKATE​X 支持的公式\n",
             "date_modified": "2019-05-19T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2019/07/01/maxout.html",
-            "url": "https://www.sigure.xyz/posts/2019/07/01/maxout.html",
+            "id": "https://sigure.xyz/posts/2020/03/06/jupyter-lab.html",
+            "url": "https://sigure.xyz/posts/2020/03/06/jupyter-lab.html",
+            "title": "使用 JupyterLab 开启全新的炼丹之旅",
+            "summary": "TIP\n本地设备的配置大大限制了炼丹的效率，如果有一个合适的服务器的话，如何配置能最方便地进行炼丹呢？\n",
+            "date_modified": "2020-03-06T00:00:00.000Z"
+        },
+        {
+            "id": "https://sigure.xyz/posts/2019/07/01/maxout.html",
+            "url": "https://sigure.xyz/posts/2019/07/01/maxout.html",
             "title": "Maxout 的简单理解与实现",
             "summary": "TIP\nMaxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于其它的激活函数，Maxout 本身是需要参数的，参数可以通过网络的反向传播得到学习，相应地，它比其它激活函数有着更好的性能，理论上可以拟合任意凸函数，进而使得网络取得更好的性能\n",
-            "image": "https://www.sigure.xyz/../img/Maxout/Maxout01.png",
+            "image": "https://sigure.xyz/../img/Maxout/Maxout01.png",
             "date_modified": "2019-07-01T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2019/11/10/online-tools.html",
-            "url": "https://www.sigure.xyz/posts/2019/11/10/online-tools.html",
+            "id": "https://sigure.xyz/posts/2019/11/10/online-tools.html",
+            "url": "https://sigure.xyz/posts/2019/11/10/online-tools.html",
             "title": "在线工具集合",
             "summary": "TIP\n收集一些好用的在线工具~\n",
             "date_modified": "2019-11-10T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2019/02/28/operating-system.html",
-            "url": "https://www.sigure.xyz/posts/2019/02/28/operating-system.html",
+            "id": "https://sigure.xyz/posts/2019/02/28/operating-system.html",
+            "url": "https://sigure.xyz/posts/2019/02/28/operating-system.html",
             "title": "Operating System",
             "summary": "TIP\n《计算机操作系统》课程笔记\n",
-            "image": "https://www.sigure.xyz/../img/Operating_System/OS01.png",
+            "image": "https://sigure.xyz/../img/Operating_System/OS01.png",
             "date_modified": "2019-02-28T00:00:00.000Z"
         },
         {
-            "id": "https://www.sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html",
-            "url": "https://www.sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html",
-            "title": "Principles of Computer Composition",
-            "summary": "TIP\n《计算机组成原理》复习笔记\n",
-            "image": "https://www.sigure.xyz/../img/Principles_of_Computer_Composition/PCC01.png",
-            "date_modified": "2019-11-17T00:00:00.000Z"
-        },
-        {
-            "id": "https://www.sigure.xyz/posts/2020/03/22/simulate-anneal.html",
-            "url": "https://www.sigure.xyz/posts/2020/03/22/simulate-anneal.html",
+            "id": "https://sigure.xyz/posts/2020/03/22/simulate-anneal.html",
+            "url": "https://sigure.xyz/posts/2020/03/22/simulate-anneal.html",
             "title": "模拟退火算法",
             "summary": "TIP\n神经网络优化的最大难题就是很容易陷入局部最优，前段时间考虑神经网络优化方法的时候偶然考虑到了这样一个问题：能量为什么总是能达到最低呢？该问题促使我展开了一系列的思（xia）考（xiang），当然，瞎想也没想出个啥，直到今天遇到了模拟退火算法……\n",
-            "image": "https://www.sigure.xyz/../img/Solid-state_Phase_Transformation/SPT02.png",
+            "image": "https://sigure.xyz/../img/Solid-state_Phase_Transformation/SPT02.png",
             "date_modified": "2020-03-22T00:00:00.000Z"
+        },
+        {
+            "id": "https://sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html",
+            "url": "https://sigure.xyz/posts/2019/11/17/principles-of-computer-composition.html",
+            "title": "Principles of Computer Composition",
+            "summary": "TIP\n《计算机组成原理》复习笔记\n",
+            "image": "https://sigure.xyz/../img/Principles_of_Computer_Composition/PCC01.png",
+            "date_modified": "2019-11-17T00:00:00.000Z"
         }
     ]
 }
