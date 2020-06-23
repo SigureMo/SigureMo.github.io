@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sigure.xyz</id>
     <title>Notev</title>
-    <updated>2020-06-23T19:47:57.235Z</updated>
+    <updated>2020-06-23T20:31:27.587Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://sigure.xyz"/>
     <link rel="self" href="https://sigure.xyz/feed.atom"/>
