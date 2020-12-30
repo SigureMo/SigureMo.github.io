@@ -1,152 +1,152 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Notev",
-    "home_page_url": "https://sigure.xyz",
-    "feed_url": "https://sigure.xyz/feed.json",
+    "home_page_url": "https://nyakku.moe",
+    "feed_url": "https://nyakku.moe/feed.json",
     "description": "一个小透明的透明世界",
     "items": [
         {
-            "id": "https://sigure.xyz/posts/2019/08/17/build-blog-by-vuepress.html",
-            "url": "https://sigure.xyz/posts/2019/08/17/build-blog-by-vuepress.html",
+            "id": "https://nyakku.moe/posts/2019/08/17/build-blog-by-vuepress.html",
+            "url": "https://nyakku.moe/posts/2019/08/17/build-blog-by-vuepress.html",
             "title": "使用 Vuepress 搭建个人静态 Blog",
             "summary": "TIP\n静态博客并不难搭建，但是对前端什么都不懂的我还是走了很多的弯路，而且 vuepress 是一个比较新的框架，网上的资源还是较少的，能用的资源基本只有文档，本文跟随源文档，以最简的方式搭建一个简单的文档 demo ，进而搭建一个属于你自己的 blog\n",
             "date_modified": "2019-08-17T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2019/10/04/c-to-plusplus.html",
-            "url": "https://sigure.xyz/posts/2019/10/04/c-to-plusplus.html",
+            "id": "https://nyakku.moe/posts/2019/10/04/c-to-plusplus.html",
+            "url": "https://nyakku.moe/posts/2019/10/04/c-to-plusplus.html",
             "title": "C to ++",
             "summary": "TIP\n什么是 C++ ？顾名思义，它是在 C 语言的基础上进行了语法的扩展，但同时保留了对 C 语法的兼容性，这就使得 C++ 上能 OOP ，下能精准分配内存，正因为“无所不能”，所以想要一次性全掌握也是难上加难，但由于我们往往并不需要掌握的面面俱到（除非真的要坚持使用 C++ 开发），比如说只是用来刷刷题的话，我们只掌握部分语法即可，本篇也主要面对有着 C 语言基础而苦于入门 C++ 的初学者，让我们将 C++ 学成 C-- 吧~\n\n学习中，会持续修改与更新，如有错误与疏漏，欢迎指正~\n",
             "date_modified": "2019-10-04T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2019/09/18/computer-network.html",
-            "url": "https://sigure.xyz/posts/2019/09/18/computer-network.html",
+            "id": "https://nyakku.moe/posts/2019/09/18/computer-network.html",
+            "url": "https://nyakku.moe/posts/2019/09/18/computer-network.html",
             "title": "Computer Network",
             "summary": "TIP\n《计算机网络》复习笔记\n",
-            "image": "https://sigure.xyz/../img/Computer_Network/CN20.png",
+            "image": "https://nyakku.moe/../img/Computer_Network/CN20.png",
             "date_modified": "2019-09-18T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2020/04/20/conference-location.html",
-            "url": "https://sigure.xyz/posts/2020/04/20/conference-location.html",
+            "id": "https://nyakku.moe/posts/2020/04/20/conference-location.html",
+            "url": "https://nyakku.moe/posts/2020/04/20/conference-location.html",
             "title": "各大深度学习顶会举办地点",
             "summary": "TIP\n最近在做本科毕设，查了好多好多文献，不过都木有按照具体格式来写，但这两天临近中期检查，不得不整理一下咯\n但，论文要求里的参考文献格式就很麻烦，国内的倒还好，知网或维普搜一下直接导出后稍作修改就好了，但国外的论文所提供的 cite 与要求的格式相差很多，特别是会议论文，居然还需要填写会议地址，这我哪里知道嘛(⇀‸↼‶)\n所幸我搜到了 ref1，解决了我的燃眉之急ヾ(≧∇≦*)ゝ，这里我先转载一下其内容，并进行部分补充\n",
             "date_modified": "2020-04-20T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html",
-            "url": "https://sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html",
+            "id": "https://nyakku.moe/posts/2019/08/21/data-structures-and-algorithms.html",
+            "url": "https://nyakku.moe/posts/2019/08/21/data-structures-and-algorithms.html",
             "title": "Data Structures and Algorthms",
             "summary": "TIP\n《数据结构》复习笔记\n",
-            "image": "https://sigure.xyz/../img/Data_Structures_and_Algorithms/DS01.jpg",
+            "image": "https://nyakku.moe/../img/Data_Structures_and_Algorithms/DS01.jpg",
             "date_modified": "2019-08-21T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2018/10/14/deep-learning.html",
-            "url": "https://sigure.xyz/posts/2018/10/14/deep-learning.html",
+            "id": "https://nyakku.moe/posts/2018/10/14/deep-learning.html",
+            "url": "https://nyakku.moe/posts/2018/10/14/deep-learning.html",
             "title": "Deep Learning",
             "summary": "TIP\nDeepLearning, Andrew Ng 慕课笔记\n",
-            "image": "https://sigure.xyz/../img/Deep_Learning/DL01.png",
+            "image": "https://nyakku.moe/../img/Deep_Learning/DL01.png",
             "date_modified": "2018-10-14T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2020/06/22/deploy-blog-using-github-action.html",
-            "url": "https://sigure.xyz/posts/2020/06/22/deploy-blog-using-github-action.html",
+            "id": "https://nyakku.moe/posts/2020/06/22/deploy-blog-using-github-action.html",
+            "url": "https://nyakku.moe/posts/2020/06/22/deploy-blog-using-github-action.html",
             "title": "采用 GitHub Action 自动化部署博客",
             "summary": "TIP\n博客的部署往往只需要一行命令，但却需要花费我几分钟在本地的构建时间，完成博客内容后本应该放松放松心情，这几分钟的等待显得尤为惹人生厌\n那么如何解决这个问题呐？当然是自动化部署啦，这样我们每次只需要将写完的博客 Push 到 GitHub 上，就可以触发相应的 CI 以完成博客的自动部署咯，所以这里就介绍如何使用 GitHub Action 来自动化部署博客\n",
             "date_modified": "2020-06-22T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2019/04/25/discrete-mathematics.html",
-            "url": "https://sigure.xyz/posts/2019/04/25/discrete-mathematics.html",
+            "id": "https://nyakku.moe/posts/2019/04/25/discrete-mathematics.html",
+            "url": "https://nyakku.moe/posts/2019/04/25/discrete-mathematics.html",
             "title": "Discrete Mathematics",
             "summary": "TIP\n《离散数学及其应用》笔记\n",
             "date_modified": "2019-04-25T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2020/04/06/first-experience-for-manjaro.html",
-            "url": "https://sigure.xyz/posts/2020/04/06/first-experience-for-manjaro.html",
+            "id": "https://nyakku.moe/posts/2020/04/06/first-experience-for-manjaro.html",
+            "url": "https://nyakku.moe/posts/2020/04/06/first-experience-for-manjaro.html",
             "title": "Manjaro 初体验",
             "summary": "TIP\n虽然此前也接触 Linux 很久了，但平时也只是作为备用系统偶尔用用罢了，之前也用过一段时间 deepin，但是有很多细节上有 bug，一段时间后还是将 Windows 作为我的主力系统了。\n前段时间了解到了 Manjaro 这个 Linux 发行版，可以非常方便地安装软件，所以决定尝试一下下～\n",
             "date_modified": "2020-04-06T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2020/05/25/gan-started.html",
-            "url": "https://sigure.xyz/posts/2020/05/25/gan-started.html",
+            "id": "https://nyakku.moe/posts/2020/05/25/gan-started.html",
+            "url": "https://nyakku.moe/posts/2020/05/25/gan-started.html",
             "title": "初尝 GAN",
             "summary": "TIP\n最近在 DL 的学习方向上稍有迷茫，毕竟有那么多学习的方向嘛。“开学”那几天初尝 RL 做了个 AlphaZero 五子棋，但理论什么的尚需补足，而且暂时没有什么别的想做的也没继续深入。毕设这段时间主要是学习一些机器学习领域的知识啦，大多是一些浅层神经网络及其优化算法，比如 AutoEncoder 和遗传算法等等，唔，本来兴趣就寥寥，然后毕设凉了就更没动力了……\n前两天突然翻出来一张猫猫十年前的照片，但分辨率实在太低啦（240 * 320），就想尝试一下超分辨率相关模型，发现最近超分辨率也在用 GAN 啦，所以，就尝试学一下～\n",
-            "image": "https://sigure.xyz/../img/GAN_started/CGAN-01.png",
+            "image": "https://nyakku.moe/../img/GAN_started/CGAN-01.png",
             "date_modified": "2020-05-25T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2019/10/26/git-collaboration.html",
-            "url": "https://sigure.xyz/posts/2019/10/26/git-collaboration.html",
+            "id": "https://nyakku.moe/posts/2019/10/26/git-collaboration.html",
+            "url": "https://nyakku.moe/posts/2019/10/26/git-collaboration.html",
             "title": "Git 协作模式",
             "summary": "TIP\n虽然平时写个笔记都会使用 Git 来保存，但常用的也就只有 add、commit、push 等等简单的命令啦，偶尔出点问题都需要去现查，为了提高效率，我在这里整理一下简单的 Git 协作命令，以备不时之需ヽ(✿ ﾟ ▽ ﾟ)ノ\n",
-            "image": "https://sigure.xyz/../img/Git_Collaboration01.png",
+            "image": "https://nyakku.moe/../img/Git_Collaboration01.png",
             "date_modified": "2019-10-26T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2018/09/16/git-commit-message-convention.html",
-            "url": "https://sigure.xyz/posts/2018/09/16/git-commit-message-convention.html",
+            "id": "https://nyakku.moe/posts/2018/09/16/git-commit-message-convention.html",
+            "url": "https://nyakku.moe/posts/2018/09/16/git-commit-message-convention.html",
             "title": "Git 提交信息规范",
             "summary": "TIP\nGit Commit Message 虽然可以随意描述，但使用没有意义的描述对于后续 review 代码以及理解代码用途等方面都会造成巨大的影响。因此 Commit Message 具有意义是最基本的要求，此外，你还应该遵守一定的格式规范，这样能够让大家更快更清晰地了解该 Commit 的详情。这里我主要介绍下常规的 Git Commit 规范和 Gitmoji 规范，最后介绍下我常用的相关配置。\n",
             "date_modified": "2018-09-16T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2020/06/17/graduation.html",
-            "url": "https://sigure.xyz/posts/2020/06/17/graduation.html",
+            "id": "https://nyakku.moe/posts/2020/06/17/graduation.html",
+            "url": "https://nyakku.moe/posts/2020/06/17/graduation.html",
             "title": "锦瑟年华谁与度",
             "summary": "TIP\n嗯，结束了，去更大的世界看看吧\n",
             "date_modified": "2020-06-17T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2019/08/16/hello-gcn.html",
-            "url": "https://sigure.xyz/posts/2019/08/16/hello-gcn.html",
+            "id": "https://nyakku.moe/posts/2019/08/16/hello-gcn.html",
+            "url": "https://nyakku.moe/posts/2019/08/16/hello-gcn.html",
             "title": "初识图卷积神经网络（GCN）",
             "summary": "TIP\n随着深度学习的快速发展，传统神经网络结构的弊端也日益凸显，无论是 CNNCNNCNN 还是 RNNRNNRNN ，处理的数据仅限于欧式空间，而对于拓扑结构的数据就手足无措了，然而我们我们生活的世界更多的数据还是拓扑结构数据，至于表示拓扑结构的最好方法，非图莫属了，那么如何利用图的结构进行学习呢，下面让我们一探 GCNGCNGCN 的究竟\n",
-            "image": "https://sigure.xyz/../img/Hello_GCN/GCN_01.png",
+            "image": "https://nyakku.moe/../img/Hello_GCN/GCN_01.png",
             "date_modified": "2019-08-16T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2020/03/06/install-software-from-source.html",
-            "url": "https://sigure.xyz/posts/2020/03/06/install-software-from-source.html",
+            "id": "https://nyakku.moe/posts/2020/03/06/install-software-from-source.html",
+            "url": "https://nyakku.moe/posts/2020/03/06/install-software-from-source.html",
             "title": "Linux 上使用源码编译程序",
             "summary": "TIP\n虽然 Linux 上的包管理器很方便，但是没有 root 权限时还是很头疼的，这就需要我们自己寻找软件源码自行编译咯~\n下面以安装 node-v12.16.1 为例\n",
             "date_modified": "2020-03-06T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2020/07/08/journey-to-css.html",
-            "url": "https://sigure.xyz/posts/2020/07/08/journey-to-css.html",
+            "id": "https://nyakku.moe/posts/2020/07/08/journey-to-css.html",
+            "url": "https://nyakku.moe/posts/2020/07/08/journey-to-css.html",
             "title": "Re：从零开始的 CSS 的学习之旅",
             "summary": "TIP\n虽然此前已经无数次尝试接触前端项目，却从未认真学习 CSS 等前端知识，导致连个样式都不会添加，因此最近下定决心（但愿）抽空系统地学习下前端的知识～\n",
             "date_modified": "2020-07-08T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2020/03/06/jupyter-lab.html",
-            "url": "https://sigure.xyz/posts/2020/03/06/jupyter-lab.html",
+            "id": "https://nyakku.moe/posts/2020/03/06/jupyter-lab.html",
+            "url": "https://nyakku.moe/posts/2020/03/06/jupyter-lab.html",
             "title": "使用 JupyterLab 开启全新的炼丹之旅",
             "summary": "TIP\n本地设备的配置大大限制了炼丹的效率，如果有一个合适的服务器的话，如何配置能最方便地进行炼丹呢？\n",
             "date_modified": "2020-03-06T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2019/05/19/katex-index.html",
-            "url": "https://sigure.xyz/posts/2019/05/19/katex-index.html",
+            "id": "https://nyakku.moe/posts/2019/05/19/katex-index.html",
+            "url": "https://nyakku.moe/posts/2019/05/19/katex-index.html",
             "title": "KaTeX 索引表",
             "summary": "TIP\n一份个人 KaTeX\\KaTeXKATE​X 常用公式索引表，持续更新~\n\nKaTeX\\KaTeXKATE​X 支持的公式\n",
             "date_modified": "2019-05-19T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2020/07/19/kokoro.html",
-            "url": "https://sigure.xyz/posts/2020/07/19/kokoro.html",
+            "id": "https://nyakku.moe/posts/2020/07/19/kokoro.html",
+            "url": "https://nyakku.moe/posts/2020/07/19/kokoro.html",
             "title": "ココロ",
             "summary": "TIP\n今　動き始めた　加速する奇跡\nナゼか　ナミダが　止まらナい・・・\nナぜ　私　震える？　加速する鼓動\nこレが私の望んだ「ココロ」？\n",
             "date_modified": "2020-07-19T00:00:00.000Z"
         },
         {
-            "id": "https://sigure.xyz/posts/2019/08/17/links-in-blog.html",
-            "url": "https://sigure.xyz/posts/2019/08/17/links-in-blog.html",
+            "id": "https://nyakku.moe/posts/2019/08/17/links-in-blog.html",
+            "url": "https://nyakku.moe/posts/2019/08/17/links-in-blog.html",
             "title": "在个人 Blog 主页中添加各种联络链接",
             "summary": "TIP\n个人 Blog 难免会添加一些联络方式，最简洁的方式就是每个联络方式弄一个链接啦，这样对方点击一下就可以查看/加好友了，当然简书、CSDN 之类都很简单，但是如果是 QQ 、微信就相对来说有点麻烦了，这里总结下如何添加 QQ 和微信的联络链接\n",
             "date_modified": "2019-08-17T00:00:00.000Z"

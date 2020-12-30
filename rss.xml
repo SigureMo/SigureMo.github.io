@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Notev</title>
-        <link>https://sigure.xyz</link>
+        <link>https://nyakku.moe</link>
         <description>一个小透明的透明世界</description>
-        <lastBuildDate>Tue, 29 Dec 2020 19:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2020 11:18:13 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
-        <atom:link href="https://sigure.xyz/feed.atom" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://nyakku.moe/feed.atom" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[使用 Vuepress 搭建个人静态 Blog]]></title>
-            <link>https://sigure.xyz/posts/2019/08/17/build-blog-by-vuepress.html</link>
-            <guid>https://sigure.xyz/posts/2019/08/17/build-blog-by-vuepress.html</guid>
+            <link>https://nyakku.moe/posts/2019/08/17/build-blog-by-vuepress.html</link>
+            <guid>https://nyakku.moe/posts/2019/08/17/build-blog-by-vuepress.html</guid>
             <pubDate>Sat, 17 Aug 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 静态博客并不难搭建，但是对前端什么都不懂的我还是走了很多的弯路，而且 vuepress 是一个比较新的框架，网上的资源还是较少的，能用的资源基本只有文档，本文跟随源文档，以最简的方式搭建一个简单的文档 demo ，进而搭建一个属于你自己的 blog
@@ -19,8 +19,8 @@
         </item>
         <item>
             <title><![CDATA[C to ++]]></title>
-            <link>https://sigure.xyz/posts/2019/10/04/c-to-plusplus.html</link>
-            <guid>https://sigure.xyz/posts/2019/10/04/c-to-plusplus.html</guid>
+            <link>https://nyakku.moe/posts/2019/10/04/c-to-plusplus.html</link>
+            <guid>https://nyakku.moe/posts/2019/10/04/c-to-plusplus.html</guid>
             <pubDate>Fri, 04 Oct 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 什么是 C++ ？顾名思义，它是在 C 语言的基础上进行了语法的扩展，但同时保留了对 C 语法的兼容性，这就使得 C++ 上能 OOP ，下能精准分配内存，正因为“无所不能”，所以想要一次性全掌握也是难上加难，但由于我们往往并不需要掌握的面面俱到（除非真的要坚持使用 C++ 开发），比如说只是用来刷刷题的话，我们只掌握部分语法即可，本篇也主要面对有着 C 语言基础而苦于入门 C++ 的初学者，让我们将 C++ 学成 C-- 吧~
@@ -30,19 +30,19 @@
         </item>
         <item>
             <title><![CDATA[Computer Network]]></title>
-            <link>https://sigure.xyz/posts/2019/09/18/computer-network.html</link>
-            <guid>https://sigure.xyz/posts/2019/09/18/computer-network.html</guid>
+            <link>https://nyakku.moe/posts/2019/09/18/computer-network.html</link>
+            <guid>https://nyakku.moe/posts/2019/09/18/computer-network.html</guid>
             <pubDate>Wed, 18 Sep 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 《计算机网络》复习笔记
 ]]></description>
-            <enclosure url="https://sigure.xyz/../img/Computer_Network/CN20.png">
+            <enclosure url="https://nyakku.moe/../img/Computer_Network/CN20.png">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[各大深度学习顶会举办地点]]></title>
-            <link>https://sigure.xyz/posts/2020/04/20/conference-location.html</link>
-            <guid>https://sigure.xyz/posts/2020/04/20/conference-location.html</guid>
+            <link>https://nyakku.moe/posts/2020/04/20/conference-location.html</link>
+            <guid>https://nyakku.moe/posts/2020/04/20/conference-location.html</guid>
             <pubDate>Mon, 20 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 最近在做本科毕设，查了好多好多文献，不过都木有按照具体格式来写，但这两天临近中期检查，不得不整理一下咯
@@ -52,30 +52,30 @@
         </item>
         <item>
             <title><![CDATA[Data Structures and Algorthms]]></title>
-            <link>https://sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html</link>
-            <guid>https://sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html</guid>
+            <link>https://nyakku.moe/posts/2019/08/21/data-structures-and-algorithms.html</link>
+            <guid>https://nyakku.moe/posts/2019/08/21/data-structures-and-algorithms.html</guid>
             <pubDate>Wed, 21 Aug 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 《数据结构》复习笔记
 ]]></description>
-            <enclosure url="https://sigure.xyz/../img/Data_Structures_and_Algorithms/DS01.jpg">
+            <enclosure url="https://nyakku.moe/../img/Data_Structures_and_Algorithms/DS01.jpg">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[Deep Learning]]></title>
-            <link>https://sigure.xyz/posts/2018/10/14/deep-learning.html</link>
-            <guid>https://sigure.xyz/posts/2018/10/14/deep-learning.html</guid>
+            <link>https://nyakku.moe/posts/2018/10/14/deep-learning.html</link>
+            <guid>https://nyakku.moe/posts/2018/10/14/deep-learning.html</guid>
             <pubDate>Sun, 14 Oct 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 DeepLearning, Andrew Ng 慕课笔记
 ]]></description>
-            <enclosure url="https://sigure.xyz/../img/Deep_Learning/DL01.png">
+            <enclosure url="https://nyakku.moe/../img/Deep_Learning/DL01.png">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[采用 GitHub Action 自动化部署博客]]></title>
-            <link>https://sigure.xyz/posts/2020/06/22/deploy-blog-using-github-action.html</link>
-            <guid>https://sigure.xyz/posts/2020/06/22/deploy-blog-using-github-action.html</guid>
+            <link>https://nyakku.moe/posts/2020/06/22/deploy-blog-using-github-action.html</link>
+            <guid>https://nyakku.moe/posts/2020/06/22/deploy-blog-using-github-action.html</guid>
             <pubDate>Mon, 22 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 博客的部署往往只需要一行命令，但却需要花费我几分钟在本地的构建时间，完成博客内容后本应该放松放松心情，这几分钟的等待显得尤为惹人生厌
@@ -84,8 +84,8 @@ DeepLearning, Andrew Ng 慕课笔记
         </item>
         <item>
             <title><![CDATA[Discrete Mathematics]]></title>
-            <link>https://sigure.xyz/posts/2019/04/25/discrete-mathematics.html</link>
-            <guid>https://sigure.xyz/posts/2019/04/25/discrete-mathematics.html</guid>
+            <link>https://nyakku.moe/posts/2019/04/25/discrete-mathematics.html</link>
+            <guid>https://nyakku.moe/posts/2019/04/25/discrete-mathematics.html</guid>
             <pubDate>Thu, 25 Apr 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 《离散数学及其应用》笔记
@@ -93,8 +93,8 @@ DeepLearning, Andrew Ng 慕课笔记
         </item>
         <item>
             <title><![CDATA[Manjaro 初体验]]></title>
-            <link>https://sigure.xyz/posts/2020/04/06/first-experience-for-manjaro.html</link>
-            <guid>https://sigure.xyz/posts/2020/04/06/first-experience-for-manjaro.html</guid>
+            <link>https://nyakku.moe/posts/2020/04/06/first-experience-for-manjaro.html</link>
+            <guid>https://nyakku.moe/posts/2020/04/06/first-experience-for-manjaro.html</guid>
             <pubDate>Mon, 06 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 虽然此前也接触 Linux 很久了，但平时也只是作为备用系统偶尔用用罢了，之前也用过一段时间 deepin，但是有很多细节上有 bug，一段时间后还是将 Windows 作为我的主力系统了。
@@ -103,31 +103,31 @@ DeepLearning, Andrew Ng 慕课笔记
         </item>
         <item>
             <title><![CDATA[初尝 GAN]]></title>
-            <link>https://sigure.xyz/posts/2020/05/25/gan-started.html</link>
-            <guid>https://sigure.xyz/posts/2020/05/25/gan-started.html</guid>
+            <link>https://nyakku.moe/posts/2020/05/25/gan-started.html</link>
+            <guid>https://nyakku.moe/posts/2020/05/25/gan-started.html</guid>
             <pubDate>Mon, 25 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 最近在 DL 的学习方向上稍有迷茫，毕竟有那么多学习的方向嘛。“开学”那几天初尝 RL 做了个 AlphaZero 五子棋，但理论什么的尚需补足，而且暂时没有什么别的想做的也没继续深入。毕设这段时间主要是学习一些机器学习领域的知识啦，大多是一些浅层神经网络及其优化算法，比如 AutoEncoder 和遗传算法等等，唔，本来兴趣就寥寥，然后毕设凉了就更没动力了……
 前两天突然翻出来一张猫猫十年前的照片，但分辨率实在太低啦（240 * 320），就想尝试一下超分辨率相关模型，发现最近超分辨率也在用 GAN 啦，所以，就尝试学一下～
 ]]></description>
-            <enclosure url="https://sigure.xyz/../img/GAN_started/CGAN-01.png">
+            <enclosure url="https://nyakku.moe/../img/GAN_started/CGAN-01.png">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[Git 协作模式]]></title>
-            <link>https://sigure.xyz/posts/2019/10/26/git-collaboration.html</link>
-            <guid>https://sigure.xyz/posts/2019/10/26/git-collaboration.html</guid>
+            <link>https://nyakku.moe/posts/2019/10/26/git-collaboration.html</link>
+            <guid>https://nyakku.moe/posts/2019/10/26/git-collaboration.html</guid>
             <pubDate>Sat, 26 Oct 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 虽然平时写个笔记都会使用 Git 来保存，但常用的也就只有 add、commit、push 等等简单的命令啦，偶尔出点问题都需要去现查，为了提高效率，我在这里整理一下简单的 Git 协作命令，以备不时之需ヽ(✿ ﾟ ▽ ﾟ)ノ
 ]]></description>
-            <enclosure url="https://sigure.xyz/../img/Git_Collaboration01.png">
+            <enclosure url="https://nyakku.moe/../img/Git_Collaboration01.png">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[Git 提交信息规范]]></title>
-            <link>https://sigure.xyz/posts/2018/09/16/git-commit-message-convention.html</link>
-            <guid>https://sigure.xyz/posts/2018/09/16/git-commit-message-convention.html</guid>
+            <link>https://nyakku.moe/posts/2018/09/16/git-commit-message-convention.html</link>
+            <guid>https://nyakku.moe/posts/2018/09/16/git-commit-message-convention.html</guid>
             <pubDate>Sun, 16 Sep 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 Git Commit Message 虽然可以随意描述，但使用没有意义的描述对于后续 review 代码以及理解代码用途等方面都会造成巨大的影响。因此 Commit Message 具有意义是最基本的要求，此外，你还应该遵守一定的格式规范，这样能够让大家更快更清晰地了解该 Commit 的详情。这里我主要介绍下常规的 Git Commit 规范和 Gitmoji 规范，最后介绍下我常用的相关配置。
@@ -135,8 +135,8 @@ Git Commit Message 虽然可以随意描述，但使用没有意义的描述对�
         </item>
         <item>
             <title><![CDATA[锦瑟年华谁与度]]></title>
-            <link>https://sigure.xyz/posts/2020/06/17/graduation.html</link>
-            <guid>https://sigure.xyz/posts/2020/06/17/graduation.html</guid>
+            <link>https://nyakku.moe/posts/2020/06/17/graduation.html</link>
+            <guid>https://nyakku.moe/posts/2020/06/17/graduation.html</guid>
             <pubDate>Wed, 17 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 嗯，结束了，去更大的世界看看吧
@@ -144,19 +144,19 @@ Git Commit Message 虽然可以随意描述，但使用没有意义的描述对�
         </item>
         <item>
             <title><![CDATA[初识图卷积神经网络（GCN）]]></title>
-            <link>https://sigure.xyz/posts/2019/08/16/hello-gcn.html</link>
-            <guid>https://sigure.xyz/posts/2019/08/16/hello-gcn.html</guid>
+            <link>https://nyakku.moe/posts/2019/08/16/hello-gcn.html</link>
+            <guid>https://nyakku.moe/posts/2019/08/16/hello-gcn.html</guid>
             <pubDate>Fri, 16 Aug 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 随着深度学习的快速发展，传统神经网络结构的弊端也日益凸显，无论是 CNNCNNCNN 还是 RNNRNNRNN ，处理的数据仅限于欧式空间，而对于拓扑结构的数据就手足无措了，然而我们我们生活的世界更多的数据还是拓扑结构数据，至于表示拓扑结构的最好方法，非图莫属了，那么如何利用图的结构进行学习呢，下面让我们一探 GCNGCNGCN 的究竟
 ]]></description>
-            <enclosure url="https://sigure.xyz/../img/Hello_GCN/GCN_01.png">
+            <enclosure url="https://nyakku.moe/../img/Hello_GCN/GCN_01.png">
             </enclosure>
         </item>
         <item>
             <title><![CDATA[Linux 上使用源码编译程序]]></title>
-            <link>https://sigure.xyz/posts/2020/03/06/install-software-from-source.html</link>
-            <guid>https://sigure.xyz/posts/2020/03/06/install-software-from-source.html</guid>
+            <link>https://nyakku.moe/posts/2020/03/06/install-software-from-source.html</link>
+            <guid>https://nyakku.moe/posts/2020/03/06/install-software-from-source.html</guid>
             <pubDate>Fri, 06 Mar 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 虽然 Linux 上的包管理器很方便，但是没有 root 权限时还是很头疼的，这就需要我们自己寻找软件源码自行编译咯~
@@ -165,8 +165,8 @@ Git Commit Message 虽然可以随意描述，但使用没有意义的描述对�
         </item>
         <item>
             <title><![CDATA[Re：从零开始的 CSS 的学习之旅]]></title>
-            <link>https://sigure.xyz/posts/2020/07/08/journey-to-css.html</link>
-            <guid>https://sigure.xyz/posts/2020/07/08/journey-to-css.html</guid>
+            <link>https://nyakku.moe/posts/2020/07/08/journey-to-css.html</link>
+            <guid>https://nyakku.moe/posts/2020/07/08/journey-to-css.html</guid>
             <pubDate>Wed, 08 Jul 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 虽然此前已经无数次尝试接触前端项目，却从未认真学习 CSS 等前端知识，导致连个样式都不会添加，因此最近下定决心（但愿）抽空系统地学习下前端的知识～
@@ -174,8 +174,8 @@ Git Commit Message 虽然可以随意描述，但使用没有意义的描述对�
         </item>
         <item>
             <title><![CDATA[使用 JupyterLab 开启全新的炼丹之旅]]></title>
-            <link>https://sigure.xyz/posts/2020/03/06/jupyter-lab.html</link>
-            <guid>https://sigure.xyz/posts/2020/03/06/jupyter-lab.html</guid>
+            <link>https://nyakku.moe/posts/2020/03/06/jupyter-lab.html</link>
+            <guid>https://nyakku.moe/posts/2020/03/06/jupyter-lab.html</guid>
             <pubDate>Fri, 06 Mar 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 本地设备的配置大大限制了炼丹的效率，如果有一个合适的服务器的话，如何配置能最方便地进行炼丹呢？
@@ -183,8 +183,8 @@ Git Commit Message 虽然可以随意描述，但使用没有意义的描述对�
         </item>
         <item>
             <title><![CDATA[KaTeX 索引表]]></title>
-            <link>https://sigure.xyz/posts/2019/05/19/katex-index.html</link>
-            <guid>https://sigure.xyz/posts/2019/05/19/katex-index.html</guid>
+            <link>https://nyakku.moe/posts/2019/05/19/katex-index.html</link>
+            <guid>https://nyakku.moe/posts/2019/05/19/katex-index.html</guid>
             <pubDate>Sun, 19 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 一份个人 KaTeX\KaTeXKATE​X 常用公式索引表，持续更新~
@@ -194,8 +194,8 @@ KaTeX\KaTeXKATE​X 支持的公式
         </item>
         <item>
             <title><![CDATA[ココロ]]></title>
-            <link>https://sigure.xyz/posts/2020/07/19/kokoro.html</link>
-            <guid>https://sigure.xyz/posts/2020/07/19/kokoro.html</guid>
+            <link>https://nyakku.moe/posts/2020/07/19/kokoro.html</link>
+            <guid>https://nyakku.moe/posts/2020/07/19/kokoro.html</guid>
             <pubDate>Sun, 19 Jul 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 今　動き始めた　加速する奇跡
@@ -206,8 +206,8 @@ KaTeX\KaTeXKATE​X 支持的公式
         </item>
         <item>
             <title><![CDATA[在个人 Blog 主页中添加各种联络链接]]></title>
-            <link>https://sigure.xyz/posts/2019/08/17/links-in-blog.html</link>
-            <guid>https://sigure.xyz/posts/2019/08/17/links-in-blog.html</guid>
+            <link>https://nyakku.moe/posts/2019/08/17/links-in-blog.html</link>
+            <guid>https://nyakku.moe/posts/2019/08/17/links-in-blog.html</guid>
             <pubDate>Sat, 17 Aug 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[TIP
 个人 Blog 难免会添加一些联络方式，最简洁的方式就是每个联络方式弄一个链接啦，这样对方点击一下就可以查看/加好友了，当然简书、CSDN 之类都很简单，但是如果是 QQ 、微信就相对来说有点麻烦了，这里总结下如何添加 QQ 和微信的联络链接

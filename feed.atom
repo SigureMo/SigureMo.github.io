@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sigure.xyz</id>
+    <id>https://nyakku.moe</id>
     <title>Notev</title>
-    <updated>2020-12-29T19:15:47.082Z</updated>
+    <updated>2020-12-30T11:18:13.443Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
-    <link rel="alternate" href="https://sigure.xyz"/>
-    <link rel="self" href="https://sigure.xyz/feed.atom"/>
+    <link rel="alternate" href="https://nyakku.moe"/>
+    <link rel="self" href="https://nyakku.moe/feed.atom"/>
     <subtitle>一个小透明的透明世界</subtitle>
     <entry>
         <title type="html"><![CDATA[使用 Vuepress 搭建个人静态 Blog]]></title>
-        <id>https://sigure.xyz/posts/2019/08/17/build-blog-by-vuepress.html</id>
-        <link href="https://sigure.xyz/posts/2019/08/17/build-blog-by-vuepress.html">
+        <id>https://nyakku.moe/posts/2019/08/17/build-blog-by-vuepress.html</id>
+        <link href="https://nyakku.moe/posts/2019/08/17/build-blog-by-vuepress.html">
         </link>
         <updated>2019-08-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -19,8 +19,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[C to ++]]></title>
-        <id>https://sigure.xyz/posts/2019/10/04/c-to-plusplus.html</id>
-        <link href="https://sigure.xyz/posts/2019/10/04/c-to-plusplus.html">
+        <id>https://nyakku.moe/posts/2019/10/04/c-to-plusplus.html</id>
+        <link href="https://nyakku.moe/posts/2019/10/04/c-to-plusplus.html">
         </link>
         <updated>2019-10-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -31,8 +31,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Computer Network]]></title>
-        <id>https://sigure.xyz/posts/2019/09/18/computer-network.html</id>
-        <link href="https://sigure.xyz/posts/2019/09/18/computer-network.html">
+        <id>https://nyakku.moe/posts/2019/09/18/computer-network.html</id>
+        <link href="https://nyakku.moe/posts/2019/09/18/computer-network.html">
         </link>
         <updated>2019-09-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -41,8 +41,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[各大深度学习顶会举办地点]]></title>
-        <id>https://sigure.xyz/posts/2020/04/20/conference-location.html</id>
-        <link href="https://sigure.xyz/posts/2020/04/20/conference-location.html">
+        <id>https://nyakku.moe/posts/2020/04/20/conference-location.html</id>
+        <link href="https://nyakku.moe/posts/2020/04/20/conference-location.html">
         </link>
         <updated>2020-04-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -53,8 +53,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Data Structures and Algorthms]]></title>
-        <id>https://sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html</id>
-        <link href="https://sigure.xyz/posts/2019/08/21/data-structures-and-algorithms.html">
+        <id>https://nyakku.moe/posts/2019/08/21/data-structures-and-algorithms.html</id>
+        <link href="https://nyakku.moe/posts/2019/08/21/data-structures-and-algorithms.html">
         </link>
         <updated>2019-08-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -63,8 +63,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Deep Learning]]></title>
-        <id>https://sigure.xyz/posts/2018/10/14/deep-learning.html</id>
-        <link href="https://sigure.xyz/posts/2018/10/14/deep-learning.html">
+        <id>https://nyakku.moe/posts/2018/10/14/deep-learning.html</id>
+        <link href="https://nyakku.moe/posts/2018/10/14/deep-learning.html">
         </link>
         <updated>2018-10-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -73,8 +73,8 @@ DeepLearning, Andrew Ng 慕课笔记
     </entry>
     <entry>
         <title type="html"><![CDATA[采用 GitHub Action 自动化部署博客]]></title>
-        <id>https://sigure.xyz/posts/2020/06/22/deploy-blog-using-github-action.html</id>
-        <link href="https://sigure.xyz/posts/2020/06/22/deploy-blog-using-github-action.html">
+        <id>https://nyakku.moe/posts/2020/06/22/deploy-blog-using-github-action.html</id>
+        <link href="https://nyakku.moe/posts/2020/06/22/deploy-blog-using-github-action.html">
         </link>
         <updated>2020-06-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -84,8 +84,8 @@ DeepLearning, Andrew Ng 慕课笔记
     </entry>
     <entry>
         <title type="html"><![CDATA[Discrete Mathematics]]></title>
-        <id>https://sigure.xyz/posts/2019/04/25/discrete-mathematics.html</id>
-        <link href="https://sigure.xyz/posts/2019/04/25/discrete-mathematics.html">
+        <id>https://nyakku.moe/posts/2019/04/25/discrete-mathematics.html</id>
+        <link href="https://nyakku.moe/posts/2019/04/25/discrete-mathematics.html">
         </link>
         <updated>2019-04-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -94,8 +94,8 @@ DeepLearning, Andrew Ng 慕课笔记
     </entry>
     <entry>
         <title type="html"><![CDATA[Manjaro 初体验]]></title>
-        <id>https://sigure.xyz/posts/2020/04/06/first-experience-for-manjaro.html</id>
-        <link href="https://sigure.xyz/posts/2020/04/06/first-experience-for-manjaro.html">
+        <id>https://nyakku.moe/posts/2020/04/06/first-experience-for-manjaro.html</id>
+        <link href="https://nyakku.moe/posts/2020/04/06/first-experience-for-manjaro.html">
         </link>
         <updated>2020-04-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -105,8 +105,8 @@ DeepLearning, Andrew Ng 慕课笔记
     </entry>
     <entry>
         <title type="html"><![CDATA[初尝 GAN]]></title>
-        <id>https://sigure.xyz/posts/2020/05/25/gan-started.html</id>
-        <link href="https://sigure.xyz/posts/2020/05/25/gan-started.html">
+        <id>https://nyakku.moe/posts/2020/05/25/gan-started.html</id>
+        <link href="https://nyakku.moe/posts/2020/05/25/gan-started.html">
         </link>
         <updated>2020-05-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -116,8 +116,8 @@ DeepLearning, Andrew Ng 慕课笔记
     </entry>
     <entry>
         <title type="html"><![CDATA[Git 协作模式]]></title>
-        <id>https://sigure.xyz/posts/2019/10/26/git-collaboration.html</id>
-        <link href="https://sigure.xyz/posts/2019/10/26/git-collaboration.html">
+        <id>https://nyakku.moe/posts/2019/10/26/git-collaboration.html</id>
+        <link href="https://nyakku.moe/posts/2019/10/26/git-collaboration.html">
         </link>
         <updated>2019-10-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -126,8 +126,8 @@ DeepLearning, Andrew Ng 慕课笔记
     </entry>
     <entry>
         <title type="html"><![CDATA[Git 提交信息规范]]></title>
-        <id>https://sigure.xyz/posts/2018/09/16/git-commit-message-convention.html</id>
-        <link href="https://sigure.xyz/posts/2018/09/16/git-commit-message-convention.html">
+        <id>https://nyakku.moe/posts/2018/09/16/git-commit-message-convention.html</id>
+        <link href="https://nyakku.moe/posts/2018/09/16/git-commit-message-convention.html">
         </link>
         <updated>2018-09-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -136,8 +136,8 @@ Git Commit Message 虽然可以随意描述，但使用没有意义的描述对�
     </entry>
     <entry>
         <title type="html"><![CDATA[锦瑟年华谁与度]]></title>
-        <id>https://sigure.xyz/posts/2020/06/17/graduation.html</id>
-        <link href="https://sigure.xyz/posts/2020/06/17/graduation.html">
+        <id>https://nyakku.moe/posts/2020/06/17/graduation.html</id>
+        <link href="https://nyakku.moe/posts/2020/06/17/graduation.html">
         </link>
         <updated>2020-06-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -146,8 +146,8 @@ Git Commit Message 虽然可以随意描述，但使用没有意义的描述对�
     </entry>
     <entry>
         <title type="html"><![CDATA[初识图卷积神经网络（GCN）]]></title>
-        <id>https://sigure.xyz/posts/2019/08/16/hello-gcn.html</id>
-        <link href="https://sigure.xyz/posts/2019/08/16/hello-gcn.html">
+        <id>https://nyakku.moe/posts/2019/08/16/hello-gcn.html</id>
+        <link href="https://nyakku.moe/posts/2019/08/16/hello-gcn.html">
         </link>
         <updated>2019-08-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -156,8 +156,8 @@ Git Commit Message 虽然可以随意描述，但使用没有意义的描述对�
     </entry>
     <entry>
         <title type="html"><![CDATA[Linux 上使用源码编译程序]]></title>
-        <id>https://sigure.xyz/posts/2020/03/06/install-software-from-source.html</id>
-        <link href="https://sigure.xyz/posts/2020/03/06/install-software-from-source.html">
+        <id>https://nyakku.moe/posts/2020/03/06/install-software-from-source.html</id>
+        <link href="https://nyakku.moe/posts/2020/03/06/install-software-from-source.html">
         </link>
         <updated>2020-03-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -167,8 +167,8 @@ Git Commit Message 虽然可以随意描述，但使用没有意义的描述对�
     </entry>
     <entry>
         <title type="html"><![CDATA[Re：从零开始的 CSS 的学习之旅]]></title>
-        <id>https://sigure.xyz/posts/2020/07/08/journey-to-css.html</id>
-        <link href="https://sigure.xyz/posts/2020/07/08/journey-to-css.html">
+        <id>https://nyakku.moe/posts/2020/07/08/journey-to-css.html</id>
+        <link href="https://nyakku.moe/posts/2020/07/08/journey-to-css.html">
         </link>
         <updated>2020-07-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -177,8 +177,8 @@ Git Commit Message 虽然可以随意描述，但使用没有意义的描述对�
     </entry>
     <entry>
         <title type="html"><![CDATA[使用 JupyterLab 开启全新的炼丹之旅]]></title>
-        <id>https://sigure.xyz/posts/2020/03/06/jupyter-lab.html</id>
-        <link href="https://sigure.xyz/posts/2020/03/06/jupyter-lab.html">
+        <id>https://nyakku.moe/posts/2020/03/06/jupyter-lab.html</id>
+        <link href="https://nyakku.moe/posts/2020/03/06/jupyter-lab.html">
         </link>
         <updated>2020-03-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -187,8 +187,8 @@ Git Commit Message 虽然可以随意描述，但使用没有意义的描述对�
     </entry>
     <entry>
         <title type="html"><![CDATA[KaTeX 索引表]]></title>
-        <id>https://sigure.xyz/posts/2019/05/19/katex-index.html</id>
-        <link href="https://sigure.xyz/posts/2019/05/19/katex-index.html">
+        <id>https://nyakku.moe/posts/2019/05/19/katex-index.html</id>
+        <link href="https://nyakku.moe/posts/2019/05/19/katex-index.html">
         </link>
         <updated>2019-05-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -199,8 +199,8 @@ KaTeX\KaTeXKATE​X 支持的公式
     </entry>
     <entry>
         <title type="html"><![CDATA[ココロ]]></title>
-        <id>https://sigure.xyz/posts/2020/07/19/kokoro.html</id>
-        <link href="https://sigure.xyz/posts/2020/07/19/kokoro.html">
+        <id>https://nyakku.moe/posts/2020/07/19/kokoro.html</id>
+        <link href="https://nyakku.moe/posts/2020/07/19/kokoro.html">
         </link>
         <updated>2020-07-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
@@ -212,8 +212,8 @@ KaTeX\KaTeXKATE​X 支持的公式
     </entry>
     <entry>
         <title type="html"><![CDATA[在个人 Blog 主页中添加各种联络链接]]></title>
-        <id>https://sigure.xyz/posts/2019/08/17/links-in-blog.html</id>
-        <link href="https://sigure.xyz/posts/2019/08/17/links-in-blog.html">
+        <id>https://nyakku.moe/posts/2019/08/17/links-in-blog.html</id>
+        <link href="https://nyakku.moe/posts/2019/08/17/links-in-blog.html">
         </link>
         <updated>2019-08-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
