@@ -4,7 +4,7 @@
         <title>Notev</title>
         <link>https://nyakku.moe</link>
         <description>一个小透明的透明世界</description>
-        <lastBuildDate>Wed, 30 Dec 2020 11:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2021 09:28:15 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://nyakku.moe/feed.atom" rel="self" type="application/rss+xml"/>
@@ -80,15 +80,6 @@ DeepLearning, Andrew Ng 慕课笔记
             <description><![CDATA[TIP
 博客的部署往往只需要一行命令，但却需要花费我几分钟在本地的构建时间，完成博客内容后本应该放松放松心情，这几分钟的等待显得尤为惹人生厌
 那么如何解决这个问题呐？当然是自动化部署啦，这样我们每次只需要将写完的博客 Push 到 GitHub 上，就可以触发相应的 CI 以完成博客的自动部署咯，所以这里就介绍如何使用 GitHub Action 来自动化部署博客
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Discrete Mathematics]]></title>
-            <link>https://nyakku.moe/posts/2019/04/25/discrete-mathematics.html</link>
-            <guid>https://nyakku.moe/posts/2019/04/25/discrete-mathematics.html</guid>
-            <pubDate>Thu, 25 Apr 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[TIP
-《离散数学及其应用》笔记
 ]]></description>
         </item>
         <item>
@@ -212,6 +203,17 @@ KaTeX\KaTeXKATE​X 支持的公式
             <description><![CDATA[TIP
 个人 Blog 难免会添加一些联络方式，最简洁的方式就是每个联络方式弄一个链接啦，这样对方点击一下就可以查看/加好友了，当然简书、CSDN 之类都很简单，但是如果是 QQ 、微信就相对来说有点麻烦了，这里总结下如何添加 QQ 和微信的联络链接
 ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Maxout 的简单理解与实现]]></title>
+            <link>https://nyakku.moe/posts/2019/07/01/maxout.html</link>
+            <guid>https://nyakku.moe/posts/2019/07/01/maxout.html</guid>
+            <pubDate>Mon, 01 Jul 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[TIP
+Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于其它的激活函数，Maxout 本身是需要参数的，参数可以通过网络的反向传播得到学习，相应地，它比其它激活函数有着更好的性能，理论上可以拟合任意凸函数，进而使得网络取得更好的性能
+]]></description>
+            <enclosure url="https://nyakku.moe/../img/Maxout/Maxout01.png">
+            </enclosure>
         </item>
     </channel>
 </rss>
