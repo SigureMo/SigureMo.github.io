@@ -4,7 +4,7 @@
         <title>Notev</title>
         <link>https://nyakku.moe</link>
         <description>一个小透明的透明世界</description>
-        <lastBuildDate>Mon, 11 Jan 2021 23:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2021 08:35:34 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://nyakku.moe/feed.atom" rel="self" type="application/rss+xml"/>
