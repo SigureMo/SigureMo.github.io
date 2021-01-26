@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nyakku.moe</id>
+    <title>Notev</title>
+    <updated>2021-03-06T13:05:55.686Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://nyakku.moe"/>
+    <link rel="self" href="https://nyakku.moe/feed.atom"/>
+    <subtitle>一个小透明的透明世界</subtitle>
+    <entry>
+        <title type="html"><![CDATA[使用 Vuepress 搭建个人静态 Blog]]></title>
+        <id>https://nyakku.moe/posts/2019/08/17/build-blog-by-vuepress.html</id>
+        <link href="https://nyakku.moe/posts/2019/08/17/build-blog-by-vuepress.html">
+        </link>
+        <updated>2019-08-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+静态博客并不难搭建，但是对前端什么都不懂的我还是走了很多的弯路，而且 vuepress 是一个比较新的框架，网上的资源还是较少的，能用的资源基本只有文档，本文跟随源文档，以最简的方式搭建一个简单的文档 demo ，进而搭建一个属于你自己的 blog
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C to ++]]></title>
+        <id>https://nyakku.moe/posts/2019/10/04/c-to-plusplus.html</id>
+        <link href="https://nyakku.moe/posts/2019/10/04/c-to-plusplus.html">
+        </link>
+        <updated>2019-10-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+什么是 C++ ？顾名思义，它是在 C 语言的基础上进行了语法的扩展，但同时保留了对 C 语法的兼容性，这就使得 C++ 上能 OOP ，下能精准分配内存，正因为“无所不能”，所以想要一次性全掌握也是难上加难，但由于我们往往并不需要掌握的面面俱到（除非真的要坚持使用 C++ 开发），比如说只是用来刷刷题的话，我们只掌握部分语法即可，本篇也主要面对有着 C 语言基础而苦于入门 C++ 的初学者，让我们将 C++ 学成 C-- 吧~
+
+学习中，会持续修改与更新，如有错误与疏漏，欢迎指正~
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Network]]></title>
+        <id>https://nyakku.moe/posts/2019/09/18/computer-network.html</id>
+        <link href="https://nyakku.moe/posts/2019/09/18/computer-network.html">
+        </link>
+        <updated>2019-09-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+《计算机网络》复习笔记
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Organization]]></title>
+        <id>https://nyakku.moe/posts/2019/11/17/computer-organization.html</id>
+        <link href="https://nyakku.moe/posts/2019/11/17/computer-organization.html">
+        </link>
+        <updated>2019-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+《计算机组成原理》复习笔记
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[各大深度学习顶会举办地点]]></title>
+        <id>https://nyakku.moe/posts/2020/04/20/conference-location.html</id>
+        <link href="https://nyakku.moe/posts/2020/04/20/conference-location.html">
+        </link>
+        <updated>2020-04-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+最近在做本科毕设，查了好多好多文献，不过都木有按照具体格式来写，但这两天临近中期检查，不得不整理一下咯
+但，论文要求里的参考文献格式就很麻烦，国内的倒还好，知网或维普搜一下直接导出后稍作修改就好了，但国外的论文所提供的 cite 与要求的格式相差很多，特别是会议论文，居然还需要填写会议地址，这我哪里知道嘛(⇀‸↼‶)
+所幸我搜到了 ref1，解决了我的燃眉之急ヾ(≧∇≦*)ゝ，这里我先转载一下其内容，并进行部分补充
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Structures and Algorthms]]></title>
+        <id>https://nyakku.moe/posts/2019/08/21/data-structures-and-algorithms.html</id>
+        <link href="https://nyakku.moe/posts/2019/08/21/data-structures-and-algorithms.html">
+        </link>
+        <updated>2019-08-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+《数据结构》复习笔记
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Learning]]></title>
+        <id>https://nyakku.moe/posts/2018/10/14/deep-learning.html</id>
+        <link href="https://nyakku.moe/posts/2018/10/14/deep-learning.html">
+        </link>
+        <updated>2018-10-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+DeepLearning, Andrew Ng 慕课笔记
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[采用 GitHub Action 自动化部署博客]]></title>
+        <id>https://nyakku.moe/posts/2020/06/22/deploy-blog-using-github-action.html</id>
+        <link href="https://nyakku.moe/posts/2020/06/22/deploy-blog-using-github-action.html">
+        </link>
+        <updated>2020-06-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+博客的部署往往只需要一行命令，但却需要花费我几分钟在本地的构建时间，完成博客内容后本应该放松放松心情，这几分钟的等待显得尤为惹人生厌
+那么如何解决这个问题呐？当然是自动化部署啦，这样我们每次只需要将写完的博客 Push 到 GitHub 上，就可以触发相应的 CI 以完成博客的自动部署咯，所以这里就介绍如何使用 GitHub Action 来自动化部署博客
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjaro 初体验]]></title>
+        <id>https://nyakku.moe/posts/2020/04/06/first-experience-for-manjaro.html</id>
+        <link href="https://nyakku.moe/posts/2020/04/06/first-experience-for-manjaro.html">
+        </link>
+        <updated>2020-04-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+虽然此前也接触 Linux 很久了，但平时也只是作为备用系统偶尔用用罢了，之前也用过一段时间 deepin，但是有很多细节上有 bug，一段时间后还是将 Windows 作为我的主力系统了。
+前段时间了解到了 Manjaro 这个 Linux 发行版，可以非常方便地安装软件，所以决定尝试一下下～
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初尝 GAN]]></title>
+        <id>https://nyakku.moe/posts/2020/05/25/gan-started.html</id>
+        <link href="https://nyakku.moe/posts/2020/05/25/gan-started.html">
+        </link>
+        <updated>2020-05-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+最近在 DL 的学习方向上稍有迷茫，毕竟有那么多学习的方向嘛。“开学”那几天初尝 RL 做了个 AlphaZero 五子棋，但理论什么的尚需补足，而且暂时没有什么别的想做的也没继续深入。毕设这段时间主要是学习一些机器学习领域的知识啦，大多是一些浅层神经网络及其优化算法，比如 AutoEncoder 和遗传算法等等，唔，本来兴趣就寥寥，然后毕设凉了就更没动力了……
+前两天突然翻出来一张猫猫十年前的照片，但分辨率实在太低啦（240 * 320），就想尝试一下超分辨率相关模型，发现最近超分辨率也在用 GAN 啦，所以，就尝试学一下～
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git 协作模式]]></title>
+        <id>https://nyakku.moe/posts/2019/10/26/git-collaboration.html</id>
+        <link href="https://nyakku.moe/posts/2019/10/26/git-collaboration.html">
+        </link>
+        <updated>2019-10-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+虽然平时写个笔记都会使用 Git 来保存，但常用的也就只有 add、commit、push 等等简单的命令啦，偶尔出点问题都需要去现查，为了提高效率，我在这里整理一下简单的 Git 协作命令，以备不时之需ヽ(✿ ﾟ ▽ ﾟ)ノ
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git 提交信息规范]]></title>
+        <id>https://nyakku.moe/posts/2018/09/16/git-commit-message-convention.html</id>
+        <link href="https://nyakku.moe/posts/2018/09/16/git-commit-message-convention.html">
+        </link>
+        <updated>2018-09-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+Git Commit Message 虽然可以随意描述，但使用没有意义的描述对于后续 review 代码以及理解代码用途等方面都会造成巨大的影响。因此 Commit Message 具有意义是最基本的要求，此外，你还应该遵守一定的格式规范，这样能够让大家更快更清晰地了解该 Commit 的详情。这里我主要介绍下常规的 Git Commit 规范和 Gitmoji 规范，最后介绍下我常用的相关配置。
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初识图卷积神经网络（GCN）]]></title>
+        <id>https://nyakku.moe/posts/2019/08/16/hello-gcn.html</id>
+        <link href="https://nyakku.moe/posts/2019/08/16/hello-gcn.html">
+        </link>
+        <updated>2019-08-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+随着深度学习的快速发展，传统神经网络结构的弊端也日益凸显，无论是 CNNCNNCNN 还是 RNNRNNRNN ，处理的数据仅限于欧式空间，而对于拓扑结构的数据就手足无措了，然而我们我们生活的世界更多的数据还是拓扑结构数据，至于表示拓扑结构的最好方法，非图莫属了，那么如何利用图的结构进行学习呢，下面让我们一探 GCNGCNGCN 的究竟
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 上使用源码编译程序]]></title>
+        <id>https://nyakku.moe/posts/2020/03/06/install-software-from-source.html</id>
+        <link href="https://nyakku.moe/posts/2020/03/06/install-software-from-source.html">
+        </link>
+        <updated>2020-03-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+虽然 Linux 上的包管理器很方便，但是没有 root 权限时还是很头疼的，这就需要我们自己寻找软件源码自行编译咯~
+下面以安装 node-v12.16.1 为例
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript 中的“类”与原型链]]></title>
+        <id>https://nyakku.moe/posts/2021/01/31/javascript-prototype-chain.html</id>
+        <link href="https://nyakku.moe/posts/2021/01/31/javascript-prototype-chain.html">
+        </link>
+        <updated>2021-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+虽然早有耳闻 ECMAScript 的“类”并不是真正的类，但此前我一直都是直接按其他面向对象语言的用法直接用来着，不过也没发现什么不同（毕竟其实也没怎么用过 JS 的说 2333）。
+唔，这两天刚好看到了《JavaScript 高级程序设计（第四版）》中的“对象”这一章，就简单整理一下啦～
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re：从零开始的 CSS 的学习之旅]]></title>
+        <id>https://nyakku.moe/posts/2020/07/08/journey-to-css.html</id>
+        <link href="https://nyakku.moe/posts/2020/07/08/journey-to-css.html">
+        </link>
+        <updated>2020-07-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+虽然此前已经无数次尝试接触前端项目，却从未认真学习 CSS 等前端知识，导致连个样式都不会添加，因此最近下定决心（但愿）抽空系统地学习下前端的知识～
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 JupyterLab 开启全新的炼丹之旅]]></title>
+        <id>https://nyakku.moe/posts/2020/03/06/jupyter-lab.html</id>
+        <link href="https://nyakku.moe/posts/2020/03/06/jupyter-lab.html">
+        </link>
+        <updated>2020-03-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+本地设备的配置大大限制了炼丹的效率，如果有一个合适的服务器的话，如何配置能最方便地进行炼丹呢？
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KaTeX 索引表]]></title>
+        <id>https://nyakku.moe/posts/2019/05/19/katex-index.html</id>
+        <link href="https://nyakku.moe/posts/2019/05/19/katex-index.html">
+        </link>
+        <updated>2019-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+一份个人 KaTeX\KaTeXKATE​X 常用公式索引表，持续更新~
+
+KaTeX\KaTeXKATE​X 支持的公式
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在个人 Blog 主页中添加各种联络链接]]></title>
+        <id>https://nyakku.moe/posts/2019/08/17/links-in-blog.html</id>
+        <link href="https://nyakku.moe/posts/2019/08/17/links-in-blog.html">
+        </link>
+        <updated>2019-08-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+个人 Blog 难免会添加一些联络方式，最简洁的方式就是每个联络方式弄一个链接啦，这样对方点击一下就可以查看/加好友了，当然简书、CSDN 之类都很简单，但是如果是 QQ 、微信就相对来说有点麻烦了，这里总结下如何添加 QQ 和微信的联络链接
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maxout 的简单理解与实现]]></title>
+        <id>https://nyakku.moe/posts/2019/07/01/maxout.html</id>
+        <link href="https://nyakku.moe/posts/2019/07/01/maxout.html">
+        </link>
+        <updated>2019-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于其它的激活函数，Maxout 本身是需要参数的，参数可以通过网络的反向传播得到学习，相应地，它比其它激活函数有着更好的性能，理论上可以拟合任意凸函数，进而使得网络取得更好的性能
+]]></summary>
+    </entry>
+</feed>
