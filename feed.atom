@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nyakku.moe</id>
     <title>Notev</title>
-    <updated>2021-01-29T12:34:15.328Z</updated>
+    <updated>2021-02-02T14:10:03.886Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://nyakku.moe"/>
     <link rel="self" href="https://nyakku.moe/feed.atom"/>
@@ -156,6 +156,17 @@ Git Commit Message 虽然可以随意描述，但使用没有意义的描述对�
 ]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JavaScript 中的“类”与原型链]]></title>
+        <id>https://nyakku.moe/posts/2021/01/31/javascript-prototype-chain.html</id>
+        <link href="https://nyakku.moe/posts/2021/01/31/javascript-prototype-chain.html">
+        </link>
+        <updated>2021-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TIP
+虽然早有耳闻 ECMAScript 的“类”并不是真正的类，但此前我一直都是直接按其他面向对象语言的用法直接用来着，不过也没发现什么不同（毕竟其实也没怎么用过 JS 的说 2333）。
+唔，这两天刚好看到了《JavaScript 高级程序设计（第四版）》中的“对象”这一章，就简单整理一下啦～
+]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re：从零开始的 CSS 的学习之旅]]></title>
         <id>https://nyakku.moe/posts/2020/07/08/journey-to-css.html</id>
         <link href="https://nyakku.moe/posts/2020/07/08/journey-to-css.html">
@@ -208,16 +219,6 @@ KaTeX\KaTeXKATE​X 支持的公式
         <updated>2019-08-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[TIP
 个人 Blog 难免会添加一些联络方式，最简洁的方式就是每个联络方式弄一个链接啦，这样对方点击一下就可以查看/加好友了，当然简书、CSDN 之类都很简单，但是如果是 QQ 、微信就相对来说有点麻烦了，这里总结下如何添加 QQ 和微信的联络链接
-]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxout 的简单理解与实现]]></title>
-        <id>https://nyakku.moe/posts/2019/07/01/maxout.html</id>
-        <link href="https://nyakku.moe/posts/2019/07/01/maxout.html">
-        </link>
-        <updated>2019-07-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TIP
-Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于其它的激活函数，Maxout 本身是需要参数的，参数可以通过网络的反向传播得到学习，相应地，它比其它激活函数有着更好的性能，理论上可以拟合任意凸函数，进而使得网络取得更好的性能
 ]]></summary>
     </entry>
 </feed>

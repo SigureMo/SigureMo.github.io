@@ -4,7 +4,7 @@
         <title>Notev</title>
         <link>https://nyakku.moe</link>
         <description>一个小透明的透明世界</description>
-        <lastBuildDate>Fri, 29 Jan 2021 12:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2021 14:10:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://nyakku.moe/feed.atom" rel="self" type="application/rss+xml"/>
@@ -155,6 +155,18 @@ Git Commit Message 虽然可以随意描述，但使用没有意义的描述对�
 ]]></description>
         </item>
         <item>
+            <title><![CDATA[JavaScript 中的“类”与原型链]]></title>
+            <link>https://nyakku.moe/posts/2021/01/31/javascript-prototype-chain.html</link>
+            <guid>https://nyakku.moe/posts/2021/01/31/javascript-prototype-chain.html</guid>
+            <pubDate>Sun, 31 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[TIP
+虽然早有耳闻 ECMAScript 的“类”并不是真正的类，但此前我一直都是直接按其他面向对象语言的用法直接用来着，不过也没发现什么不同（毕竟其实也没怎么用过 JS 的说 2333）。
+唔，这两天刚好看到了《JavaScript 高级程序设计（第四版）》中的“对象”这一章，就简单整理一下啦～
+]]></description>
+            <enclosure url="https://nyakku.moe/../img/javascript-prototype-chain/prototype_01.png">
+            </enclosure>
+        </item>
+        <item>
             <title><![CDATA[Re：从零开始的 CSS 的学习之旅]]></title>
             <link>https://nyakku.moe/posts/2020/07/08/journey-to-css.html</link>
             <guid>https://nyakku.moe/posts/2020/07/08/journey-to-css.html</guid>
@@ -203,17 +215,6 @@ KaTeX\KaTeXKATE​X 支持的公式
             <description><![CDATA[TIP
 个人 Blog 难免会添加一些联络方式，最简洁的方式就是每个联络方式弄一个链接啦，这样对方点击一下就可以查看/加好友了，当然简书、CSDN 之类都很简单，但是如果是 QQ 、微信就相对来说有点麻烦了，这里总结下如何添加 QQ 和微信的联络链接
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Maxout 的简单理解与实现]]></title>
-            <link>https://nyakku.moe/posts/2019/07/01/maxout.html</link>
-            <guid>https://nyakku.moe/posts/2019/07/01/maxout.html</guid>
-            <pubDate>Mon, 01 Jul 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[TIP
-Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于其它的激活函数，Maxout 本身是需要参数的，参数可以通过网络的反向传播得到学习，相应地，它比其它激活函数有着更好的性能，理论上可以拟合任意凸函数，进而使得网络取得更好的性能
-]]></description>
-            <enclosure url="https://nyakku.moe/../img/Maxout/Maxout01.png">
-            </enclosure>
         </item>
     </channel>
 </rss>
