@@ -4,7 +4,7 @@
         <title>Notev</title>
         <link>https://nyakku.moe</link>
         <description>一个小透明的透明世界</description>
-        <lastBuildDate>Wed, 24 Mar 2021 09:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Mar 2021 10:26:45 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://nyakku.moe/feed.atom" rel="self" type="application/rss+xml"/>
@@ -60,6 +60,17 @@
 但，论文要求里的参考文献格式就很麻烦，国内的倒还好，知网或维普搜一下直接导出后稍作修改就好了，但国外的论文所提供的 cite 与要求的格式相差很多，特别是会议论文，居然还需要填写会议地址，这我哪里知道嘛(⇀‸↼‶)
 所幸我搜到了 ref1，解决了我的燃眉之急ヾ(≧∇≦*)ゝ，这里我先转载一下其内容，并进行部分补充
 ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Data Structures and Algorthms]]></title>
+            <link>https://nyakku.moe/posts/2019/08/21/data-structures-and-algorithms.html</link>
+            <guid>https://nyakku.moe/posts/2019/08/21/data-structures-and-algorithms.html</guid>
+            <pubDate>Wed, 21 Aug 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[TIP
+《数据结构》复习笔记
+]]></description>
+            <enclosure url="https://nyakku.moe/../img/data-structures-and-algorithms/DS01.jpg">
+            </enclosure>
         </item>
         <item>
             <title><![CDATA[Deep Learning]]></title>
@@ -205,17 +216,6 @@ Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于�
 ]]></description>
             <enclosure url="https://nyakku.moe/../img/maxout/maxout-01.png">
             </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[用可爱的插件装饰你的 Vuepress~]]></title>
-            <link>https://nyakku.moe/posts/2019/10/21/moefy-your-vuepress-blog.html</link>
-            <guid>https://nyakku.moe/posts/2019/10/21/moefy-your-vuepress-blog.html</guid>
-            <pubDate>Mon, 21 Oct 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[TIP
-早在一年多以前我就喜欢上了 hexo-theme-sagiri 这个主题（效果可以参见 diygod.me），不过当时还什么都不懂啦，不会用 GitHub ，更不知道这居然是静态博客做出来的效果（如果当时知道那么简单的话，我也许现在用的就是 hexo 了 😂）
-前些日子因为机缘巧合发现了 sagiri 中的彩带背景的开源实现，原来其出自若干年前 Evan 的个人主页背景，之后我试着简单阅读 vuepress-plugin-nest 插件源码，照喵画虎地摹了个 vuepress-plugin-ribbon 插件，居然真的成功了！这使我萌生了把 sagiri 中一些小组件作为 Vuepress 插件实现的想法，之后的几天……
-废话说太多了，还是说说怎么用吧 😂
-]]></description>
         </item>
     </channel>
 </rss>
