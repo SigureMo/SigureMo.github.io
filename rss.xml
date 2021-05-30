@@ -4,7 +4,7 @@
         <title>Notev</title>
         <link>https://nyakku.moe</link>
         <description>一个小透明的透明世界</description>
-        <lastBuildDate>Sun, 30 May 2021 16:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 May 2021 18:32:17 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://nyakku.moe/feed.atom" rel="self" type="application/rss+xml"/>
@@ -47,7 +47,7 @@
             <description><![CDATA[TIP
 《计算机组成原理》复习笔记
 ]]></description>
-            <enclosure url="https://nyakku.moe/../img/computer-organization/PCC05.png">
+            <enclosure url="https://nyakku.moe/../img/computer-organization/PCC22.png">
             </enclosure>
         </item>
         <item>
@@ -214,7 +214,7 @@ KaTeX\KaTeXKATE​X 支持的公式
             <description><![CDATA[TIP
 Maxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于其它的激活函数，Maxout 本身是需要参数的，参数可以通过网络的反向传播得到学习，相应地，它比其它激活函数有着更好的性能，理论上可以拟合任意凸函数，进而使得网络取得更好的性能
 ]]></description>
-            <enclosure url="https://nyakku.moe/../img/maxout/maxout-01.png">
+            <enclosure url="https://nyakku.moe/../img/maxout/maxout-03.png">
             </enclosure>
         </item>
     </channel>

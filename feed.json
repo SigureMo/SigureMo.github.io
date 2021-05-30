@@ -32,7 +32,7 @@
             "url": "https://nyakku.moe/posts/2019/11/17/computer-organization.html",
             "title": "Computer Organization",
             "summary": "TIP\n《计算机组成原理》复习笔记\n",
-            "image": "https://nyakku.moe/../img/computer-organization/PCC05.png",
+            "image": "https://nyakku.moe/../img/computer-organization/PCC22.png",
             "date_modified": "2019-11-17T00:00:00.000Z"
         },
         {
@@ -151,7 +151,7 @@
             "url": "https://nyakku.moe/posts/2019/07/01/maxout.html",
             "title": "Maxout 的简单理解与实现",
             "summary": "TIP\nMaxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于其它的激活函数，Maxout 本身是需要参数的，参数可以通过网络的反向传播得到学习，相应地，它比其它激活函数有着更好的性能，理论上可以拟合任意凸函数，进而使得网络取得更好的性能\n",
-            "image": "https://nyakku.moe/../img/maxout/maxout-01.png",
+            "image": "https://nyakku.moe/../img/maxout/maxout-03.png",
             "date_modified": "2019-07-01T00:00:00.000Z"
         }
     ]
