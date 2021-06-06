@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "9a73b3691be29e41e4385df17557da31"
+    "revision": "74a892a9b9eae3a223ccab4a8808ba26"
   },
   {
     "url": "about.html",
-    "revision": "5e71c73ce4aff2758f9d3e40e687c5d7"
+    "revision": "4597fb3dbd30ef2f7b1519f56bfa48b9"
   },
   {
     "url": "assets/css/0.styles.f23e234c.css",
@@ -1270,8 +1270,8 @@ self.__precacheManifest = [
     "revision": "2f610438b8d52bbee23499bb19cefe45"
   },
   {
-    "url": "assets/js/app.67198698.js",
-    "revision": "6d5f4460bbf2ff6219df023672c95293"
+    "url": "assets/js/app.ec81e128.js",
+    "revision": "bf8985ae5a775abeb9845c743794dbbd"
   },
   {
     "url": "avatar.jpg",
@@ -1283,7 +1283,7 @@ self.__precacheManifest = [
   },
   {
     "url": "friends.html",
-    "revision": "c58dfba962fa23fd2f3fe82c190464be"
+    "revision": "edfbc2b8aa921d4052ccb1fcf38bfd50"
   },
   {
     "url": "icons/favicon144.png",
@@ -1319,11 +1319,11 @@ self.__precacheManifest = [
   },
   {
     "url": "img/index.html",
-    "revision": "4d97ad312f13252dbc40636cd59c49f4"
+    "revision": "d36ad84eac21142289a554231e52e1ab"
   },
   {
     "url": "index.html",
-    "revision": "98845b075f57a7278cd3c7a8fa93d2da"
+    "revision": "dc0384d36a2f3484841af704eec9805f"
   },
   {
     "url": "info-bg.jpg",
@@ -1331,227 +1331,227 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2018/09/16/git-commit-message-convention.html",
-    "revision": "2fc8ebd0d92ce431dd3c8b3fe1ff64bd"
+    "revision": "14a5ded92e32e012845a588d958ab314"
   },
   {
     "url": "posts/2018/10/14/deep-learning.html",
-    "revision": "e62a391f326adefa1c0069b8eb88f628"
+    "revision": "cd3ba4d76274bc43ba0ba9ca8be5ba3c"
   },
   {
     "url": "posts/2019/02/28/operating-system.html",
-    "revision": "5bfc3b800e2630f5aa9a7cc74b5fedba"
+    "revision": "63030cf370c827ec95690347256eb738"
   },
   {
     "url": "posts/2019/05/19/katex-index.html",
-    "revision": "a6249ac900a276833091562f86f2865c"
+    "revision": "0584d384a4d1da6913b1518c5628c2f6"
   },
   {
     "url": "posts/2019/07/01/maxout.html",
-    "revision": "4d32a810867ee571e2fbc2f79465de98"
+    "revision": "089bfbd2ba1992083c844038a591f7a8"
   },
   {
     "url": "posts/2019/08/16/hello-gcn.html",
-    "revision": "bca22149638fc8f25334e1f71e108fe4"
+    "revision": "85426ddaa8905aedeafd36ea79b20efb"
   },
   {
     "url": "posts/2019/08/17/build-blog-by-vuepress.html",
-    "revision": "837245c7f58200e55e0cf6d228f0d049"
+    "revision": "6e47b9c7324f5bbadca924a7260e2c57"
   },
   {
     "url": "posts/2019/08/17/links-in-blog.html",
-    "revision": "1ee36285771016914f8d4a49c770a7ee"
+    "revision": "bcbea4b89e966d3b4d42000a47f398b3"
   },
   {
     "url": "posts/2019/08/21/data-structures-and-algorithms.html",
-    "revision": "2fca8c955722a0eef03d1a681300f0f6"
+    "revision": "f1061f4dd2cf75dc17e836742bff373e"
   },
   {
     "url": "posts/2019/09/18/computer-network.html",
-    "revision": "eefda2f9cfa0f683e74bdc7dc0075812"
+    "revision": "23143f7d7e835cf5ca8e91054a325caa"
   },
   {
     "url": "posts/2019/10/04/c-to-plusplus.html",
-    "revision": "93e47ea29e66194ed572ef250f2c4e3d"
+    "revision": "6f191bc089438737a755a4c663c64592"
   },
   {
     "url": "posts/2019/10/21/moefy-your-vuepress-blog.html",
-    "revision": "bbe17533443d969c653384aade5ebe6a"
+    "revision": "d66dca43f128282f43612fd4eca6deb9"
   },
   {
     "url": "posts/2019/10/26/git-collaboration.html",
-    "revision": "708b47e464e5bf3715527570e84675cd"
+    "revision": "78193fb1e37c5963862e5cfa0e5ea9a5"
   },
   {
     "url": "posts/2019/11/17/computer-organization.html",
-    "revision": "027af575d7f03b89348f8fedb389a617"
+    "revision": "e12c4f27dc520f27d35ce16c9ec10e8c"
   },
   {
     "url": "posts/2020/03/06/install-software-from-source.html",
-    "revision": "cacdc7dab4d4535135a0996079813f52"
+    "revision": "541be88bb9a4f08e4fa0e0fe6867a262"
   },
   {
     "url": "posts/2020/03/06/jupyter-lab.html",
-    "revision": "2f793c527160cc9f10f0d56988accc53"
+    "revision": "f0596fe891db14b70cbbb7aa5f20181d"
   },
   {
     "url": "posts/2020/03/22/simulate-anneal.html",
-    "revision": "f0bb760290b499de95040d6ae52ebd4a"
+    "revision": "96185bda6b6719e61e524dbf13477a28"
   },
   {
     "url": "posts/2020/04/06/first-experience-for-manjaro.html",
-    "revision": "5fa8f32fac341670c6a07e6ea4854608"
+    "revision": "12563569269c2473a236bc822d2f5007"
   },
   {
     "url": "posts/2020/04/08/tensorflow-learning-phase-setting.html",
-    "revision": "910dac2546b68b6944bd722ff4b850a2"
+    "revision": "829f7ecc3f942d552b7f4e9c190ffecb"
   },
   {
     "url": "posts/2020/04/20/conference-location.html",
-    "revision": "035c80138a9eff64a2d7bedfd083e406"
+    "revision": "8af6e4a8f31a8b1d36d5610a890bfff0"
   },
   {
     "url": "posts/2020/05/25/gan-started.html",
-    "revision": "9fc6131610512d0b63262e31f61064cf"
+    "revision": "30d8c9436a9d3bd3ac784fb19886042d"
   },
   {
     "url": "posts/2020/06/12/use-git-filter-repo-clean-git-history.html",
-    "revision": "a685e1307a2837978eb2de507ff250d9"
+    "revision": "517edb35699ad5bd75ddc621af1d6600"
   },
   {
     "url": "posts/2020/06/22/deploy-blog-using-github-action.html",
-    "revision": "3701262c99f424069a9049fe4045800b"
+    "revision": "48d88d6bc7180c8c1459dc718c2435cd"
   },
   {
     "url": "posts/2020/07/08/journey-to-css.html",
-    "revision": "a018b695a36fde05d3d066f5f1ca4084"
+    "revision": "0c8e390de855a83497117101de931afd"
   },
   {
     "url": "posts/2021/01/31/javascript-prototype-chain.html",
-    "revision": "77c97b94c8b24bb84fe56e007e5de622"
+    "revision": "a6db3a3421102c8dd34659fad2831c33"
   },
   {
     "url": "posts/2021/02/10/proxy-and-vue3-reactivity.html",
-    "revision": "dc8bc45b4ac764509952249b2bf4ece5"
+    "revision": "2d01ab08790de8c82b9a7dc54e74c80d"
   },
   {
     "url": "posts/categories/index.html",
-    "revision": "be07511eb9b915ede300fca4e2e2ab13"
+    "revision": "d732c4f8f0e35e23aa2d9e477120d989"
   },
   {
     "url": "posts/categories/思.html",
-    "revision": "6cbcd39770e2ded9fbba1992123aeee9"
+    "revision": "4f798308d66ef22b2b2bced9c9c17cec"
   },
   {
     "url": "posts/categories/游.html",
-    "revision": "6bb7e22ba3eca083bdde1680d86634b4"
+    "revision": "f219319b90afd98447bcaa33d9e380c4"
   },
   {
     "url": "posts/categories/迹.html",
-    "revision": "f56218f219829aa576a8224a93f9f7e4"
+    "revision": "97208b52347615d5da40c4fb8ad4f71d"
   },
   {
     "url": "posts/categories/墨.html",
-    "revision": "5f29ae54d28762413ca4075231936b70"
+    "revision": "24da1b340647f77c9f492b367ea55466"
   },
   {
     "url": "posts/index.html",
-    "revision": "0c7a400e0b373313cdc7e3e77da439d2"
+    "revision": "e66cb4475fe32ba2c9a62c59482b8187"
   },
   {
     "url": "posts/tags/blog.html",
-    "revision": "9333fb624e6924e9cbe0fe62b2c2d256"
+    "revision": "12cc3d783938f07f08c3f48953e3ed0b"
   },
   {
     "url": "posts/tags/C.html",
-    "revision": "3c12e8e31d88df1f31843c2a0edda311"
+    "revision": "57bf4bdcbd50217afc9bfd468718f678"
   },
   {
     "url": "posts/tags/C++.html",
-    "revision": "fc191ecac1c08c17fe3800b730121ffa"
+    "revision": "da314e2f69b025b7b5434cfd4928058b"
   },
   {
     "url": "posts/tags/CI.html",
-    "revision": "e241745680efb577b031bcd52d9d947e"
+    "revision": "d7bdfcd1a56d40b22458ba310286ba9d"
   },
   {
     "url": "posts/tags/CS.html",
-    "revision": "25028c43f7f27fa8005da520e12beaa4"
+    "revision": "7b71e1fa61a61fbc9f75c97fb1f487d7"
   },
   {
     "url": "posts/tags/DL.html",
-    "revision": "eb92e7a84adacb3a68f02b3d64aae5b1"
+    "revision": "772ad3ad3a08b6fa9291212000c64938"
   },
   {
     "url": "posts/tags/front end.html",
-    "revision": "0b521ca19c4d1d58e693f7a2a55f039e"
+    "revision": "7b25461ba08c96020505068225ffe2e7"
   },
   {
     "url": "posts/tags/GAN.html",
-    "revision": "707976b82825b380344379d83166b6d9"
+    "revision": "dccdbe30d73fc7dae1dfcb19d2a3c8de"
   },
   {
     "url": "posts/tags/GCN.html",
-    "revision": "88210a1851e273e5c1c112ddc5226bbd"
+    "revision": "5e52115c3074bce58a757982482a4751"
   },
   {
     "url": "posts/tags/Git.html",
-    "revision": "1fabc5a1eaf9256ec2ca67519459d09f"
+    "revision": "8f5dc0a96b35e161e83a882507c165aa"
   },
   {
     "url": "posts/tags/GitHub.html",
-    "revision": "0e727304fafb68b07515e8ac629d0842"
+    "revision": "16ea7a1beffa699f706bd3aab8e9f001"
   },
   {
     "url": "posts/tags/index.html",
-    "revision": "899928277b21c84fe23850bf1bebf67e"
+    "revision": "238891784631e8fb3f011296792fb58e"
   },
   {
     "url": "posts/tags/JavaScript.html",
-    "revision": "077f980f85f03f83f8479b5c647ee14f"
+    "revision": "1b4567421662e708e8e5585371ec7b69"
   },
   {
     "url": "posts/tags/KaTeX.html",
-    "revision": "cb2e0e445399ed4c00ee1ab58d0b2b22"
+    "revision": "c53dec282711b1d6a683dda8efd87a9a"
   },
   {
     "url": "posts/tags/Linux.html",
-    "revision": "2d8102743f4968e342d685438dce8948"
+    "revision": "0ded91c767fbd48e26baaac4d3653b89"
   },
   {
     "url": "posts/tags/Manjaro.html",
-    "revision": "9a7e89483e878fbb9b5fe8ea5aeb6647"
+    "revision": "648a014912ec5b369369bed53fee110a"
   },
   {
     "url": "posts/tags/ML.html",
-    "revision": "7ec1e48c8f1252bf96b7c999f2b1d445"
+    "revision": "276a55454121da738da96648d6b31bbe"
   },
   {
     "url": "posts/tags/OOC.html",
-    "revision": "faf7e59b45ee5f8d69aed7984361706e"
+    "revision": "ea5121e5cf2e9472b72b232b03fed440"
   },
   {
     "url": "posts/tags/Optimizer.html",
-    "revision": "36293561e6dda49be2acd50bac3ef0ca"
+    "revision": "43a5ff11c0138cac18b09edb28e75833"
   },
   {
     "url": "posts/tags/Python.html",
-    "revision": "bfff6ca7ee63d31141d09cea90db3ceb"
+    "revision": "bb6de9234c21e952a91873907994d3c1"
   },
   {
     "url": "posts/tags/TensorFlow.html",
-    "revision": "994cb19f18dc25c910049a5bf5dfb9a1"
+    "revision": "0e5c1f49c7ed546d1701aabdfaad633e"
   },
   {
     "url": "posts/tags/VCA.html",
-    "revision": "a93eacdb227f45d4c249311723c3e893"
+    "revision": "63ca826ce61e2002a16a2a8b1fc7812e"
   },
   {
     "url": "posts/tags/Vuejs.html",
-    "revision": "7dfda9f9b8b8909670f3f142a778f74a"
+    "revision": "ddf176fedcffe08d22a3f913d7b716d0"
   },
   {
     "url": "posts/tags/Vuepress.html",
-    "revision": "a94c5c865d415468876c5b39686a0f2d"
+    "revision": "e8f014f1c5e08a01b37da7a61027a7d3"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
