@@ -43,14 +43,6 @@
             "date_modified": "2020-04-20T00:00:00.000Z"
         },
         {
-            "id": "https://nyakku.moe/posts/2019/08/21/data-structures-and-algorithms.html",
-            "url": "https://nyakku.moe/posts/2019/08/21/data-structures-and-algorithms.html",
-            "title": "Data Structures and Algorthms",
-            "summary": "TIP\n《数据结构》复习笔记\n",
-            "image": "https://nyakku.moe/../img/data-structures-and-algorithms/DS01.jpg",
-            "date_modified": "2019-08-21T00:00:00.000Z"
-        },
-        {
             "id": "https://nyakku.moe/posts/2018/10/14/deep-learning.html",
             "url": "https://nyakku.moe/posts/2018/10/14/deep-learning.html",
             "title": "Deep Learning",
@@ -153,6 +145,13 @@
             "summary": "TIP\nMaxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于其它的激活函数，Maxout 本身是需要参数的，参数可以通过网络的反向传播得到学习，相应地，它比其它激活函数有着更好的性能，理论上可以拟合任意凸函数，进而使得网络取得更好的性能\n",
             "image": "https://nyakku.moe/../img/maxout/maxout-03.png",
             "date_modified": "2019-07-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2019/10/21/moefy-your-vuepress-blog.html",
+            "url": "https://nyakku.moe/posts/2019/10/21/moefy-your-vuepress-blog.html",
+            "title": "用可爱的插件装饰你的 Vuepress~",
+            "summary": "TIP\n早在一年多以前我就喜欢上了 hexo-theme-sagiri 这个主题（效果可以参见 diygod.me），不过当时还什么都不懂啦，不会用 GitHub ，更不知道这居然是静态博客做出来的效果（如果当时知道那么简单的话，我也许现在用的就是 hexo 了 😂）\n前些日子因为机缘巧合发现了 sagiri 中的彩带背景的开源实现，原来其出自若干年前 Evan 的个人主页背景，之后我试着简单阅读 vuepress-plugin-nest 插件源码，照喵画虎地摹了个 vuepress-plugin-ribbon 插件，居然真的成功了！这使我萌生了把 sagiri 中一些小组件作为 Vuepress 插件实现的想法，之后的几天……\n废话说太多了，还是说说怎么用吧 😂\n",
+            "date_modified": "2019-10-21T00:00:00.000Z"
         }
     ]
 }
