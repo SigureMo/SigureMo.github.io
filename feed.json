@@ -1,0 +1,139 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Notev",
+    "home_page_url": "https://nyakku.moe",
+    "feed_url": "https://nyakku.moe/feed.json",
+    "description": "一个小透明的透明世界",
+    "items": [
+        {
+            "id": "https://nyakku.moe/posts/2023/04/22/decomposing-torch-dynamo.html",
+            "url": "https://nyakku.moe/posts/2023/04/22/decomposing-torch-dynamo.html",
+            "title": "哇，好复杂的 TorchDynamo，我们拆开看看吧～",
+            "summary": "TIP\n最近这一周负责调研 TorchDynamo，唔，也是很久没写博客了嘛，所以就浅记录下，顺便梳理下 Dynamo 中的各个流程和部分细节～\n注意本文最初的动机是调研，因此内容排布上可能对新手不是很友好。因为一直没时间整理优化，暂时先这样了。\n",
+            "image": "https://nyakku.moe/../img/decomposing-torch-dynamo/dynamo-overview.png",
+            "date_modified": "2023-04-22T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2020/04/06/first-experience-for-manjaro.html",
+            "url": "https://nyakku.moe/posts/2020/04/06/first-experience-for-manjaro.html",
+            "title": "Manjaro 初体验",
+            "summary": "TIP\n虽然此前也接触 Linux 很久了，但平时也只是作为备用系统偶尔用用罢了，之前也用过一段时间 deepin，但是有很多细节上有 bug，一段时间后还是将 Windows 作为我的主力系统了。\n前段时间了解到了 Manjaro 这个 Linux 发行版，可以非常方便地安装软件，所以决定尝试一下下～\n",
+            "date_modified": "2020-04-06T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2020/06/22/deploy-blog-using-github-action.html",
+            "url": "https://nyakku.moe/posts/2020/06/22/deploy-blog-using-github-action.html",
+            "title": "采用 GitHub Action 自动化部署博客",
+            "summary": "TIP\n博客的部署往往只需要一行命令，但却需要花费我几分钟在本地的构建时间，完成博客内容后本应该放松放松心情，这几分钟的等待显得尤为惹人生厌\n那么如何解决这个问题呐？当然是自动化部署啦，这样我们每次只需要将写完的博客 Push 到 GitHub 上，就可以触发相应的 CI 以完成博客的自动部署咯，所以这里就介绍如何使用 GitHub Action 来自动化部署博客\n",
+            "date_modified": "2020-06-22T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2020/05/25/gan-started.html",
+            "url": "https://nyakku.moe/posts/2020/05/25/gan-started.html",
+            "title": "初尝 GAN",
+            "summary": "TIP\n最近在 DL 的学习方向上稍有迷茫，毕竟有那么多学习的方向嘛。前两天突然翻出来一张猫猫十年前的照片，但分辨率实在太低啦（240 * 320），就想尝试一下超分辨率相关模型，发现最近超分辨率也在用 GAN 啦，所以，就尝试了解一下～\n",
+            "image": "https://nyakku.moe/../img/gan-started/CGAN-01.png",
+            "date_modified": "2020-05-25T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2019/10/26/git-collaboration.html",
+            "url": "https://nyakku.moe/posts/2019/10/26/git-collaboration.html",
+            "title": "Git 协作模式",
+            "summary": "TIP\n虽然平时写个笔记都会使用 Git 来保存，但常用的也就只有 add、commit、push 等等简单的命令啦，偶尔出点问题都需要去现查，为了提高效率，我在这里整理一下简单的 Git 协作命令，以备不时之需ヽ(✿ ﾟ ▽ ﾟ)ノ\n",
+            "image": "https://nyakku.moe/../img/git-collaboration/git-collaboration01.png",
+            "date_modified": "2019-10-26T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2018/09/16/git-commit-message-convention.html",
+            "url": "https://nyakku.moe/posts/2018/09/16/git-commit-message-convention.html",
+            "title": "Git 提交信息规范",
+            "summary": "TIP\nGit Commit Message 虽然可以随意描述，但使用没有意义的描述对于后续 review 代码以及理解代码用途等方面都会造成巨大的影响。因此 Commit Message 具有意义是最基本的要求，此外，你还应该遵守一定的格式规范，这样能够让大家更快更清晰地了解该 Commit 的详情。这里我主要介绍下常规的 Git Commit 规范和 Gitmoji 规范，最后介绍下我常用的相关配置。\n",
+            "date_modified": "2018-09-16T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2021/01/31/javascript-prototype-chain.html",
+            "url": "https://nyakku.moe/posts/2021/01/31/javascript-prototype-chain.html",
+            "title": "JavaScript 中的“类”与原型链",
+            "summary": "TIP\n虽然早有耳闻 ECMAScript 的“类”并不是真正的类，但此前我一直都是直接按其他面向对象语言的用法直接用来着，不过也没发现什么不同（毕竟其实也没怎么用过 JS 的说 2333）。\n唔，这两天刚好看到了《JavaScript 高级程序设计（第四版）》中的“对象”这一章，就简单整理一下啦～\n",
+            "image": "https://nyakku.moe/../img/javascript-prototype-chain/prototype_01.png",
+            "date_modified": "2021-01-31T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2019/08/16/hello-gcn.html",
+            "url": "https://nyakku.moe/posts/2019/08/16/hello-gcn.html",
+            "title": "初识图卷积神经网络（GCN）",
+            "summary": "TIP\n随着深度学习的快速发展，传统神经网络结构的弊端也日益凸显，无论是 CNNCNNCNN 还是 RNNRNNRNN ，处理的数据仅限于欧式空间，而对于拓扑结构的数据就手足无措了，然而我们我们生活的世界更多的数据还是拓扑结构数据，至于表示拓扑结构的最好方法，非图莫属了，那么如何利用图的结构进行学习呢，下面让我们一探 GCNGCNGCN 的究竟\n",
+            "image": "https://nyakku.moe/../img/hello-gcn/gcn-01.drawio.png",
+            "date_modified": "2019-08-16T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2019/07/01/maxout.html",
+            "url": "https://nyakku.moe/posts/2019/07/01/maxout.html",
+            "title": "Maxout 的简单理解与实现",
+            "summary": "TIP\nMaxout 是 Goodfellow 在 2013 年提出的一个新的激活函数，相比于其它的激活函数，Maxout 本身是需要参数的，参数可以通过网络的反向传播得到学习，相应地，它比其它激活函数有着更好的性能，理论上可以拟合任意凸函数，进而使得网络取得更好的性能\n",
+            "image": "https://nyakku.moe/../img/maxout/maxout-03.png",
+            "date_modified": "2019-07-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2022/01/21/lets-make-a-calculator-using-rust-and-llvm.html",
+            "url": "https://nyakku.moe/posts/2022/01/21/lets-make-a-calculator-using-rust-and-llvm.html",
+            "title": "用 Rust 和 LLVM 写一个计算器吧～",
+            "summary": "TIP\n嘻嘻，因为可能之后要做一些编译相关的东西，所以准备先熟悉一下 LLVM 和 Rust。在 Rust 里有一个比较好用的 Rust 的 safely binding inkwell，在查找 inkwell 的示例时候找到了一个很多功能未完成的 Rusty Calc，因此这次就参考它写一个简简单单的计算器吧～\n",
+            "image": "https://nyakku.moe/../img/lets-make-a-calculator-using-rust-and-llvm/visitor-01.drawio.png",
+            "date_modified": "2022-01-21T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2022/09/21/moefy-paddle-dx-improvements.html",
+            "url": "https://nyakku.moe/posts/2022/09/21/moefy-paddle-dx-improvements.html",
+            "title": "让 Paddle 更可爱——开发者体验提升计划",
+            "summary": "TIP\n乍一看这标题什么鬼嘛？PaddlePaddle 不是一个深度学习框架嘛？这还能强行变可爱嘛？嘿嘿，怎么说呢，目前 Paddle 相对于很多大型开源项目在代码规范上是有一定欠缺的，之前也有尝试过参与一些相关的优化，但如此庞大的一个 Codebase 并不是说随随便便改改就好的啦，所以，便有了本「计划」。（嘿嘿，咱的 moefyit 计划可以在 Paddle 社区开展了呢～）\n",
+            "image": "https://nyakku.moe/../img/moefy-paddle-dx-improvements/workflow.drawio.png",
+            "date_modified": "2022-09-21T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2019/10/21/moefy-your-vuepress-blog.html",
+            "url": "https://nyakku.moe/posts/2019/10/21/moefy-your-vuepress-blog.html",
+            "title": "用可爱的插件装饰你的 VuePress~",
+            "summary": "TIP\n早在一年多以前我就喜欢上了 hexo-theme-sagiri 这个主题（效果可以参见 diygod.me），不过当时还什么都不懂啦，不会用 GitHub ，更不知道这居然是静态博客做出来的效果（如果当时知道那么简单的话，我也许现在用的就是 hexo 了 😂）\n前些日子因为机缘巧合发现了 sagiri 中的彩带背景的开源实现，原来其出自若干年前 Evan 的个人主页背景，之后我试着简单阅读 vuepress-plugin-nest 插件源码，照喵画虎地摹了个 vuepress-plugin-ribbon 插件，居然真的成功了！这使我萌生了把 sagiri 中一些小组件作为 VuePress 插件实现的想法，之后的几天……\n废话说太多了，还是说说怎么用吧 😂\n⚠️ 本文章仅针对 VuePress V1，对于 VuePress V2 及 VitePress 没有太多参考意义\n",
+            "date_modified": "2019-10-21T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2021/02/10/proxy-and-vue3-reactivity.html",
+            "url": "https://nyakku.moe/posts/2021/02/10/proxy-and-vue3-reactivity.html",
+            "title": "Proxy 以及 Vue3 中的响应式",
+            "summary": "TIP\n呜，前两天看完对象那一章之后就开始看 Proxy 那一章了，虽然不难，但总觉得没啥用，难道会有人拿着代理去操作一番嘛？直接操作源数据不香嘛？所以我看了一半就溜了……结果这两天就发现 Vue3 的响应式就是通过 Proxy 实现的……\n",
+            "image": "https://nyakku.moe/../img/proxy-and-vue3-reactivity/proxy_01.drawio.png",
+            "date_modified": "2021-02-10T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2023/08/27/python311-instruction-specializing.html",
+            "url": "https://nyakku.moe/posts/2023/08/27/python311-instruction-specializing.html",
+            "title": "Python 3.11 核心加速原理——指令特化",
+            "summary": "TIP\n近期在做一些 Python 3.11 的适配工作，结果 Python 3.11 的改动实在是太多了，针对一个一个问题解决并不利于理解 Python 3.11 改动的本质，因此这里稍微花了点时间来调研和整理 Python 3.11 的核心变化。\n",
+            "image": "https://nyakku.moe/../img/python311-instruction-specializing/inline-cache.drawio.png",
+            "date_modified": "2023-08-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2020/04/08/tensorflow-learning-phase-setting.html",
+            "url": "https://nyakku.moe/posts/2020/04/08/tensorflow-learning-phase-setting.html",
+            "title": "TensorFlow 踩坑记：训练状态的设置",
+            "summary": "TIP\n虽然说 TensorFlow V2 比 V1 易用性提高了很多，但杂乱的 API 还是让人抓狂，特别是 Keras 中有着多种多样的模型实现方式（最简单的 Sequential、最灵活的 Functional、最规整的 SubClass）以及训练方式（fit 和自己写训练循环），fit 过于封装，有时候想加点东西都挺麻烦，而自己写循环又怕效率较低，也可能会忽略点什么，果不其然，最近又发现了训练状态的设置问题，于是它差点又把我推向了 PyTorch 的怀抱\n",
+            "date_modified": "2020-04-08T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2020/03/22/simulate-anneal.html",
+            "url": "https://nyakku.moe/posts/2020/03/22/simulate-anneal.html",
+            "title": "模拟退火算法",
+            "summary": "TIP\n神经网络优化的最大难题就是很容易陷入局部最优，前段时间考虑神经网络优化方法的时候偶然考虑到了这样一个问题：能量为什么总是能达到最低呢？该问题促使我展开了一系列的思（xia）考（xiang），当然，瞎想也没想出个啥，直到今天遇到了模拟退火算法……\n",
+            "image": "https://nyakku.moe/../img/simulate-anneal/SPT02.png",
+            "date_modified": "2020-03-22T00:00:00.000Z"
+        },
+        {
+            "id": "https://nyakku.moe/posts/2020/06/12/use-git-filter-repo-clean-git-history.html",
+            "url": "https://nyakku.moe/posts/2020/06/12/use-git-filter-repo-clean-git-history.html",
+            "title": "使用 git-filter-repo 清理 git 历史记录",
+            "summary": "TIP\nGit 并不适合管理二进制文件，但有些情况下又不得不添加一些图片之类的二进制文件，但一旦频繁更改的话，历史记录中将记录着每一个完整的二进制文件，导致 repo 越来越大……为了解决该问题，往往需要一些针对二进制文件的处理手段\n",
+            "date_modified": "2020-06-12T00:00:00.000Z"
+        }
+    ]
+}
