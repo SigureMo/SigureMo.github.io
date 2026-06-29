@@ -1,0 +1,1 @@
+import"./translation.BKwus3JV.js";function e(e,t){return e.replace(/^\/|\/$/g,``).toLowerCase()===t.replace(/^\/|\/$/g,``).toLowerCase()}function t(...e){return e.join(`/`).replace(/\/+/g,`/`)}function n(e){return r(`/posts/${e}/`)}function r(e){return t(``,`/`,e)}export{e as n,r,n as t};
