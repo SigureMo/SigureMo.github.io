@@ -1,0 +1,1 @@
+import{W as e}from"./client.G2Fuvp_A.js";e();
