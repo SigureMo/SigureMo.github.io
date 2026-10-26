@@ -1,0 +1,1 @@
+export{t as default}from"./Swup.modern.B8tanr2p.js";
