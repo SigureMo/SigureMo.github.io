@@ -1,0 +1,1 @@
+import{G as e}from"./client.DHypi_uE.js";e();
